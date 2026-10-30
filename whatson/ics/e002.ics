@@ -1,0 +1,48 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//TaleTellers Ltd//PGL Linlithgowshire concept demo//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Fellow Craft degree\, worked jointly
+X-WR-TIMEZONE:Europe/London
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+X-WR-CALDESC:Concept demo by TaleTellers Ltd with sample data. Not the offi
+ cial calendar of the Provincial Grand Lodge of Linlithgowshire.
+BEGIN:VTIMEZONE
+TZID:Europe/London
+X-LIC-LOCATION:Europe/London
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:BST
+DTSTART:19700329T010000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:GMT
+DTSTART:19701025T020000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:e002@pgl-linlithgowshire-demo
+DTSTAMP:20261030T142030Z
+DTSTART;VALUE=DATE:20261029
+DTEND;VALUE=DATE:20261030
+SUMMARY:(To be confirmed) Fellow Craft degree\, worked jointly\, Buchan St 
+ John No. 636
+LOCATION:Broxburn Bowling Club\, West Burnside\, Broxburn EH52 5RG
+DESCRIPTION:Degree. Buchan St John No. 636.\nWith St John Stoneyburn No. 11
+ 86\nTime to be confirmed.\nThe calendar entry mentions a three-way arrange
+ ment but names only two lodges. To be confirmed.\nConcept demo by TaleTell
+ ers Ltd with sample data: confirm with the lodge secretary before travelli
+ ng.
+URL:https://thescar4295.github.io/pgl-linlithgowshire-demo/636/
+STATUS:TENTATIVE
+CATEGORIES:degree
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR

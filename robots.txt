@@ -1,0 +1,3 @@
+# Concept demo by TaleTellers Ltd. Not the official website of the Provincial Grand Lodge of Linlithgowshire.
+User-agent: *
+Disallow: /

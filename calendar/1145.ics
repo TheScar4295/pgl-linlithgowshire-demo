@@ -1,0 +1,205 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//TaleTellers Ltd//PGL Linlithgowshire concept demo//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Blackridge No. 1145 (demo)
+X-WR-TIMEZONE:Europe/London
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+X-WR-CALDESC:Concept demo by TaleTellers Ltd with sample data. Not the offi
+ cial calendar of the Provincial Grand Lodge of Linlithgowshire.
+BEGIN:VTIMEZONE
+TZID:Europe/London
+X-LIC-LOCATION:Europe/London
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:BST
+DTSTART:19700329T010000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:GMT
+DTSTART:19701025T020000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:m-1145-20260908@pgl-linlithgowshire-demo
+DTSTAMP:20261030T142030Z
+DTSTART;TZID=Europe/London:20260908T193000
+DTEND;TZID=Europe/London:20260908T220000
+SUMMARY:Regular meeting\, Blackridge No. 1145
+LOCATION:Masonic Hall\, 51 South Street\, Armadale EH48 3ET
+DESCRIPTION:Regular meeting. Blackridge No. 1145.\nTime is the lodge’s us
+ ual meeting time (7.30pm).\nMeets 2nd Tuesday\, September to April\, 7.30p
+ m.\nConcept demo by TaleTellers Ltd with sample data: confirm with the lod
+ ge secretary before travelling.
+URL:https://thescar4295.github.io/pgl-linlithgowshire-demo/1145/
+STATUS:CONFIRMED
+CATEGORIES:regular
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1145-20261013@pgl-linlithgowshire-demo
+DTSTAMP:20261030T142030Z
+DTSTART;TZID=Europe/London:20261013T193000
+DTEND;TZID=Europe/London:20261013T220000
+SUMMARY:Regular meeting\, Blackridge No. 1145
+LOCATION:Masonic Hall\, 51 South Street\, Armadale EH48 3ET
+DESCRIPTION:Regular meeting. Blackridge No. 1145.\nTime is the lodge’s us
+ ual meeting time (7.30pm).\nMeets 2nd Tuesday\, September to April\, 7.30p
+ m.\nConcept demo by TaleTellers Ltd with sample data: confirm with the lod
+ ge secretary before travelling.
+URL:https://thescar4295.github.io/pgl-linlithgowshire-demo/1145/
+STATUS:CONFIRMED
+CATEGORIES:regular
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1145-20261110@pgl-linlithgowshire-demo
+DTSTAMP:20261030T142030Z
+DTSTART;TZID=Europe/London:20261110T193000
+DTEND;TZID=Europe/London:20261110T220000
+SUMMARY:Entered Apprentice degree\, Blackridge No. 1145
+LOCATION:Masonic Hall\, 51 South Street\, Armadale EH48 3ET
+DESCRIPTION:Degree. Blackridge No. 1145.\nTime is the lodge’s usual meeti
+ ng time (7.30pm).\nConcept demo by TaleTellers Ltd with sample data: confi
+ rm with the lodge secretary before travelling.
+URL:https://thescar4295.github.io/pgl-linlithgowshire-demo/1145/
+STATUS:CONFIRMED
+CATEGORIES:degree
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1145-20261208@pgl-linlithgowshire-demo
+DTSTAMP:20261030T142030Z
+DTSTART;TZID=Europe/London:20261208T193000
+DTEND;TZID=Europe/London:20261208T220000
+SUMMARY:Regular meeting\, Blackridge No. 1145
+LOCATION:Masonic Hall\, 51 South Street\, Armadale EH48 3ET
+DESCRIPTION:Regular meeting. Blackridge No. 1145.\nTime is the lodge’s us
+ ual meeting time (7.30pm).\nMeets 2nd Tuesday\, September to April\, 7.30p
+ m.\nConcept demo by TaleTellers Ltd with sample data: confirm with the lod
+ ge secretary before travelling.
+URL:https://thescar4295.github.io/pgl-linlithgowshire-demo/1145/
+STATUS:CONFIRMED
+CATEGORIES:regular
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:i-1145-20261212@pgl-linlithgowshire-demo
+DTSTAMP:20261030T142030Z
+DTSTART;TZID=Europe/London:20261212T140000
+DTEND;TZID=Europe/London:20261212T180000
+SUMMARY:Installation of office-bearers\, Blackridge No. 1145
+LOCATION:Masonic Hall\, 51 South Street\, Armadale EH48 3ET
+DESCRIPTION:Installation. Blackridge No. 1145.\nConcept demo by TaleTellers
+  Ltd with sample data: confirm with the lodge secretary before travelling.
+URL:https://thescar4295.github.io/pgl-linlithgowshire-demo/1145/
+STATUS:CONFIRMED
+CATEGORIES:installation
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1145-20270112@pgl-linlithgowshire-demo
+DTSTAMP:20261030T142030Z
+DTSTART;TZID=Europe/London:20270112T193000
+DTEND;TZID=Europe/London:20270112T220000
+SUMMARY:Regular meeting\, Blackridge No. 1145
+LOCATION:Masonic Hall\, 51 South Street\, Armadale EH48 3ET
+DESCRIPTION:Regular meeting. Blackridge No. 1145.\nTime is the lodge’s us
+ ual meeting time (7.30pm).\nMeets 2nd Tuesday\, September to April\, 7.30p
+ m.\nConcept demo by TaleTellers Ltd with sample data: confirm with the lod
+ ge secretary before travelling.
+URL:https://thescar4295.github.io/pgl-linlithgowshire-demo/1145/
+STATUS:CONFIRMED
+CATEGORIES:regular
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:m-374-20270128@pgl-linlithgowshire-demo
+DTSTAMP:20261030T142030Z
+DTSTART;TZID=Europe/London:20270128T193000
+DTEND;TZID=Europe/London:20270128T220000
+SUMMARY:Fellow Craft degree\, St John Crofthead No. 374
+LOCATION:Masonic Hall\, 6 Bridge Street\, Fauldhouse EH47 9AY
+DESCRIPTION:Degree. St John Crofthead No. 374.\nWith Blackridge No. 1145\nT
+ ime is the lodge’s usual meeting time (7.30pm).\nConferred by a team fro
+ m Blackridge No. 1145.\nConcept demo by TaleTellers Ltd with sample data: 
+ confirm with the lodge secretary before travelling.
+URL:https://thescar4295.github.io/pgl-linlithgowshire-demo/374/
+STATUS:CONFIRMED
+CATEGORIES:degree
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:m-590-20270203@pgl-linlithgowshire-demo
+DTSTAMP:20261030T142030Z
+DTSTART;TZID=Europe/London:20270203T190000
+DTEND;TZID=Europe/London:20270203T213000
+SUMMARY:(To be confirmed) Degree conferred by Blackridge\, St James Harthil
+ l No. 590
+LOCATION:30 Social Club\, Off West Main Street\, Harthill
+DESCRIPTION:Degree. St James Harthill No. 590.\nWith Blackridge No. 1145\nT
+ ime is the lodge’s usual meeting time (7pm).\nConferred by a team from B
+ lackridge No. 1145. Which degree is to be confirmed.\nConcept demo by Tale
+ Tellers Ltd with sample data: confirm with the lodge secretary before trav
+ elling.
+URL:https://thescar4295.github.io/pgl-linlithgowshire-demo/590/
+STATUS:TENTATIVE
+CATEGORIES:degree
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1145-20270209@pgl-linlithgowshire-demo
+DTSTAMP:20261030T142030Z
+DTSTART;TZID=Europe/London:20270209T193000
+DTEND;TZID=Europe/London:20270209T220000
+SUMMARY:Regular meeting\, Blackridge No. 1145
+LOCATION:Masonic Hall\, 51 South Street\, Armadale EH48 3ET
+DESCRIPTION:Regular meeting. Blackridge No. 1145.\nTime is the lodge’s us
+ ual meeting time (7.30pm).\nMeets 2nd Tuesday\, September to April\, 7.30p
+ m.\nConcept demo by TaleTellers Ltd with sample data: confirm with the lod
+ ge secretary before travelling.
+URL:https://thescar4295.github.io/pgl-linlithgowshire-demo/1145/
+STATUS:CONFIRMED
+CATEGORIES:regular
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1145-20270309@pgl-linlithgowshire-demo
+DTSTAMP:20261030T142030Z
+DTSTART;TZID=Europe/London:20270309T193000
+DTEND;TZID=Europe/London:20270309T220000
+SUMMARY:Regular meeting\, Blackridge No. 1145
+LOCATION:Masonic Hall\, 51 South Street\, Armadale EH48 3ET
+DESCRIPTION:Regular meeting. Blackridge No. 1145.\nTime is the lodge’s us
+ ual meeting time (7.30pm).\nMeets 2nd Tuesday\, September to April\, 7.30p
+ m.\nConcept demo by TaleTellers Ltd with sample data: confirm with the lod
+ ge secretary before travelling.
+URL:https://thescar4295.github.io/pgl-linlithgowshire-demo/1145/
+STATUS:CONFIRMED
+CATEGORIES:regular
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1145-20270413@pgl-linlithgowshire-demo
+DTSTAMP:20261030T142030Z
+DTSTART;TZID=Europe/London:20270413T193000
+DTEND;TZID=Europe/London:20270413T220000
+SUMMARY:Regular meeting\, Blackridge No. 1145
+LOCATION:Masonic Hall\, 51 South Street\, Armadale EH48 3ET
+DESCRIPTION:Regular meeting. Blackridge No. 1145.\nTime is the lodge’s us
+ ual meeting time (7.30pm).\nMeets 2nd Tuesday\, September to April\, 7.30p
+ m.\nConcept demo by TaleTellers Ltd with sample data: confirm with the lod
+ ge secretary before travelling.
+URL:https://thescar4295.github.io/pgl-linlithgowshire-demo/1145/
+STATUS:CONFIRMED
+CATEGORIES:regular
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,256 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//TaleTellers Ltd//PGL Linlithgowshire concept demo//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Almondale No. 1658 (demo)
+X-WR-TIMEZONE:Europe/London
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+X-WR-CALDESC:Concept demo by TaleTellers Ltd with sample data. Not the offi
+ cial calendar of the Provincial Grand Lodge of Linlithgowshire.
+BEGIN:VTIMEZONE
+TZID:Europe/London
+X-LIC-LOCATION:Europe/London
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:BST
+DTSTART:19700329T010000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:GMT
+DTSTART:19701025T020000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:m-1658-20260904@pgl-linlithgowshire-demo
+DTSTAMP:20261030T142030Z
+DTSTART;TZID=Europe/London:20260904T193000
+DTEND;TZID=Europe/London:20260904T220000
+SUMMARY:Regular meeting\, Almondale No. 1658
+LOCATION:Masonic Hall\, Craigshill Road West\, Livingston
+DESCRIPTION:Regular meeting. Almondale No. 1658.\nTime is the lodge’s usu
+ al meeting time (7.30pm).\nMeets 1st Friday\, every month\, 7.30pm.\nConce
+ pt demo by TaleTellers Ltd with sample data: confirm with the lodge secret
+ ary before travelling.
+URL:https://thescar4295.github.io/pgl-linlithgowshire-demo/1658/
+STATUS:CONFIRMED
+CATEGORIES:regular
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1658-20261002@pgl-linlithgowshire-demo
+DTSTAMP:20261030T142030Z
+DTSTART;TZID=Europe/London:20261002T193000
+DTEND;TZID=Europe/London:20261002T220000
+SUMMARY:Regular meeting\, Almondale No. 1658
+LOCATION:Masonic Hall\, Craigshill Road West\, Livingston
+DESCRIPTION:Regular meeting. Almondale No. 1658.\nTime is the lodge’s usu
+ al meeting time (7.30pm).\nMeets 1st Friday\, every month\, 7.30pm.\nConce
+ pt demo by TaleTellers Ltd with sample data: confirm with the lodge secret
+ ary before travelling.
+URL:https://thescar4295.github.io/pgl-linlithgowshire-demo/1658/
+STATUS:CONFIRMED
+CATEGORIES:regular
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1658-20261106@pgl-linlithgowshire-demo
+DTSTAMP:20261030T142030Z
+DTSTART;TZID=Europe/London:20261106T193000
+DTEND;TZID=Europe/London:20261106T220000
+SUMMARY:Master Mason degree\, Almondale No. 1658
+LOCATION:Masonic Hall\, Craigshill Road West\, Livingston
+DESCRIPTION:Degree. Almondale No. 1658.\nTime is the lodge’s usual meetin
+ g time (7.30pm).\nConcept demo by TaleTellers Ltd with sample data: confir
+ m with the lodge secretary before travelling.
+URL:https://thescar4295.github.io/pgl-linlithgowshire-demo/1658/
+STATUS:CONFIRMED
+CATEGORIES:degree
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:e021@pgl-linlithgowshire-demo
+DTSTAMP:20261030T142030Z
+DTSTART;TZID=Europe/London:20261118T190000
+DTEND;TZID=Europe/London:20261118T210000
+SUMMARY:Provincial Grand Committee
+LOCATION:Masonic Hall\, Craigshill Road West\, Livingston
+DESCRIPTION:Provincial committee. Provincial Grand Lodge.\nHeld in Almondal
+ e’s hall\, Livingston.\nCommittee members.\nConcept demo by TaleTellers 
+ Ltd with sample data: confirm with the lodge secretary before travelling.
+URL:https://thescar4295.github.io/pgl-linlithgowshire-demo/whatson/
+STATUS:CONFIRMED
+CATEGORIES:committee
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1658-20261204@pgl-linlithgowshire-demo
+DTSTAMP:20261030T142030Z
+DTSTART;TZID=Europe/London:20261204T193000
+DTEND;TZID=Europe/London:20261204T213000
+SUMMARY:Annual general meeting\, Almondale No. 1658
+LOCATION:Masonic Hall\, Craigshill Road West\, Livingston
+DESCRIPTION:Annual meeting. Almondale No. 1658.\nTime is the lodge’s usua
+ l meeting time (7.30pm).\nMembers only.\nConcept demo by TaleTellers Ltd w
+ ith sample data: confirm with the lodge secretary before travelling.
+URL:https://thescar4295.github.io/pgl-linlithgowshire-demo/1658/
+STATUS:CONFIRMED
+CATEGORIES:agm
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1658-20270101@pgl-linlithgowshire-demo
+DTSTAMP:20261030T142030Z
+DTSTART;TZID=Europe/London:20270101T193000
+DTEND;TZID=Europe/London:20270101T220000
+SUMMARY:Regular meeting\, Almondale No. 1658
+LOCATION:Masonic Hall\, Craigshill Road West\, Livingston
+DESCRIPTION:Regular meeting. Almondale No. 1658.\nTime is the lodge’s usu
+ al meeting time (7.30pm).\nMeets 1st Friday\, every month\, 7.30pm.\nConce
+ pt demo by TaleTellers Ltd with sample data: confirm with the lodge secret
+ ary before travelling.
+URL:https://thescar4295.github.io/pgl-linlithgowshire-demo/1658/
+STATUS:CONFIRMED
+CATEGORIES:regular
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1658-20270205@pgl-linlithgowshire-demo
+DTSTAMP:20261030T142030Z
+DTSTART;TZID=Europe/London:20270205T193000
+DTEND;TZID=Europe/London:20270205T220000
+SUMMARY:Regular meeting\, Almondale No. 1658
+LOCATION:Masonic Hall\, Craigshill Road West\, Livingston
+DESCRIPTION:Regular meeting. Almondale No. 1658.\nTime is the lodge’s usu
+ al meeting time (7.30pm).\nMeets 1st Friday\, every month\, 7.30pm.\nConce
+ pt demo by TaleTellers Ltd with sample data: confirm with the lodge secret
+ ary before travelling.
+URL:https://thescar4295.github.io/pgl-linlithgowshire-demo/1658/
+STATUS:CONFIRMED
+CATEGORIES:regular
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1658-20270305@pgl-linlithgowshire-demo
+DTSTAMP:20261030T142030Z
+DTSTART;TZID=Europe/London:20270305T193000
+DTEND;TZID=Europe/London:20270305T220000
+SUMMARY:Regular meeting\, Almondale No. 1658
+LOCATION:Masonic Hall\, Craigshill Road West\, Livingston
+DESCRIPTION:Regular meeting. Almondale No. 1658.\nTime is the lodge’s usu
+ al meeting time (7.30pm).\nMeets 1st Friday\, every month\, 7.30pm.\nConce
+ pt demo by TaleTellers Ltd with sample data: confirm with the lodge secret
+ ary before travelling.
+URL:https://thescar4295.github.io/pgl-linlithgowshire-demo/1658/
+STATUS:CONFIRMED
+CATEGORIES:regular
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:i-1658-20270306@pgl-linlithgowshire-demo
+DTSTAMP:20261030T142030Z
+DTSTART;TZID=Europe/London:20270306T140000
+DTEND;TZID=Europe/London:20270306T180000
+SUMMARY:(To be confirmed) Installation of office-bearers\, Almondale No. 16
+ 58
+LOCATION:Masonic Hall\, Craigshill Road West\, Livingston
+DESCRIPTION:Installation. Almondale No. 1658.\nDate taken from the lodge’
+ s usual pattern\; to be confirmed by the lodge.\nConcept demo by TaleTelle
+ rs Ltd with sample data: confirm with the lodge secretary before travellin
+ g.
+URL:https://thescar4295.github.io/pgl-linlithgowshire-demo/1658/
+STATUS:TENTATIVE
+CATEGORIES:installation
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1658-20270402@pgl-linlithgowshire-demo
+DTSTAMP:20261030T142030Z
+DTSTART;TZID=Europe/London:20270402T193000
+DTEND;TZID=Europe/London:20270402T220000
+SUMMARY:Regular meeting\, Almondale No. 1658
+LOCATION:Masonic Hall\, Craigshill Road West\, Livingston
+DESCRIPTION:Regular meeting. Almondale No. 1658.\nTime is the lodge’s usu
+ al meeting time (7.30pm).\nMeets 1st Friday\, every month\, 7.30pm.\nConce
+ pt demo by TaleTellers Ltd with sample data: confirm with the lodge secret
+ ary before travelling.
+URL:https://thescar4295.github.io/pgl-linlithgowshire-demo/1658/
+STATUS:CONFIRMED
+CATEGORIES:regular
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1658-20270507@pgl-linlithgowshire-demo
+DTSTAMP:20261030T142030Z
+DTSTART;TZID=Europe/London:20270507T193000
+DTEND;TZID=Europe/London:20270507T220000
+SUMMARY:(To be confirmed) Regular meeting\, Almondale No. 1658
+LOCATION:Masonic Hall\, Craigshill Road West\, Livingston
+DESCRIPTION:Regular meeting. Almondale No. 1658.\nTime is the lodge’s usu
+ al meeting time (7.30pm).\nMeets 1st Friday\, every month\, 7.30pm.\nSeaso
+ n to be confirmed: the lodge page reads as all year (April to March)\, so 
+ the summer meetings may not happen.\nConcept demo by TaleTellers Ltd with 
+ sample data: confirm with the lodge secretary before travelling.
+URL:https://thescar4295.github.io/pgl-linlithgowshire-demo/1658/
+STATUS:TENTATIVE
+CATEGORIES:regular
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1658-20270604@pgl-linlithgowshire-demo
+DTSTAMP:20261030T142030Z
+DTSTART;TZID=Europe/London:20270604T193000
+DTEND;TZID=Europe/London:20270604T220000
+SUMMARY:(To be confirmed) Regular meeting\, Almondale No. 1658
+LOCATION:Masonic Hall\, Craigshill Road West\, Livingston
+DESCRIPTION:Regular meeting. Almondale No. 1658.\nTime is the lodge’s usu
+ al meeting time (7.30pm).\nMeets 1st Friday\, every month\, 7.30pm.\nSeaso
+ n to be confirmed: the lodge page reads as all year (April to March)\, so 
+ the summer meetings may not happen.\nConcept demo by TaleTellers Ltd with 
+ sample data: confirm with the lodge secretary before travelling.
+URL:https://thescar4295.github.io/pgl-linlithgowshire-demo/1658/
+STATUS:TENTATIVE
+CATEGORIES:regular
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1658-20270702@pgl-linlithgowshire-demo
+DTSTAMP:20261030T142030Z
+DTSTART;TZID=Europe/London:20270702T193000
+DTEND;TZID=Europe/London:20270702T220000
+SUMMARY:(To be confirmed) Regular meeting\, Almondale No. 1658
+LOCATION:Masonic Hall\, Craigshill Road West\, Livingston
+DESCRIPTION:Regular meeting. Almondale No. 1658.\nTime is the lodge’s usu
+ al meeting time (7.30pm).\nMeets 1st Friday\, every month\, 7.30pm.\nSeaso
+ n to be confirmed: the lodge page reads as all year (April to March)\, so 
+ the summer meetings may not happen.\nConcept demo by TaleTellers Ltd with 
+ sample data: confirm with the lodge secretary before travelling.
+URL:https://thescar4295.github.io/pgl-linlithgowshire-demo/1658/
+STATUS:TENTATIVE
+CATEGORIES:regular
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1658-20270806@pgl-linlithgowshire-demo
+DTSTAMP:20261030T142030Z
+DTSTART;TZID=Europe/London:20270806T193000
+DTEND;TZID=Europe/London:20270806T220000
+SUMMARY:(To be confirmed) Regular meeting\, Almondale No. 1658
+LOCATION:Masonic Hall\, Craigshill Road West\, Livingston
+DESCRIPTION:Regular meeting. Almondale No. 1658.\nTime is the lodge’s usu
+ al meeting time (7.30pm).\nMeets 1st Friday\, every month\, 7.30pm.\nSeaso
+ n to be confirmed: the lodge page reads as all year (April to March)\, so 
+ the summer meetings may not happen.\nConcept demo by TaleTellers Ltd with 
+ sample data: confirm with the lodge secretary before travelling.
+URL:https://thescar4295.github.io/pgl-linlithgowshire-demo/1658/
+STATUS:TENTATIVE
+CATEGORIES:regular
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR

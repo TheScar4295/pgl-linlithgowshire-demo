@@ -1,0 +1,70 @@
+{
+  "id": "/pgl-linlithgowshire-demo/",
+  "name": "Provincial Grand Lodge of Linlithgowshire",
+  "short_name": "PGL Lodges",
+  "description": "What’s On, the lodges and reminders from the Provincial Grand Lodge of Linlithgowshire (concept demo by TaleTellers Ltd).",
+  "lang": "en-GB",
+  "dir": "ltr",
+  "start_url": "/pgl-linlithgowshire-demo/",
+  "scope": "/pgl-linlithgowshire-demo/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "theme_color": "#0e3f1f",
+  "background_color": "#fff3de",
+  "categories": [
+    "lifestyle",
+    "social"
+  ],
+  "icons": [
+    {
+      "src": "/pgl-linlithgowshire-demo/icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/pgl-linlithgowshire-demo/icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/pgl-linlithgowshire-demo/icons/maskable-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/pgl-linlithgowshire-demo/icons/maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "What’s On",
+      "short_name": "What’s On",
+      "url": "/pgl-linlithgowshire-demo/whatson/",
+      "icons": [
+        {
+          "src": "/pgl-linlithgowshire-demo/icons/icon-192.png",
+          "sizes": "192x192",
+          "type": "image/png"
+        }
+      ]
+    },
+    {
+      "name": "Reminders and notices",
+      "short_name": "Reminders",
+      "url": "/pgl-linlithgowshire-demo/app/#reminders",
+      "icons": [
+        {
+          "src": "/pgl-linlithgowshire-demo/icons/icon-192.png",
+          "sizes": "192x192",
+          "type": "image/png"
+        }
+      ]
+    }
+  ]
+}

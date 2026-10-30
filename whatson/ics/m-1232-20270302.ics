@@ -1,0 +1,46 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//TaleTellers Ltd//PGL Linlithgowshire concept demo//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Regular meeting
+X-WR-TIMEZONE:Europe/London
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+X-WR-CALDESC:Concept demo by TaleTellers Ltd with sample data. Not the offi
+ cial calendar of the Provincial Grand Lodge of Linlithgowshire.
+BEGIN:VTIMEZONE
+TZID:Europe/London
+X-LIC-LOCATION:Europe/London
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:BST
+DTSTART:19700329T010000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:GMT
+DTSTART:19701025T020000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:m-1232-20270302@pgl-linlithgowshire-demo
+DTSTAMP:20261030T142030Z
+DTSTART;TZID=Europe/London:20270302T193000
+DTEND;TZID=Europe/London:20270302T220000
+SUMMARY:Regular meeting\, Hopetoun St John No. 1232
+LOCATION:Masonic Hall\, Market Lane\, Linlithgow EH49 7AJ
+DESCRIPTION:Regular meeting. Hopetoun St John No. 1232.\nTime is the lodge
+ ’s usual meeting time (7.30pm).\nMeets 1st Tuesday\, September to April\
+ , 7.30pm.\nConcept demo by TaleTellers Ltd with sample data: confirm with 
+ the lodge secretary before travelling.
+URL:https://thescar4295.github.io/pgl-linlithgowshire-demo/1232/
+STATUS:CONFIRMED
+CATEGORIES:regular
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR

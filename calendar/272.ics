@@ -1,0 +1,302 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//TaleTellers Ltd//PGL Linlithgowshire concept demo//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:St John Mid Calder No. 272 (demo)
+X-WR-TIMEZONE:Europe/London
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+X-WR-CALDESC:Concept demo by TaleTellers Ltd with sample data. Not the offi
+ cial calendar of the Provincial Grand Lodge of Linlithgowshire.
+BEGIN:VTIMEZONE
+TZID:Europe/London
+X-LIC-LOCATION:Europe/London
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:BST
+DTSTART:19700329T010000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:GMT
+DTSTART:19701025T020000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:m-272-20260901@pgl-linlithgowshire-demo
+DTSTAMP:20261030T142030Z
+DTSTART;TZID=Europe/London:20260901T190000
+DTEND;TZID=Europe/London:20260901T213000
+SUMMARY:Regular meeting\, St John Mid Calder No. 272
+LOCATION:Masonic Hall\, Bank Street\, Mid Calder EH53 0AR
+DESCRIPTION:Regular meeting. St John Mid Calder No. 272.\nTime is the lodge
+ ’s usual meeting time (7pm).\nMeets 1st and 3rd Tuesday\, September to A
+ pril\, 7pm.\nConcept demo by TaleTellers Ltd with sample data: confirm wit
+ h the lodge secretary before travelling.
+URL:https://thescar4295.github.io/pgl-linlithgowshire-demo/272/
+STATUS:CONFIRMED
+CATEGORIES:regular
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:m-272-20260915@pgl-linlithgowshire-demo
+DTSTAMP:20261030T142030Z
+DTSTART;TZID=Europe/London:20260915T190000
+DTEND;TZID=Europe/London:20260915T213000
+SUMMARY:Regular meeting\, St John Mid Calder No. 272
+LOCATION:Masonic Hall\, Bank Street\, Mid Calder EH53 0AR
+DESCRIPTION:Regular meeting. St John Mid Calder No. 272.\nTime is the lodge
+ ’s usual meeting time (7pm).\nMeets 1st and 3rd Tuesday\, September to A
+ pril\, 7pm.\nConcept demo by TaleTellers Ltd with sample data: confirm wit
+ h the lodge secretary before travelling.
+URL:https://thescar4295.github.io/pgl-linlithgowshire-demo/272/
+STATUS:CONFIRMED
+CATEGORIES:regular
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:m-272-20261006@pgl-linlithgowshire-demo
+DTSTAMP:20261030T142030Z
+DTSTART;TZID=Europe/London:20261006T190000
+DTEND;TZID=Europe/London:20261006T213000
+SUMMARY:Regular meeting\, St John Mid Calder No. 272
+LOCATION:Masonic Hall\, Bank Street\, Mid Calder EH53 0AR
+DESCRIPTION:Regular meeting. St John Mid Calder No. 272.\nTime is the lodge
+ ’s usual meeting time (7pm).\nMeets 1st and 3rd Tuesday\, September to A
+ pril\, 7pm.\nConcept demo by TaleTellers Ltd with sample data: confirm wit
+ h the lodge secretary before travelling.
+URL:https://thescar4295.github.io/pgl-linlithgowshire-demo/272/
+STATUS:CONFIRMED
+CATEGORIES:regular
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:m-272-20261020@pgl-linlithgowshire-demo
+DTSTAMP:20261030T142030Z
+DTSTART;TZID=Europe/London:20261020T190000
+DTEND;TZID=Europe/London:20261020T213000
+SUMMARY:Regular meeting\, St John Mid Calder No. 272
+LOCATION:Masonic Hall\, Bank Street\, Mid Calder EH53 0AR
+DESCRIPTION:Regular meeting. St John Mid Calder No. 272.\nTime is the lodge
+ ’s usual meeting time (7pm).\nMeets 1st and 3rd Tuesday\, September to A
+ pril\, 7pm.\nConcept demo by TaleTellers Ltd with sample data: confirm wit
+ h the lodge secretary before travelling.
+URL:https://thescar4295.github.io/pgl-linlithgowshire-demo/272/
+STATUS:CONFIRMED
+CATEGORIES:regular
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:m-272-20261103@pgl-linlithgowshire-demo
+DTSTAMP:20261030T142030Z
+DTSTART;TZID=Europe/London:20261103T190000
+DTEND;TZID=Europe/London:20261103T213000
+SUMMARY:Regular meeting\, St John Mid Calder No. 272
+LOCATION:Masonic Hall\, Bank Street\, Mid Calder EH53 0AR
+DESCRIPTION:Regular meeting. St John Mid Calder No. 272.\nTime is the lodge
+ ’s usual meeting time (7pm).\nMeets 1st and 3rd Tuesday\, September to A
+ pril\, 7pm.\nConcept demo by TaleTellers Ltd with sample data: confirm wit
+ h the lodge secretary before travelling.
+URL:https://thescar4295.github.io/pgl-linlithgowshire-demo/272/
+STATUS:CONFIRMED
+CATEGORIES:regular
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:m-272-20261117@pgl-linlithgowshire-demo
+DTSTAMP:20261030T142030Z
+DTSTART;TZID=Europe/London:20261117T190000
+DTEND;TZID=Europe/London:20261117T213000
+SUMMARY:Regular meeting\, St John Mid Calder No. 272
+LOCATION:Masonic Hall\, Bank Street\, Mid Calder EH53 0AR
+DESCRIPTION:Regular meeting. St John Mid Calder No. 272.\nTime is the lodge
+ ’s usual meeting time (7pm).\nMeets 1st and 3rd Tuesday\, September to A
+ pril\, 7pm.\nConcept demo by TaleTellers Ltd with sample data: confirm wit
+ h the lodge secretary before travelling.
+URL:https://thescar4295.github.io/pgl-linlithgowshire-demo/272/
+STATUS:CONFIRMED
+CATEGORIES:regular
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:m-272-20261201@pgl-linlithgowshire-demo
+DTSTAMP:20261030T142030Z
+DTSTART;TZID=Europe/London:20261201T190000
+DTEND;TZID=Europe/London:20261201T213000
+SUMMARY:Regular meeting\, St John Mid Calder No. 272
+LOCATION:Masonic Hall\, Bank Street\, Mid Calder EH53 0AR
+DESCRIPTION:Regular meeting. St John Mid Calder No. 272.\nTime is the lodge
+ ’s usual meeting time (7pm).\nMeets 1st and 3rd Tuesday\, September to A
+ pril\, 7pm.\nConcept demo by TaleTellers Ltd with sample data: confirm wit
+ h the lodge secretary before travelling.
+URL:https://thescar4295.github.io/pgl-linlithgowshire-demo/272/
+STATUS:CONFIRMED
+CATEGORIES:regular
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:i-272-20261205@pgl-linlithgowshire-demo
+DTSTAMP:20261030T142030Z
+DTSTART;TZID=Europe/London:20261205T140000
+DTEND;TZID=Europe/London:20261205T180000
+SUMMARY:Installation of office-bearers\, St John Mid Calder No. 272
+LOCATION:Masonic Hall\, Bank Street\, Mid Calder EH53 0AR
+DESCRIPTION:Installation. St John Mid Calder No. 272.\nConcept demo by Tale
+ Tellers Ltd with sample data: confirm with the lodge secretary before trav
+ elling.
+URL:https://thescar4295.github.io/pgl-linlithgowshire-demo/272/
+STATUS:CONFIRMED
+CATEGORIES:installation
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:m-272-20261215@pgl-linlithgowshire-demo
+DTSTAMP:20261030T142030Z
+DTSTART;TZID=Europe/London:20261215T190000
+DTEND;TZID=Europe/London:20261215T213000
+SUMMARY:Regular meeting\, St John Mid Calder No. 272
+LOCATION:Masonic Hall\, Bank Street\, Mid Calder EH53 0AR
+DESCRIPTION:Regular meeting. St John Mid Calder No. 272.\nTime is the lodge
+ ’s usual meeting time (7pm).\nMeets 1st and 3rd Tuesday\, September to A
+ pril\, 7pm.\nConcept demo by TaleTellers Ltd with sample data: confirm wit
+ h the lodge secretary before travelling.
+URL:https://thescar4295.github.io/pgl-linlithgowshire-demo/272/
+STATUS:CONFIRMED
+CATEGORIES:regular
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:m-272-20270105@pgl-linlithgowshire-demo
+DTSTAMP:20261030T142030Z
+DTSTART;TZID=Europe/London:20270105T190000
+DTEND;TZID=Europe/London:20270105T213000
+SUMMARY:Regular meeting\, St John Mid Calder No. 272
+LOCATION:Masonic Hall\, Bank Street\, Mid Calder EH53 0AR
+DESCRIPTION:Regular meeting. St John Mid Calder No. 272.\nTime is the lodge
+ ’s usual meeting time (7pm).\nMeets 1st and 3rd Tuesday\, September to A
+ pril\, 7pm.\nConcept demo by TaleTellers Ltd with sample data: confirm wit
+ h the lodge secretary before travelling.
+URL:https://thescar4295.github.io/pgl-linlithgowshire-demo/272/
+STATUS:CONFIRMED
+CATEGORIES:regular
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:m-272-20270119@pgl-linlithgowshire-demo
+DTSTAMP:20261030T142030Z
+DTSTART;TZID=Europe/London:20270119T190000
+DTEND;TZID=Europe/London:20270119T213000
+SUMMARY:Regular meeting\, St John Mid Calder No. 272
+LOCATION:Masonic Hall\, Bank Street\, Mid Calder EH53 0AR
+DESCRIPTION:Regular meeting. St John Mid Calder No. 272.\nTime is the lodge
+ ’s usual meeting time (7pm).\nMeets 1st and 3rd Tuesday\, September to A
+ pril\, 7pm.\nConcept demo by TaleTellers Ltd with sample data: confirm wit
+ h the lodge secretary before travelling.
+URL:https://thescar4295.github.io/pgl-linlithgowshire-demo/272/
+STATUS:CONFIRMED
+CATEGORIES:regular
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:m-272-20270202@pgl-linlithgowshire-demo
+DTSTAMP:20261030T142030Z
+DTSTART;TZID=Europe/London:20270202T190000
+DTEND;TZID=Europe/London:20270202T213000
+SUMMARY:(To be confirmed) Regular meeting\, St John Mid Calder No. 272
+LOCATION:Masonic Hall\, Bank Street\, Mid Calder EH53 0AR
+DESCRIPTION:Regular meeting. St John Mid Calder No. 272.\nTime is the lodge
+ ’s usual meeting time (7pm).\nMeets 1st and 3rd Tuesday\, September to A
+ pril\, 7pm.\nListed on the calendar as to be confirmed.\nConcept demo by T
+ aleTellers Ltd with sample data: confirm with the lodge secretary before t
+ ravelling.
+URL:https://thescar4295.github.io/pgl-linlithgowshire-demo/272/
+STATUS:TENTATIVE
+CATEGORIES:regular
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:m-272-20270216@pgl-linlithgowshire-demo
+DTSTAMP:20261030T142030Z
+DTSTART;TZID=Europe/London:20270216T190000
+DTEND;TZID=Europe/London:20270216T213000
+SUMMARY:Regular meeting\, St John Mid Calder No. 272
+LOCATION:Masonic Hall\, Bank Street\, Mid Calder EH53 0AR
+DESCRIPTION:Regular meeting. St John Mid Calder No. 272.\nTime is the lodge
+ ’s usual meeting time (7pm).\nMeets 1st and 3rd Tuesday\, September to A
+ pril\, 7pm.\nConcept demo by TaleTellers Ltd with sample data: confirm wit
+ h the lodge secretary before travelling.
+URL:https://thescar4295.github.io/pgl-linlithgowshire-demo/272/
+STATUS:CONFIRMED
+CATEGORIES:regular
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:m-272-20270302@pgl-linlithgowshire-demo
+DTSTAMP:20261030T142030Z
+DTSTART;TZID=Europe/London:20270302T190000
+DTEND;TZID=Europe/London:20270302T213000
+SUMMARY:Regular meeting\, St John Mid Calder No. 272
+LOCATION:Masonic Hall\, Bank Street\, Mid Calder EH53 0AR
+DESCRIPTION:Regular meeting. St John Mid Calder No. 272.\nTime is the lodge
+ ’s usual meeting time (7pm).\nMeets 1st and 3rd Tuesday\, September to A
+ pril\, 7pm.\nConcept demo by TaleTellers Ltd with sample data: confirm wit
+ h the lodge secretary before travelling.
+URL:https://thescar4295.github.io/pgl-linlithgowshire-demo/272/
+STATUS:CONFIRMED
+CATEGORIES:regular
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:m-272-20270316@pgl-linlithgowshire-demo
+DTSTAMP:20261030T142030Z
+DTSTART;TZID=Europe/London:20270316T190000
+DTEND;TZID=Europe/London:20270316T213000
+SUMMARY:Regular meeting\, St John Mid Calder No. 272
+LOCATION:Masonic Hall\, Bank Street\, Mid Calder EH53 0AR
+DESCRIPTION:Regular meeting. St John Mid Calder No. 272.\nTime is the lodge
+ ’s usual meeting time (7pm).\nMeets 1st and 3rd Tuesday\, September to A
+ pril\, 7pm.\nConcept demo by TaleTellers Ltd with sample data: confirm wit
+ h the lodge secretary before travelling.
+URL:https://thescar4295.github.io/pgl-linlithgowshire-demo/272/
+STATUS:CONFIRMED
+CATEGORIES:regular
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:m-272-20270406@pgl-linlithgowshire-demo
+DTSTAMP:20261030T142030Z
+DTSTART;TZID=Europe/London:20270406T190000
+DTEND;TZID=Europe/London:20270406T213000
+SUMMARY:Regular meeting\, St John Mid Calder No. 272
+LOCATION:Masonic Hall\, Bank Street\, Mid Calder EH53 0AR
+DESCRIPTION:Regular meeting. St John Mid Calder No. 272.\nTime is the lodge
+ ’s usual meeting time (7pm).\nMeets 1st and 3rd Tuesday\, September to A
+ pril\, 7pm.\nConcept demo by TaleTellers Ltd with sample data: confirm wit
+ h the lodge secretary before travelling.
+URL:https://thescar4295.github.io/pgl-linlithgowshire-demo/272/
+STATUS:CONFIRMED
+CATEGORIES:regular
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:m-272-20270420@pgl-linlithgowshire-demo
+DTSTAMP:20261030T142030Z
+DTSTART;TZID=Europe/London:20270420T190000
+DTEND;TZID=Europe/London:20270420T213000
+SUMMARY:Regular meeting\, St John Mid Calder No. 272
+LOCATION:Masonic Hall\, Bank Street\, Mid Calder EH53 0AR
+DESCRIPTION:Regular meeting. St John Mid Calder No. 272.\nTime is the lodge
+ ’s usual meeting time (7pm).\nMeets 1st and 3rd Tuesday\, September to A
+ pril\, 7pm.\nConcept demo by TaleTellers Ltd with sample data: confirm wit
+ h the lodge secretary before travelling.
+URL:https://thescar4295.github.io/pgl-linlithgowshire-demo/272/
+STATUS:CONFIRMED
+CATEGORIES:regular
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR

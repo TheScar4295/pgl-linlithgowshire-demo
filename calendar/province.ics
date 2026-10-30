@@ -1,0 +1,4071 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//TaleTellers Ltd//PGL Linlithgowshire concept demo//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:PGL Linlithgowshire: all lodges (demo)
+X-WR-TIMEZONE:Europe/London
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+X-WR-CALDESC:Concept demo by TaleTellers Ltd with sample data. Not the offi
+ cial calendar of the Provincial Grand Lodge of Linlithgowshire.
+BEGIN:VTIMEZONE
+TZID:Europe/London
+X-LIC-LOCATION:Europe/London
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:BST
+DTSTART:19700329T010000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:GMT
+DTSTART:19701025T020000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:m-272-20260901@pgl-linlithgowshire-demo
+DTSTAMP:20261030T142030Z
+DTSTART;TZID=Europe/London:20260901T190000
+DTEND;TZID=Europe/London:20260901T213000
+SUMMARY:Regular meeting\, St John Mid Calder No. 272
+LOCATION:Masonic Hall\, Bank Street\, Mid Calder EH53 0AR
+DESCRIPTION:Regular meeting. St John Mid Calder No. 272.\nTime is the lodge
+ ’s usual meeting time (7pm).\nMeets 1st and 3rd Tuesday\, September to A
+ pril\, 7pm.\nConcept demo by TaleTellers Ltd with sample data: confirm wit
+ h the lodge secretary before travelling.
+URL:https://thescar4295.github.io/pgl-linlithgowshire-demo/272/
+STATUS:CONFIRMED
+CATEGORIES:regular
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:m-13-20260901@pgl-linlithgowshire-demo
+DTSTAMP:20261030T142030Z
+DTSTART;TZID=Europe/London:20260901T193000
+DTEND;TZID=Europe/London:20260901T220000
+SUMMARY:Regular meeting\, Torphichen Kilwinning No. 13
+LOCATION:Masonic Hall\, 22 Jarvey Street\, Bathgate EH48 4EZ
+DESCRIPTION:Regular meeting. Torphichen Kilwinning No. 13.\nTime is the lod
+ ge’s usual meeting time (7.30pm).\nMeets 1st and 3rd Tuesday\, September
+  to April\, 7.30pm.\nConcept demo by TaleTellers Ltd with sample data: con
+ firm with the lodge secretary before travelling.
+URL:https://thescar4295.github.io/pgl-linlithgowshire-demo/13/
+STATUS:CONFIRMED
+CATEGORIES:regular
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1232-20260901@pgl-linlithgowshire-demo
+DTSTAMP:20261030T142030Z
+DTSTART;TZID=Europe/London:20260901T193000
+DTEND;TZID=Europe/London:20260901T220000
+SUMMARY:Regular meeting\, Hopetoun St John No. 1232
+LOCATION:Masonic Hall\, Market Lane\, Linlithgow EH49 7AJ
+DESCRIPTION:Regular meeting. Hopetoun St John No. 1232.\nTime is the lodge
+ ’s usual meeting time (7.30pm).\nMeets 1st Tuesday\, September to April\
+ , 7.30pm.\nConcept demo by TaleTellers Ltd with sample data: confirm with 
+ the lodge secretary before travelling.
+URL:https://thescar4295.github.io/pgl-linlithgowshire-demo/1232/
+STATUS:CONFIRMED
+CATEGORIES:regular
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:m-590-20260902@pgl-linlithgowshire-demo
+DTSTAMP:20261030T142030Z
+DTSTART;TZID=Europe/London:20260902T190000
+DTEND;TZID=Europe/London:20260902T213000
+SUMMARY:Regular meeting\, St James Harthill No. 590
+LOCATION:30 Social Club\, Off West Main Street\, Harthill
+DESCRIPTION:Regular meeting. St James Harthill No. 590.\nTime is the lodge
+ ’s usual meeting time (7pm).\nMeets 1st Wednesday\, September to May\, 7
+ pm.\nConcept demo by TaleTellers Ltd with sample data: confirm with the lo
+ dge secretary before travelling.
+URL:https://thescar4295.github.io/pgl-linlithgowshire-demo/590/
+STATUS:CONFIRMED
+CATEGORIES:regular
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:m-636-20260903@pgl-linlithgowshire-demo
+DTSTAMP:20261030T142030Z
+DTSTART;TZID=Europe/London:20260903T190000
+DTEND;TZID=Europe/London:20260903T213000
+SUMMARY:Regular meeting\, Buchan St John No. 636
+LOCATION:Broxburn Bowling Club\, West Burnside\, Broxburn EH52 5RG
+DESCRIPTION:Regular meeting. Buchan St John No. 636.\nTime is the lodge’s
+  usual meeting time (7pm).\nMeets 1st and 3rd Thursday\, September to Apri
+ l\, 7pm.\nConcept demo by TaleTellers Ltd with sample data: confirm with t
+ he lodge secretary before travelling.
+URL:https://thescar4295.github.io/pgl-linlithgowshire-demo/636/
+STATUS:CONFIRMED
+CATEGORIES:regular
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:m-409-20260903@pgl-linlithgowshire-demo
+DTSTAMP:20261030T142030Z
+DTSTART;TZID=Europe/London:20260903T193000
+DTEND;TZID=Europe/London:20260903T220000
+SUMMARY:Regular meeting\, The Douglas No. 409
+LOCATION:Masonic Hall\, 89 Stewart Avenue\, Bo’ness EH51 9NJ
+DESCRIPTION:Regular meeting. The Douglas No. 409.\nTime is the lodge’s us
+ ual meeting time (7.30pm).\nMeets 1st and 3rd Thursday\, September to Apri
+ l\, 7.30pm.\nConcept demo by TaleTellers Ltd with sample data: confirm wit
+ h the lodge secretary before travelling.
+URL:https://thescar4295.github.io/pgl-linlithgowshire-demo/409/
+STATUS:CONFIRMED
+CATEGORIES:regular
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1186-20260903@pgl-linlithgowshire-demo
+DTSTAMP:20261030T142030Z
+DTSTART;TZID=Europe/London:20260903T193000
+DTEND;TZID=Europe/London:20260903T220000
+SUMMARY:Regular meeting\, St John Stoneyburn No. 1186
+LOCATION:Masonic Hall\, 77 Main Street\, Stoneyburn EH47 8BY
+DESCRIPTION:Regular meeting. St John Stoneyburn No. 1186.\nTime is the lodg
+ e’s usual meeting time (7.30pm).\nMeets 1st and 3rd Thursday\, September
+  to April\, 7.30pm.\nConcept demo by TaleTellers Ltd with sample data: con
+ firm with the lodge secretary before travelling.
+URL:https://thescar4295.github.io/pgl-linlithgowshire-demo/1186/
+STATUS:CONFIRMED
+CATEGORIES:regular
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1658-20260904@pgl-linlithgowshire-demo
+DTSTAMP:20261030T142030Z
+DTSTART;TZID=Europe/London:20260904T193000
+DTEND;TZID=Europe/London:20260904T220000
+SUMMARY:Regular meeting\, Almondale No. 1658
+LOCATION:Masonic Hall\, Craigshill Road West\, Livingston
+DESCRIPTION:Regular meeting. Almondale No. 1658.\nTime is the lodge’s usu
+ al meeting time (7.30pm).\nMeets 1st Friday\, every month\, 7.30pm.\nConce
+ pt demo by TaleTellers Ltd with sample data: confirm with the lodge secret
+ ary before travelling.
+URL:https://thescar4295.github.io/pgl-linlithgowshire-demo/1658/
+STATUS:CONFIRMED
+CATEGORIES:regular
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:m-927-20260907@pgl-linlithgowshire-demo
+DTSTAMP:20261030T142030Z
+DTSTART;TZID=Europe/London:20260907T193000
+DTEND;TZID=Europe/London:20260907T220000
+SUMMARY:Regular meeting\, Polkemmet No. 927
+LOCATION:Masonic Hall\, 7a East Main Street\, Whitburn EH47 0RA
+DESCRIPTION:Regular meeting. Polkemmet No. 927.\nTime is the lodge’s usua
+ l meeting time (7.30pm).\nMeets 1st and 3rd Monday\, September to April\, 
+ 7.30pm.\nConcept demo by TaleTellers Ltd with sample data: confirm with th
+ e lodge secretary before travelling.
+URL:https://thescar4295.github.io/pgl-linlithgowshire-demo/927/
+STATUS:CONFIRMED
+CATEGORIES:regular
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:m-548-20260908@pgl-linlithgowshire-demo
+DTSTAMP:20261030T142030Z
+DTSTART;TZID=Europe/London:20260908T193000
+DTEND;TZID=Europe/London:20260908T220000
+SUMMARY:Regular meeting\, St Margaret No. 548
+LOCATION:Masonic Hall\, 3 Stoneycroft Road\, South Queensferry
+DESCRIPTION:Regular meeting. St Margaret No. 548.\nTime is the lodge’s us
+ ual meeting time (7.30pm).\nMeets 2nd and 4th Tuesday\, September to April
+ \, 7.30pm.\nConcept demo by TaleTellers Ltd with sample data: confirm with
+  the lodge secretary before travelling.
+URL:https://thescar4295.github.io/pgl-linlithgowshire-demo/548/
+STATUS:CONFIRMED
+CATEGORIES:regular
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1145-20260908@pgl-linlithgowshire-demo
+DTSTAMP:20261030T142030Z
+DTSTART;TZID=Europe/London:20260908T193000
+DTEND;TZID=Europe/London:20260908T220000
+SUMMARY:Regular meeting\, Blackridge No. 1145
+LOCATION:Masonic Hall\, 51 South Street\, Armadale EH48 3ET
+DESCRIPTION:Regular meeting. Blackridge No. 1145.\nTime is the lodge’s us
+ ual meeting time (7.30pm).\nMeets 2nd Tuesday\, September to April\, 7.30p
+ m.\nConcept demo by TaleTellers Ltd with sample data: confirm with the lod
+ ge secretary before travelling.
+URL:https://thescar4295.github.io/pgl-linlithgowshire-demo/1145/
+STATUS:CONFIRMED
+CATEGORIES:regular
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:m-374-20260910@pgl-linlithgowshire-demo
+DTSTAMP:20261030T142030Z
+DTSTART;TZID=Europe/London:20260910T193000
+DTEND;TZID=Europe/London:20260910T220000
+SUMMARY:Regular meeting\, St John Crofthead No. 374
+LOCATION:Masonic Hall\, 6 Bridge Street\, Fauldhouse EH47 9AY
+DESCRIPTION:Regular meeting. St John Crofthead No. 374.\nTime is the lodge
+ ’s usual meeting time (7.30pm).\nMeets 2nd and 4th Thursday\, September 
+ to April\, 7.30pm.\nConcept demo by TaleTellers Ltd with sample data: conf
+ irm with the lodge secretary before travelling.
+URL:https://thescar4295.github.io/pgl-linlithgowshire-demo/374/
+STATUS:CONFIRMED
+CATEGORIES:regular
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1587-20260911@pgl-linlithgowshire-demo
+DTSTAMP:20261030T142030Z
+DTSTART;TZID=Europe/London:20260911T193000
+DTEND;TZID=Europe/London:20260911T220000
+SUMMARY:Regular meeting\, St Andrew No. 1587
+LOCATION:Masonic Hall\, 3 Nellburn Road\, Deans\, Livingston EH54 8QU
+DESCRIPTION:Regular meeting. St Andrew No. 1587.\nTime is the lodge’s usu
+ al meeting time (7.30pm).\nMeets 2nd and 4th Friday\, August to April\, 7.
+ 30pm.\nConcept demo by TaleTellers Ltd with sample data: confirm with the 
+ lodge secretary before travelling.
+URL:https://thescar4295.github.io/pgl-linlithgowshire-demo/1587/
+STATUS:CONFIRMED
+CATEGORIES:regular
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:m-85-20260914@pgl-linlithgowshire-demo
+DTSTAMP:20261030T142030Z
+DTSTART;TZID=Europe/London:20260914T193000
+DTEND;TZID=Europe/London:20260914T220000
+SUMMARY:Regular meeting\, Kirknewton & Ratho No. 85
+LOCATION:Ratho Bowling Club\, 42 Main Street\, Ratho EH28 8RB
+DESCRIPTION:Regular meeting. Kirknewton & Ratho No. 85.\nTime is the lodge
+ ’s usual meeting time (7.30pm).\nMeets 2nd Monday\, September to April\,
+  7.30pm.\nConcept demo by TaleTellers Ltd with sample data: confirm with t
+ he lodge secretary before travelling.
+URL:https://thescar4295.github.io/pgl-linlithgowshire-demo/85/
+STATUS:CONFIRMED
+CATEGORIES:regular
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:m-272-20260915@pgl-linlithgowshire-demo
+DTSTAMP:20261030T142030Z
+DTSTART;TZID=Europe/London:20260915T190000
+DTEND;TZID=Europe/London:20260915T213000
+SUMMARY:Regular meeting\, St John Mid Calder No. 272
+LOCATION:Masonic Hall\, Bank Street\, Mid Calder EH53 0AR
+DESCRIPTION:Regular meeting. St John Mid Calder No. 272.\nTime is the lodge
+ ’s usual meeting time (7pm).\nMeets 1st and 3rd Tuesday\, September to A
+ pril\, 7pm.\nConcept demo by TaleTellers Ltd with sample data: confirm wit
+ h the lodge secretary before travelling.
+URL:https://thescar4295.github.io/pgl-linlithgowshire-demo/272/
+STATUS:CONFIRMED
+CATEGORIES:regular
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:m-13-20260915@pgl-linlithgowshire-demo
+DTSTAMP:20261030T142030Z
+DTSTART;TZID=Europe/London:20260915T193000
+DTEND;TZID=Europe/London:20260915T220000
+SUMMARY:Regular meeting\, Torphichen Kilwinning No. 13
+LOCATION:Masonic Hall\, 22 Jarvey Street\, Bathgate EH48 4EZ
+DESCRIPTION:Regular meeting. Torphichen Kilwinning No. 13.\nTime is the lod
+ ge’s usual meeting time (7.30pm).\nMeets 1st and 3rd Tuesday\, September
+  to April\, 7.30pm.\nConcept demo by TaleTellers Ltd with sample data: con
+ firm with the lodge secretary before travelling.
+URL:https://thescar4295.github.io/pgl-linlithgowshire-demo/13/
+STATUS:CONFIRMED
+CATEGORIES:regular
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:m-636-20260917@pgl-linlithgowshire-demo
+DTSTAMP:20261030T142030Z
+DTSTART;TZID=Europe/London:20260917T190000
+DTEND;TZID=Europe/London:20260917T213000
+SUMMARY:Regular meeting\, Buchan St John No. 636
+LOCATION:Broxburn Bowling Club\, West Burnside\, Broxburn EH52 5RG
+DESCRIPTION:Regular meeting. Buchan St John No. 636.\nTime is the lodge’s
+  usual meeting time (7pm).\nMeets 1st and 3rd Thursday\, September to Apri
+ l\, 7pm.\nConcept demo by TaleTellers Ltd with sample data: confirm with t
+ he lodge secretary before travelling.
+URL:https://thescar4295.github.io/pgl-linlithgowshire-demo/636/
+STATUS:CONFIRMED
+CATEGORIES:regular
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:m-409-20260917@pgl-linlithgowshire-demo
+DTSTAMP:20261030T142030Z
+DTSTART;TZID=Europe/London:20260917T193000
+DTEND;TZID=Europe/London:20260917T220000
+SUMMARY:Regular meeting\, The Douglas No. 409
+LOCATION:Masonic Hall\, 89 Stewart Avenue\, Bo’ness EH51 9NJ
+DESCRIPTION:Regular meeting. The Douglas No. 409.\nTime is the lodge’s us
+ ual meeting time (7.30pm).\nMeets 1st and 3rd Thursday\, September to Apri
+ l\, 7.30pm.\nConcept demo by TaleTellers Ltd with sample data: confirm wit
+ h the lodge secretary before travelling.
+URL:https://thescar4295.github.io/pgl-linlithgowshire-demo/409/
+STATUS:CONFIRMED
+CATEGORIES:regular
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1186-20260917@pgl-linlithgowshire-demo
+DTSTAMP:20261030T142030Z
+DTSTART;TZID=Europe/London:20260917T193000
+DTEND;TZID=Europe/London:20260917T220000
+SUMMARY:Regular meeting\, St John Stoneyburn No. 1186
+LOCATION:Masonic Hall\, 77 Main Street\, Stoneyburn EH47 8BY
+DESCRIPTION:Regular meeting. St John Stoneyburn No. 1186.\nTime is the lodg
+ e’s usual meeting time (7.30pm).\nMeets 1st and 3rd Thursday\, September
+  to April\, 7.30pm.\nConcept demo by TaleTellers Ltd with sample data: con
+ firm with the lodge secretary before travelling.
+URL:https://thescar4295.github.io/pgl-linlithgowshire-demo/1186/
+STATUS:CONFIRMED
+CATEGORIES:regular
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1305-20260918@pgl-linlithgowshire-demo
+DTSTAMP:20261030T142030Z
+DTSTART;TZID=Europe/London:20260918T190000
+DTEND;TZID=Europe/London:20260918T213000
+SUMMARY:Regular meeting\, Pioneer (Reponed) No. 1305
+LOCATION:Masonic Hall\, 3 Nellburn Road\, Deans\, Livingston EH54 8QU
+DESCRIPTION:Regular meeting. Pioneer (Reponed) No. 1305.\nTime is the lodge
+ ’s usual meeting time (7pm).\nMeets 3rd Friday\, February\, April\, Sept
+ ember and November\, 7pm.\nConcept demo by TaleTellers Ltd with sample dat
+ a: confirm with the lodge secretary before travelling.
+URL:https://thescar4295.github.io/pgl-linlithgowshire-demo/1305/
+STATUS:CONFIRMED
+CATEGORIES:regular
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1614-20260918@pgl-linlithgowshire-demo
+DTSTAMP:20261030T142030Z
+DTSTART;TZID=Europe/London:20260918T193000
+DTEND;TZID=Europe/London:20260918T220000
+SUMMARY:Regular meeting\, Kirkton Hall No. 1614
+LOCATION:Masonic Hall\, Kidd Street\, Blackburn
+DESCRIPTION:Regular meeting. Kirkton Hall No. 1614.\nTime is the lodge’s 
+ usual meeting time (7.30pm).\nMeets 3rd Friday\, September to April\, 7.30
+ pm.\nConcept demo by TaleTellers Ltd with sample data: confirm with the lo
+ dge secretary before travelling.
+URL:https://thescar4295.github.io/pgl-linlithgowshire-demo/1614/
+STATUS:CONFIRMED
+CATEGORIES:regular
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:m-927-20260921@pgl-linlithgowshire-demo
+DTSTAMP:20261030T142030Z
+DTSTART;TZID=Europe/London:20260921T193000
+DTEND;TZID=Europe/London:20260921T220000
+SUMMARY:Regular meeting\, Polkemmet No. 927
+LOCATION:Masonic Hall\, 7a East Main Street\, Whitburn EH47 0RA
+DESCRIPTION:Regular meeting. Polkemmet No. 927.\nTime is the lodge’s usua
+ l meeting time (7.30pm).\nMeets 1st and 3rd Monday\, September to April\, 
+ 7.30pm.\nConcept demo by TaleTellers Ltd with sample data: confirm with th
+ e lodge secretary before travelling.
+URL:https://thescar4295.github.io/pgl-linlithgowshire-demo/927/
+STATUS:CONFIRMED
+CATEGORIES:regular
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:m-548-20260922@pgl-linlithgowshire-demo
+DTSTAMP:20261030T142030Z
+DTSTART;TZID=Europe/London:20260922T193000
+DTEND;TZID=Europe/London:20260922T220000
+SUMMARY:Regular meeting\, St Margaret No. 548
+LOCATION:Masonic Hall\, 3 Stoneycroft Road\, South Queensferry
+DESCRIPTION:Regular meeting. St Margaret No. 548.\nTime is the lodge’s us
+ ual meeting time (7.30pm).\nMeets 2nd and 4th Tuesday\, September to April
+ \, 7.30pm.\nConcept demo by TaleTellers Ltd with sample data: confirm with
+  the lodge secretary before travelling.
+URL:https://thescar4295.github.io/pgl-linlithgowshire-demo/548/
+STATUS:CONFIRMED
+CATEGORIES:regular
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:m-827-20260923@pgl-linlithgowshire-demo
+DTSTAMP:20261030T142030Z
+DTSTART;TZID=Europe/London:20260923T193000
+DTEND;TZID=Europe/London:20260923T220000
+SUMMARY:Regular meeting\, Hope Bridge Castle No. 827
+LOCATION:Masonic Hall\, 51 South Street\, Armadale EH48 3ET
+DESCRIPTION:Regular meeting. Hope Bridge Castle No. 827.\nTime is the lodge
+ ’s usual meeting time (7.30pm).\nMeets 4th Wednesday\, September to Apri
+ l\, 7.30pm.\nConcept demo by TaleTellers Ltd with sample data: confirm wit
+ h the lodge secretary before travelling.
+URL:https://thescar4295.github.io/pgl-linlithgowshire-demo/827/
+STATUS:CONFIRMED
+CATEGORIES:regular
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:m-374-20260924@pgl-linlithgowshire-demo
+DTSTAMP:20261030T142030Z
+DTSTART;TZID=Europe/London:20260924T193000
+DTEND;TZID=Europe/London:20260924T220000
+SUMMARY:Regular meeting\, St John Crofthead No. 374
+LOCATION:Masonic Hall\, 6 Bridge Street\, Fauldhouse EH47 9AY
+DESCRIPTION:Regular meeting. St John Crofthead No. 374.\nTime is the lodge
+ ’s usual meeting time (7.30pm).\nMeets 2nd and 4th Thursday\, September 
+ to April\, 7.30pm.\nConcept demo by TaleTellers Ltd with sample data: conf
+ irm with the lodge secretary before travelling.
+URL:https://thescar4295.github.io/pgl-linlithgowshire-demo/374/
+STATUS:CONFIRMED
+CATEGORIES:regular
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1587-20260925@pgl-linlithgowshire-demo
+DTSTAMP:20261030T142030Z
+DTSTART;TZID=Europe/London:20260925T193000
+DTEND;TZID=Europe/London:20260925T220000
+SUMMARY:Regular meeting\, St Andrew No. 1587
+LOCATION:Masonic Hall\, 3 Nellburn Road\, Deans\, Livingston EH54 8QU
+DESCRIPTION:Regular meeting. St Andrew No. 1587.\nTime is the lodge’s usu
+ al meeting time (7.30pm).\nMeets 2nd and 4th Friday\, August to April\, 7.
+ 30pm.\nConcept demo by TaleTellers Ltd with sample data: confirm with the 
+ lodge secretary before travelling.
+URL:https://thescar4295.github.io/pgl-linlithgowshire-demo/1587/
+STATUS:CONFIRMED
+CATEGORIES:regular
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1601-20260928@pgl-linlithgowshire-demo
+DTSTAMP:20261030T142030Z
+DTSTART;TZID=Europe/London:20260928T190000
+DTEND;TZID=Europe/London:20260928T213000
+SUMMARY:Regular meeting\, Lord Bruce No. 1601
+LOCATION:Masonic Hall\, Kidd Street\, Blackburn
+DESCRIPTION:Regular meeting. Lord Bruce No. 1601.\nTime is the lodge’s us
+ ual meeting time (7pm).\nMeets 4th Monday\, September to April\, 7pm.\nCon
+ cept demo by TaleTellers Ltd with sample data: confirm with the lodge secr
+ etary before travelling.
+URL:https://thescar4295.github.io/pgl-linlithgowshire-demo/1601/
+STATUS:CONFIRMED
+CATEGORIES:regular
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:m-636-20261001@pgl-linlithgowshire-demo
+DTSTAMP:20261030T142030Z
+DTSTART;TZID=Europe/London:20261001T190000
+DTEND;TZID=Europe/London:20261001T213000
+SUMMARY:Regular meeting\, Buchan St John No. 636
+LOCATION:Broxburn Bowling Club\, West Burnside\, Broxburn EH52 5RG
+DESCRIPTION:Regular meeting. Buchan St John No. 636.\nTime is the lodge’s
+  usual meeting time (7pm).\nMeets 1st and 3rd Thursday\, September to Apri
+ l\, 7pm.\nConcept demo by TaleTellers Ltd with sample data: confirm with t
+ he lodge secretary before travelling.
+URL:https://thescar4295.github.io/pgl-linlithgowshire-demo/636/
+STATUS:CONFIRMED
+CATEGORIES:regular
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:m-409-20261001@pgl-linlithgowshire-demo
+DTSTAMP:20261030T142030Z
+DTSTART;TZID=Europe/London:20261001T193000
+DTEND;TZID=Europe/London:20261001T220000
+SUMMARY:Regular meeting\, The Douglas No. 409
+LOCATION:Masonic Hall\, 89 Stewart Avenue\, Bo’ness EH51 9NJ
+DESCRIPTION:Regular meeting. The Douglas No. 409.\nTime is the lodge’s us
+ ual meeting time (7.30pm).\nMeets 1st and 3rd Thursday\, September to Apri
+ l\, 7.30pm.\nConcept demo by TaleTellers Ltd with sample data: confirm wit
+ h the lodge secretary before travelling.
+URL:https://thescar4295.github.io/pgl-linlithgowshire-demo/409/
+STATUS:CONFIRMED
+CATEGORIES:regular
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1186-20261001@pgl-linlithgowshire-demo
+DTSTAMP:20261030T142030Z
+DTSTART;TZID=Europe/London:20261001T193000
+DTEND;TZID=Europe/London:20261001T220000
+SUMMARY:Regular meeting\, St John Stoneyburn No. 1186
+LOCATION:Masonic Hall\, 77 Main Street\, Stoneyburn EH47 8BY
+DESCRIPTION:Regular meeting. St John Stoneyburn No. 1186.\nTime is the lodg
+ e’s usual meeting time (7.30pm).\nMeets 1st and 3rd Thursday\, September
+  to April\, 7.30pm.\nConcept demo by TaleTellers Ltd with sample data: con
+ firm with the lodge secretary before travelling.
+URL:https://thescar4295.github.io/pgl-linlithgowshire-demo/1186/
+STATUS:CONFIRMED
+CATEGORIES:regular
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1658-20261002@pgl-linlithgowshire-demo
+DTSTAMP:20261030T142030Z
+DTSTART;TZID=Europe/London:20261002T193000
+DTEND;TZID=Europe/London:20261002T220000
+SUMMARY:Regular meeting\, Almondale No. 1658
+LOCATION:Masonic Hall\, Craigshill Road West\, Livingston
+DESCRIPTION:Regular meeting. Almondale No. 1658.\nTime is the lodge’s usu
+ al meeting time (7.30pm).\nMeets 1st Friday\, every month\, 7.30pm.\nConce
+ pt demo by TaleTellers Ltd with sample data: confirm with the lodge secret
+ ary before travelling.
+URL:https://thescar4295.github.io/pgl-linlithgowshire-demo/1658/
+STATUS:CONFIRMED
+CATEGORIES:regular
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:m-927-20261005@pgl-linlithgowshire-demo
+DTSTAMP:20261030T142030Z
+DTSTART;TZID=Europe/London:20261005T193000
+DTEND;TZID=Europe/London:20261005T220000
+SUMMARY:Regular meeting\, Polkemmet No. 927
+LOCATION:Masonic Hall\, 7a East Main Street\, Whitburn EH47 0RA
+DESCRIPTION:Regular meeting. Polkemmet No. 927.\nTime is the lodge’s usua
+ l meeting time (7.30pm).\nMeets 1st and 3rd Monday\, September to April\, 
+ 7.30pm.\nConcept demo by TaleTellers Ltd with sample data: confirm with th
+ e lodge secretary before travelling.
+URL:https://thescar4295.github.io/pgl-linlithgowshire-demo/927/
+STATUS:CONFIRMED
+CATEGORIES:regular
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:m-272-20261006@pgl-linlithgowshire-demo
+DTSTAMP:20261030T142030Z
+DTSTART;TZID=Europe/London:20261006T190000
+DTEND;TZID=Europe/London:20261006T213000
+SUMMARY:Regular meeting\, St John Mid Calder No. 272
+LOCATION:Masonic Hall\, Bank Street\, Mid Calder EH53 0AR
+DESCRIPTION:Regular meeting. St John Mid Calder No. 272.\nTime is the lodge
+ ’s usual meeting time (7pm).\nMeets 1st and 3rd Tuesday\, September to A
+ pril\, 7pm.\nConcept demo by TaleTellers Ltd with sample data: confirm wit
+ h the lodge secretary before travelling.
+URL:https://thescar4295.github.io/pgl-linlithgowshire-demo/272/
+STATUS:CONFIRMED
+CATEGORIES:regular
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:m-13-20261006@pgl-linlithgowshire-demo
+DTSTAMP:20261030T142030Z
+DTSTART;TZID=Europe/London:20261006T193000
+DTEND;TZID=Europe/London:20261006T220000
+SUMMARY:Regular meeting\, Torphichen Kilwinning No. 13
+LOCATION:Masonic Hall\, 22 Jarvey Street\, Bathgate EH48 4EZ
+DESCRIPTION:Regular meeting. Torphichen Kilwinning No. 13.\nTime is the lod
+ ge’s usual meeting time (7.30pm).\nMeets 1st and 3rd Tuesday\, September
+  to April\, 7.30pm.\nConcept demo by TaleTellers Ltd with sample data: con
+ firm with the lodge secretary before travelling.
+URL:https://thescar4295.github.io/pgl-linlithgowshire-demo/13/
+STATUS:CONFIRMED
+CATEGORIES:regular
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1232-20261006@pgl-linlithgowshire-demo
+DTSTAMP:20261030T142030Z
+DTSTART;TZID=Europe/London:20261006T193000
+DTEND;TZID=Europe/London:20261006T220000
+SUMMARY:Regular meeting\, Hopetoun St John No. 1232
+LOCATION:Masonic Hall\, Market Lane\, Linlithgow EH49 7AJ
+DESCRIPTION:Regular meeting. Hopetoun St John No. 1232.\nTime is the lodge
+ ’s usual meeting time (7.30pm).\nMeets 1st Tuesday\, September to April\
+ , 7.30pm.\nConcept demo by TaleTellers Ltd with sample data: confirm with 
+ the lodge secretary before travelling.
+URL:https://thescar4295.github.io/pgl-linlithgowshire-demo/1232/
+STATUS:CONFIRMED
+CATEGORIES:regular
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:m-590-20261007@pgl-linlithgowshire-demo
+DTSTAMP:20261030T142030Z
+DTSTART;TZID=Europe/London:20261007T190000
+DTEND;TZID=Europe/London:20261007T213000
+SUMMARY:Regular meeting\, St James Harthill No. 590
+LOCATION:30 Social Club\, Off West Main Street\, Harthill
+DESCRIPTION:Regular meeting. St James Harthill No. 590.\nTime is the lodge
+ ’s usual meeting time (7pm).\nMeets 1st Wednesday\, September to May\, 7
+ pm.\nConcept demo by TaleTellers Ltd with sample data: confirm with the lo
+ dge secretary before travelling.
+URL:https://thescar4295.github.io/pgl-linlithgowshire-demo/590/
+STATUS:CONFIRMED
+CATEGORIES:regular
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:m-374-20261008@pgl-linlithgowshire-demo
+DTSTAMP:20261030T142030Z
+DTSTART;TZID=Europe/London:20261008T193000
+DTEND;TZID=Europe/London:20261008T220000
+SUMMARY:Regular meeting\, St John Crofthead No. 374
+LOCATION:Masonic Hall\, 6 Bridge Street\, Fauldhouse EH47 9AY
+DESCRIPTION:Regular meeting. St John Crofthead No. 374.\nTime is the lodge
+ ’s usual meeting time (7.30pm).\nMeets 2nd and 4th Thursday\, September 
+ to April\, 7.30pm.\nConcept demo by TaleTellers Ltd with sample data: conf
+ irm with the lodge secretary before travelling.
+URL:https://thescar4295.github.io/pgl-linlithgowshire-demo/374/
+STATUS:CONFIRMED
+CATEGORIES:regular
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1587-20261009@pgl-linlithgowshire-demo
+DTSTAMP:20261030T142030Z
+DTSTART;TZID=Europe/London:20261009T193000
+DTEND;TZID=Europe/London:20261009T220000
+SUMMARY:Regular meeting\, St Andrew No. 1587
+LOCATION:Masonic Hall\, 3 Nellburn Road\, Deans\, Livingston EH54 8QU
+DESCRIPTION:Regular meeting. St Andrew No. 1587.\nTime is the lodge’s usu
+ al meeting time (7.30pm).\nMeets 2nd and 4th Friday\, August to April\, 7.
+ 30pm.\nConcept demo by TaleTellers Ltd with sample data: confirm with the 
+ lodge secretary before travelling.
+URL:https://thescar4295.github.io/pgl-linlithgowshire-demo/1587/
+STATUS:CONFIRMED
+CATEGORIES:regular
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:m-85-20261012@pgl-linlithgowshire-demo
+DTSTAMP:20261030T142030Z
+DTSTART;TZID=Europe/London:20261012T193000
+DTEND;TZID=Europe/London:20261012T220000
+SUMMARY:Regular meeting\, Kirknewton & Ratho No. 85
+LOCATION:Ratho Bowling Club\, 42 Main Street\, Ratho EH28 8RB
+DESCRIPTION:Regular meeting. Kirknewton & Ratho No. 85.\nTime is the lodge
+ ’s usual meeting time (7.30pm).\nMeets 2nd Monday\, September to April\,
+  7.30pm.\nConcept demo by TaleTellers Ltd with sample data: confirm with t
+ he lodge secretary before travelling.
+URL:https://thescar4295.github.io/pgl-linlithgowshire-demo/85/
+STATUS:CONFIRMED
+CATEGORIES:regular
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:m-548-20261013@pgl-linlithgowshire-demo
+DTSTAMP:20261030T142030Z
+DTSTART;TZID=Europe/London:20261013T193000
+DTEND;TZID=Europe/London:20261013T220000
+SUMMARY:Regular meeting\, St Margaret No. 548
+LOCATION:Masonic Hall\, 3 Stoneycroft Road\, South Queensferry
+DESCRIPTION:Regular meeting. St Margaret No. 548.\nTime is the lodge’s us
+ ual meeting time (7.30pm).\nMeets 2nd and 4th Tuesday\, September to April
+ \, 7.30pm.\nConcept demo by TaleTellers Ltd with sample data: confirm with
+  the lodge secretary before travelling.
+URL:https://thescar4295.github.io/pgl-linlithgowshire-demo/548/
+STATUS:CONFIRMED
+CATEGORIES:regular
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1145-20261013@pgl-linlithgowshire-demo
+DTSTAMP:20261030T142030Z
+DTSTART;TZID=Europe/London:20261013T193000
+DTEND;TZID=Europe/London:20261013T220000
+SUMMARY:Regular meeting\, Blackridge No. 1145
+LOCATION:Masonic Hall\, 51 South Street\, Armadale EH48 3ET
+DESCRIPTION:Regular meeting. Blackridge No. 1145.\nTime is the lodge’s us
+ ual meeting time (7.30pm).\nMeets 2nd Tuesday\, September to April\, 7.30p
+ m.\nConcept demo by TaleTellers Ltd with sample data: confirm with the lod
+ ge secretary before travelling.
+URL:https://thescar4295.github.io/pgl-linlithgowshire-demo/1145/
+STATUS:CONFIRMED
+CATEGORIES:regular
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:m-17-20261014@pgl-linlithgowshire-demo
+DTSTAMP:20261030T142030Z
+DTSTART;TZID=Europe/London:20261014T193000
+DTEND;TZID=Europe/London:20261014T220000
+SUMMARY:Regular meeting\, Ancient Brazen No. 17
+LOCATION:Masonic Hall\, Market Lane\, Linlithgow EH49 7AJ
+DESCRIPTION:Regular meeting. Ancient Brazen No. 17.\nTime is the lodge’s 
+ usual meeting time (7.30pm).\nMeets 2nd Wednesday\, October to April\, 7.3
+ 0pm.\nConcept demo by TaleTellers Ltd with sample data: confirm with the l
+ odge secretary before travelling.
+URL:https://thescar4295.github.io/pgl-linlithgowshire-demo/17/
+STATUS:CONFIRMED
+CATEGORIES:regular
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:m-636-20261015@pgl-linlithgowshire-demo
+DTSTAMP:20261030T142030Z
+DTSTART;TZID=Europe/London:20261015T190000
+DTEND;TZID=Europe/London:20261015T213000
+SUMMARY:Regular meeting\, Buchan St John No. 636
+LOCATION:Broxburn Bowling Club\, West Burnside\, Broxburn EH52 5RG
+DESCRIPTION:Regular meeting. Buchan St John No. 636.\nTime is the lodge’s
+  usual meeting time (7pm).\nMeets 1st and 3rd Thursday\, September to Apri
+ l\, 7pm.\nConcept demo by TaleTellers Ltd with sample data: confirm with t
+ he lodge secretary before travelling.
+URL:https://thescar4295.github.io/pgl-linlithgowshire-demo/636/
+STATUS:CONFIRMED
+CATEGORIES:regular
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:m-409-20261015@pgl-linlithgowshire-demo
+DTSTAMP:20261030T142030Z
+DTSTART;TZID=Europe/London:20261015T193000
+DTEND;TZID=Europe/London:20261015T220000
+SUMMARY:Regular meeting\, The Douglas No. 409
+LOCATION:Masonic Hall\, 89 Stewart Avenue\, Bo’ness EH51 9NJ
+DESCRIPTION:Regular meeting. The Douglas No. 409.\nTime is the lodge’s us
+ ual meeting time (7.30pm).\nMeets 1st and 3rd Thursday\, September to Apri
+ l\, 7.30pm.\nConcept demo by TaleTellers Ltd with sample data: confirm wit
+ h the lodge secretary before travelling.
+URL:https://thescar4295.github.io/pgl-linlithgowshire-demo/409/
+STATUS:CONFIRMED
+CATEGORIES:regular
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1186-20261015@pgl-linlithgowshire-demo
+DTSTAMP:20261030T142030Z
+DTSTART;TZID=Europe/London:20261015T193000
+DTEND;TZID=Europe/London:20261015T220000
+SUMMARY:Regular meeting\, St John Stoneyburn No. 1186
+LOCATION:Masonic Hall\, 77 Main Street\, Stoneyburn EH47 8BY
+DESCRIPTION:Regular meeting. St John Stoneyburn No. 1186.\nTime is the lodg
+ e’s usual meeting time (7.30pm).\nMeets 1st and 3rd Thursday\, September
+  to April\, 7.30pm.\nConcept demo by TaleTellers Ltd with sample data: con
+ firm with the lodge secretary before travelling.
+URL:https://thescar4295.github.io/pgl-linlithgowshire-demo/1186/
+STATUS:CONFIRMED
+CATEGORIES:regular
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1614-20261016@pgl-linlithgowshire-demo
+DTSTAMP:20261030T142030Z
+DTSTART;TZID=Europe/London:20261016T193000
+DTEND;TZID=Europe/London:20261016T220000
+SUMMARY:Regular meeting\, Kirkton Hall No. 1614
+LOCATION:Masonic Hall\, Kidd Street\, Blackburn
+DESCRIPTION:Regular meeting. Kirkton Hall No. 1614.\nTime is the lodge’s 
+ usual meeting time (7.30pm).\nMeets 3rd Friday\, September to April\, 7.30
+ pm.\nConcept demo by TaleTellers Ltd with sample data: confirm with the lo
+ dge secretary before travelling.
+URL:https://thescar4295.github.io/pgl-linlithgowshire-demo/1614/
+STATUS:CONFIRMED
+CATEGORIES:regular
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:m-927-20261019@pgl-linlithgowshire-demo
+DTSTAMP:20261030T142030Z
+DTSTART;TZID=Europe/London:20261019T193000
+DTEND;TZID=Europe/London:20261019T220000
+SUMMARY:Regular meeting\, Polkemmet No. 927
+LOCATION:Masonic Hall\, 7a East Main Street\, Whitburn EH47 0RA
+DESCRIPTION:Regular meeting. Polkemmet No. 927.\nTime is the lodge’s usua
+ l meeting time (7.30pm).\nMeets 1st and 3rd Monday\, September to April\, 
+ 7.30pm.\nConcept demo by TaleTellers Ltd with sample data: confirm with th
+ e lodge secretary before travelling.
+URL:https://thescar4295.github.io/pgl-linlithgowshire-demo/927/
+STATUS:CONFIRMED
+CATEGORIES:regular
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:m-272-20261020@pgl-linlithgowshire-demo
+DTSTAMP:20261030T142030Z
+DTSTART;TZID=Europe/London:20261020T190000
+DTEND;TZID=Europe/London:20261020T213000
+SUMMARY:Regular meeting\, St John Mid Calder No. 272
+LOCATION:Masonic Hall\, Bank Street\, Mid Calder EH53 0AR
+DESCRIPTION:Regular meeting. St John Mid Calder No. 272.\nTime is the lodge
+ ’s usual meeting time (7pm).\nMeets 1st and 3rd Tuesday\, September to A
+ pril\, 7pm.\nConcept demo by TaleTellers Ltd with sample data: confirm wit
+ h the lodge secretary before travelling.
+URL:https://thescar4295.github.io/pgl-linlithgowshire-demo/272/
+STATUS:CONFIRMED
+CATEGORIES:regular
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:m-13-20261020@pgl-linlithgowshire-demo
+DTSTAMP:20261030T142030Z
+DTSTART;TZID=Europe/London:20261020T193000
+DTEND;TZID=Europe/London:20261020T220000
+SUMMARY:Regular meeting\, Torphichen Kilwinning No. 13
+LOCATION:Masonic Hall\, 22 Jarvey Street\, Bathgate EH48 4EZ
+DESCRIPTION:Regular meeting. Torphichen Kilwinning No. 13.\nTime is the lod
+ ge’s usual meeting time (7.30pm).\nMeets 1st and 3rd Tuesday\, September
+  to April\, 7.30pm.\nConcept demo by TaleTellers Ltd with sample data: con
+ firm with the lodge secretary before travelling.
+URL:https://thescar4295.github.io/pgl-linlithgowshire-demo/13/
+STATUS:CONFIRMED
+CATEGORIES:regular
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:m-374-20261022@pgl-linlithgowshire-demo
+DTSTAMP:20261030T142030Z
+DTSTART;TZID=Europe/London:20261022T193000
+DTEND;TZID=Europe/London:20261022T220000
+SUMMARY:Regular meeting\, St John Crofthead No. 374
+LOCATION:Masonic Hall\, 6 Bridge Street\, Fauldhouse EH47 9AY
+DESCRIPTION:Regular meeting. St John Crofthead No. 374.\nTime is the lodge
+ ’s usual meeting time (7.30pm).\nMeets 2nd and 4th Thursday\, September 
+ to April\, 7.30pm.\nConcept demo by TaleTellers Ltd with sample data: conf
+ irm with the lodge secretary before travelling.
+URL:https://thescar4295.github.io/pgl-linlithgowshire-demo/374/
+STATUS:CONFIRMED
+CATEGORIES:regular
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1587-20261023@pgl-linlithgowshire-demo
+DTSTAMP:20261030T142030Z
+DTSTART;TZID=Europe/London:20261023T193000
+DTEND;TZID=Europe/London:20261023T220000
+SUMMARY:Regular meeting\, St Andrew No. 1587
+LOCATION:Masonic Hall\, 3 Nellburn Road\, Deans\, Livingston EH54 8QU
+DESCRIPTION:Regular meeting. St Andrew No. 1587.\nTime is the lodge’s usu
+ al meeting time (7.30pm).\nMeets 2nd and 4th Friday\, August to April\, 7.
+ 30pm.\nConcept demo by TaleTellers Ltd with sample data: confirm with the 
+ lodge secretary before travelling.
+URL:https://thescar4295.github.io/pgl-linlithgowshire-demo/1587/
+STATUS:CONFIRMED
+CATEGORIES:regular
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1601-20261026@pgl-linlithgowshire-demo
+DTSTAMP:20261030T142030Z
+DTSTART;TZID=Europe/London:20261026T190000
+DTEND;TZID=Europe/London:20261026T213000
+SUMMARY:Regular meeting\, Lord Bruce No. 1601
+LOCATION:Masonic Hall\, Kidd Street\, Blackburn
+DESCRIPTION:Regular meeting. Lord Bruce No. 1601.\nTime is the lodge’s us
+ ual meeting time (7pm).\nMeets 4th Monday\, September to April\, 7pm.\nCon
+ cept demo by TaleTellers Ltd with sample data: confirm with the lodge secr
+ etary before travelling.
+URL:https://thescar4295.github.io/pgl-linlithgowshire-demo/1601/
+STATUS:CONFIRMED
+CATEGORIES:regular
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:m-548-20261027@pgl-linlithgowshire-demo
+DTSTAMP:20261030T142030Z
+DTSTART;TZID=Europe/London:20261027T193000
+DTEND;TZID=Europe/London:20261027T220000
+SUMMARY:Regular meeting\, St Margaret No. 548
+LOCATION:Masonic Hall\, 3 Stoneycroft Road\, South Queensferry
+DESCRIPTION:Regular meeting. St Margaret No. 548.\nTime is the lodge’s us
+ ual meeting time (7.30pm).\nMeets 2nd and 4th Tuesday\, September to April
+ \, 7.30pm.\nConcept demo by TaleTellers Ltd with sample data: confirm with
+  the lodge secretary before travelling.
+URL:https://thescar4295.github.io/pgl-linlithgowshire-demo/548/
+STATUS:CONFIRMED
+CATEGORIES:regular
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:m-827-20261028@pgl-linlithgowshire-demo
+DTSTAMP:20261030T142030Z
+DTSTART;TZID=Europe/London:20261028T193000
+DTEND;TZID=Europe/London:20261028T220000
+SUMMARY:Fellow Craft degree\, Hope Bridge Castle No. 827
+LOCATION:Masonic Hall\, 51 South Street\, Armadale EH48 3ET
+DESCRIPTION:Degree. Hope Bridge Castle No. 827.\nTime is the lodge’s usua
+ l meeting time (7.30pm).\nFor a candidate progressing from the first degre
+ e.\nConcept demo by TaleTellers Ltd with sample data: confirm with the lod
+ ge secretary before travelling.
+URL:https://thescar4295.github.io/pgl-linlithgowshire-demo/827/
+STATUS:CONFIRMED
+CATEGORIES:degree
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:e002@pgl-linlithgowshire-demo
+DTSTAMP:20261030T142030Z
+DTSTART;VALUE=DATE:20261029
+DTEND;VALUE=DATE:20261030
+SUMMARY:(To be confirmed) Fellow Craft degree\, worked jointly\, Buchan St 
+ John No. 636
+LOCATION:Broxburn Bowling Club\, West Burnside\, Broxburn EH52 5RG
+DESCRIPTION:Degree. Buchan St John No. 636.\nWith St John Stoneyburn No. 11
+ 86\nTime to be confirmed.\nThe calendar entry mentions a three-way arrange
+ ment but names only two lodges. To be confirmed.\nConcept demo by TaleTell
+ ers Ltd with sample data: confirm with the lodge secretary before travelli
+ ng.
+URL:https://thescar4295.github.io/pgl-linlithgowshire-demo/636/
+STATUS:TENTATIVE
+CATEGORIES:degree
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:e003@pgl-linlithgowshire-demo
+DTSTAMP:20261030T142030Z
+DTSTART;TZID=Europe/London:20261030T190000
+DTEND;TZID=Europe/London:20261030T213000
+SUMMARY:Reigning Masters’ degree\, Ancient Brazen No. 17
+LOCATION:Masonic Hall\, Market Lane\, Linlithgow EH49 7AJ
+DESCRIPTION:Degree. Ancient Brazen No. 17.\nWorked by the Masters of the Pr
+ ovince’s lodges.\nConcept demo by TaleTellers Ltd with sample data: conf
+ irm with the lodge secretary before travelling.
+URL:https://thescar4295.github.io/pgl-linlithgowshire-demo/17/
+STATUS:CONFIRMED
+CATEGORIES:degree
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:e004@pgl-linlithgowshire-demo
+DTSTAMP:20261030T142030Z
+DTSTART;TZID=Europe/London:20261031T110000
+DTEND;TZID=Europe/London:20261031T140000
+SUMMARY:(To be confirmed) Burns brunch\, St John Crofthead No. 374
+LOCATION:Masonic Hall\, 6 Bridge Street\, Fauldhouse EH47 9AY
+DESCRIPTION:Social. St John Crofthead No. 374.\nDate and time to be confirm
+ ed: the calendar gives 11 or 11.30am.\nVisitors welcome.\nConcept demo by 
+ TaleTellers Ltd with sample data: confirm with the lodge secretary before 
+ travelling.
+URL:https://thescar4295.github.io/pgl-linlithgowshire-demo/374/
+STATUS:TENTATIVE
+CATEGORIES:social
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:m-927-20261102@pgl-linlithgowshire-demo
+DTSTAMP:20261030T142030Z
+DTSTART;TZID=Europe/London:20261102T193000
+DTEND;TZID=Europe/London:20261102T220000
+SUMMARY:Fellow Craft degree\, Polkemmet No. 927
+LOCATION:Masonic Hall\, 7a East Main Street\, Whitburn EH47 0RA
+DESCRIPTION:Degree. Polkemmet No. 927.\nWith St James Harthill No. 590\nTim
+ e is the lodge’s usual meeting time (7.30pm).\nConferred by a team from 
+ St James Harthill No. 590.\nConcept demo by TaleTellers Ltd with sample da
+ ta: confirm with the lodge secretary before travelling.
+URL:https://thescar4295.github.io/pgl-linlithgowshire-demo/927/
+STATUS:CONFIRMED
+CATEGORIES:degree
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:m-272-20261103@pgl-linlithgowshire-demo
+DTSTAMP:20261030T142030Z
+DTSTART;TZID=Europe/London:20261103T190000
+DTEND;TZID=Europe/London:20261103T213000
+SUMMARY:Regular meeting\, St John Mid Calder No. 272
+LOCATION:Masonic Hall\, Bank Street\, Mid Calder EH53 0AR
+DESCRIPTION:Regular meeting. St John Mid Calder No. 272.\nTime is the lodge
+ ’s usual meeting time (7pm).\nMeets 1st and 3rd Tuesday\, September to A
+ pril\, 7pm.\nConcept demo by TaleTellers Ltd with sample data: confirm wit
+ h the lodge secretary before travelling.
+URL:https://thescar4295.github.io/pgl-linlithgowshire-demo/272/
+STATUS:CONFIRMED
+CATEGORIES:regular
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:m-13-20261103@pgl-linlithgowshire-demo
+DTSTAMP:20261030T142030Z
+DTSTART;TZID=Europe/London:20261103T193000
+DTEND;TZID=Europe/London:20261103T220000
+SUMMARY:Regular meeting\, Torphichen Kilwinning No. 13
+LOCATION:Masonic Hall\, 22 Jarvey Street\, Bathgate EH48 4EZ
+DESCRIPTION:Regular meeting. Torphichen Kilwinning No. 13.\nTime is the lod
+ ge’s usual meeting time (7.30pm).\nMeets 1st and 3rd Tuesday\, September
+  to April\, 7.30pm.\nConcept demo by TaleTellers Ltd with sample data: con
+ firm with the lodge secretary before travelling.
+URL:https://thescar4295.github.io/pgl-linlithgowshire-demo/13/
+STATUS:CONFIRMED
+CATEGORIES:regular
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1232-20261103@pgl-linlithgowshire-demo
+DTSTAMP:20261030T142030Z
+DTSTART;TZID=Europe/London:20261103T193000
+DTEND;TZID=Europe/London:20261103T220000
+SUMMARY:(To be confirmed) Regular meeting\, Hopetoun St John No. 1232
+LOCATION:Masonic Hall\, Market Lane\, Linlithgow EH49 7AJ
+DESCRIPTION:Regular meeting. Hopetoun St John No. 1232.\nTime is the lodge
+ ’s usual meeting time (7.30pm).\nMeets 1st Tuesday\, September to April\
+ , 7.30pm.\nListed on the calendar as to be confirmed.\nConcept demo by Tal
+ eTellers Ltd with sample data: confirm with the lodge secretary before tra
+ velling.
+URL:https://thescar4295.github.io/pgl-linlithgowshire-demo/1232/
+STATUS:TENTATIVE
+CATEGORIES:regular
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:m-590-20261104@pgl-linlithgowshire-demo
+DTSTAMP:20261030T142030Z
+DTSTART;TZID=Europe/London:20261104T190000
+DTEND;TZID=Europe/London:20261104T213000
+SUMMARY:Fellow Craft degree\, and nomination of office-bearers\, St James H
+ arthill No. 590
+LOCATION:30 Social Club\, Off West Main Street\, Harthill
+DESCRIPTION:Degree. St James Harthill No. 590.\nTime is the lodge’s usual
+  meeting time (7pm).\nConcept demo by TaleTellers Ltd with sample data: co
+ nfirm with the lodge secretary before travelling.
+URL:https://thescar4295.github.io/pgl-linlithgowshire-demo/590/
+STATUS:CONFIRMED
+CATEGORIES:degree
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:m-636-20261105@pgl-linlithgowshire-demo
+DTSTAMP:20261030T142030Z
+DTSTART;TZID=Europe/London:20261105T190000
+DTEND;TZID=Europe/London:20261105T213000
+SUMMARY:Fellow Craft degree\, with a remembrance service\, Buchan St John N
+ o. 636
+LOCATION:Broxburn Bowling Club\, West Burnside\, Broxburn EH52 5RG
+DESCRIPTION:Degree. Buchan St John No. 636.\nTime is the lodge’s usual me
+ eting time (7pm).\nConcept demo by TaleTellers Ltd with sample data: confi
+ rm with the lodge secretary before travelling.
+URL:https://thescar4295.github.io/pgl-linlithgowshire-demo/636/
+STATUS:CONFIRMED
+CATEGORIES:degree
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:m-409-20261105@pgl-linlithgowshire-demo
+DTSTAMP:20261030T142030Z
+DTSTART;TZID=Europe/London:20261105T193000
+DTEND;TZID=Europe/London:20261105T220000
+SUMMARY:Fellow Craft degree\, The Douglas No. 409
+LOCATION:Masonic Hall\, 89 Stewart Avenue\, Bo’ness EH51 9NJ
+DESCRIPTION:Degree. The Douglas No. 409.\nTime is the lodge’s usual meeti
+ ng time (7.30pm).\nConcept demo by TaleTellers Ltd with sample data: confi
+ rm with the lodge secretary before travelling.
+URL:https://thescar4295.github.io/pgl-linlithgowshire-demo/409/
+STATUS:CONFIRMED
+CATEGORIES:degree
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1186-20261105@pgl-linlithgowshire-demo
+DTSTAMP:20261030T142030Z
+DTSTART;TZID=Europe/London:20261105T193000
+DTEND;TZID=Europe/London:20261105T220000
+SUMMARY:Entered Apprentice degree\, St John Stoneyburn No. 1186
+LOCATION:Masonic Hall\, 77 Main Street\, Stoneyburn EH47 8BY
+DESCRIPTION:Degree. St John Stoneyburn No. 1186.\nWith St James Harthill No
+ . 590\nTime is the lodge’s usual meeting time (7.30pm).\nConferred by a 
+ team from St James Harthill No. 590.\nConcept demo by TaleTellers Ltd with
+  sample data: confirm with the lodge secretary before travelling.
+URL:https://thescar4295.github.io/pgl-linlithgowshire-demo/1186/
+STATUS:CONFIRMED
+CATEGORIES:degree
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1658-20261106@pgl-linlithgowshire-demo
+DTSTAMP:20261030T142030Z
+DTSTART;TZID=Europe/London:20261106T193000
+DTEND;TZID=Europe/London:20261106T220000
+SUMMARY:Master Mason degree\, Almondale No. 1658
+LOCATION:Masonic Hall\, Craigshill Road West\, Livingston
+DESCRIPTION:Degree. Almondale No. 1658.\nTime is the lodge’s usual meetin
+ g time (7.30pm).\nConcept demo by TaleTellers Ltd with sample data: confir
+ m with the lodge secretary before travelling.
+URL:https://thescar4295.github.io/pgl-linlithgowshire-demo/1658/
+STATUS:CONFIRMED
+CATEGORIES:degree
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:i-636-20261107@pgl-linlithgowshire-demo
+DTSTAMP:20261030T142030Z
+DTSTART;TZID=Europe/London:20261107T140000
+DTEND;TZID=Europe/London:20261107T180000
+SUMMARY:Installation of office-bearers\, Buchan St John No. 636
+LOCATION:Broxburn Bowling Club\, West Burnside\, Broxburn EH52 5RG
+DESCRIPTION:Installation. Buchan St John No. 636.\nConcept demo by TaleTell
+ ers Ltd with sample data: confirm with the lodge secretary before travelli
+ ng.
+URL:https://thescar4295.github.io/pgl-linlithgowshire-demo/636/
+STATUS:CONFIRMED
+CATEGORIES:installation
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:e013@pgl-linlithgowshire-demo
+DTSTAMP:20261030T142030Z
+DTSTART;TZID=Europe/London:20261108T120000
+DTEND;TZID=Europe/London:20261108T160000
+SUMMARY:Open day on Remembrance Sunday\, Ancient Brazen No. 17
+LOCATION:Masonic Hall\, Market Lane\, Linlithgow EH49 7AJ
+DESCRIPTION:Open day. Ancient Brazen No. 17.\nThe hall is open to the publi
+ c. Who may attend is to be confirmed by the lodge.\nVisitors welcome.\nCon
+ cept demo by TaleTellers Ltd with sample data: confirm with the lodge secr
+ etary before travelling.
+URL:https://thescar4295.github.io/pgl-linlithgowshire-demo/17/
+STATUS:CONFIRMED
+CATEGORIES:open-day
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:m-85-20261109@pgl-linlithgowshire-demo
+DTSTAMP:20261030T142030Z
+DTSTART;TZID=Europe/London:20261109T193000
+DTEND;TZID=Europe/London:20261109T220000
+SUMMARY:Fellow Craft degree\, Kirknewton & Ratho No. 85
+LOCATION:Ratho Bowling Club\, 42 Main Street\, Ratho EH28 8RB
+DESCRIPTION:Degree. Kirknewton & Ratho No. 85.\nTime is the lodge’s usual
+  meeting time (7.30pm).\nConcept demo by TaleTellers Ltd with sample data:
+  confirm with the lodge secretary before travelling.
+URL:https://thescar4295.github.io/pgl-linlithgowshire-demo/85/
+STATUS:CONFIRMED
+CATEGORIES:degree
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:m-548-20261110@pgl-linlithgowshire-demo
+DTSTAMP:20261030T142030Z
+DTSTART;TZID=Europe/London:20261110T193000
+DTEND;TZID=Europe/London:20261110T220000
+SUMMARY:Entered Apprentice degree\, on a military and remembrance theme\, S
+ t Margaret No. 548
+LOCATION:Masonic Hall\, 3 Stoneycroft Road\, South Queensferry
+DESCRIPTION:Degree. St Margaret No. 548.\nTime is the lodge’s usual meeti
+ ng time (7.30pm).\nConcept demo by TaleTellers Ltd with sample data: confi
+ rm with the lodge secretary before travelling.
+URL:https://thescar4295.github.io/pgl-linlithgowshire-demo/548/
+STATUS:CONFIRMED
+CATEGORIES:degree
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1145-20261110@pgl-linlithgowshire-demo
+DTSTAMP:20261030T142030Z
+DTSTART;TZID=Europe/London:20261110T193000
+DTEND;TZID=Europe/London:20261110T220000
+SUMMARY:Entered Apprentice degree\, Blackridge No. 1145
+LOCATION:Masonic Hall\, 51 South Street\, Armadale EH48 3ET
+DESCRIPTION:Degree. Blackridge No. 1145.\nTime is the lodge’s usual meeti
+ ng time (7.30pm).\nConcept demo by TaleTellers Ltd with sample data: confi
+ rm with the lodge secretary before travelling.
+URL:https://thescar4295.github.io/pgl-linlithgowshire-demo/1145/
+STATUS:CONFIRMED
+CATEGORIES:degree
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:m-17-20261111@pgl-linlithgowshire-demo
+DTSTAMP:20261030T142030Z
+DTSTART;TZID=Europe/London:20261111T193000
+DTEND;TZID=Europe/London:20261111T220000
+SUMMARY:Fellow Craft degree\, Ancient Brazen No. 17
+LOCATION:Masonic Hall\, Market Lane\, Linlithgow EH49 7AJ
+DESCRIPTION:Degree. Ancient Brazen No. 17.\nTime is the lodge’s usual mee
+ ting time (7.30pm).\nConcept demo by TaleTellers Ltd with sample data: con
+ firm with the lodge secretary before travelling.
+URL:https://thescar4295.github.io/pgl-linlithgowshire-demo/17/
+STATUS:CONFIRMED
+CATEGORIES:degree
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:m-374-20261112@pgl-linlithgowshire-demo
+DTSTAMP:20261030T142030Z
+DTSTART;TZID=Europe/London:20261112T193000
+DTEND;TZID=Europe/London:20261112T220000
+SUMMARY:Entered Apprentice degree\, St John Crofthead No. 374
+LOCATION:Masonic Hall\, 6 Bridge Street\, Fauldhouse EH47 9AY
+DESCRIPTION:Degree. St John Crofthead No. 374.\nTime is the lodge’s usual
+  meeting time (7.30pm).\nConcept demo by TaleTellers Ltd with sample data:
+  confirm with the lodge secretary before travelling.
+URL:https://thescar4295.github.io/pgl-linlithgowshire-demo/374/
+STATUS:CONFIRMED
+CATEGORIES:degree
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:i-1587-20261113@pgl-linlithgowshire-demo
+DTSTAMP:20261030T142030Z
+DTSTART;TZID=Europe/London:20261113T183000
+DTEND;TZID=Europe/London:20261113T223000
+SUMMARY:Installation of office-bearers\, St Andrew No. 1587
+LOCATION:Masonic Hall\, 3 Nellburn Road\, Deans\, Livingston EH54 8QU
+DESCRIPTION:Installation. St Andrew No. 1587.\nConcept demo by TaleTellers 
+ Ltd with sample data: confirm with the lodge secretary before travelling.
+URL:https://thescar4295.github.io/pgl-linlithgowshire-demo/1587/
+STATUS:CONFIRMED
+CATEGORIES:installation
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:m-927-20261116@pgl-linlithgowshire-demo
+DTSTAMP:20261030T142030Z
+DTSTART;TZID=Europe/London:20261116T193000
+DTEND;TZID=Europe/London:20261116T220000
+SUMMARY:Entered Apprentice degree\, Polkemmet No. 927
+LOCATION:Masonic Hall\, 7a East Main Street\, Whitburn EH47 0RA
+DESCRIPTION:Degree. Polkemmet No. 927.\nTime is the lodge’s usual meeting
+  time (7.30pm).\nConcept demo by TaleTellers Ltd with sample data: confirm
+  with the lodge secretary before travelling.
+URL:https://thescar4295.github.io/pgl-linlithgowshire-demo/927/
+STATUS:CONFIRMED
+CATEGORIES:degree
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:m-272-20261117@pgl-linlithgowshire-demo
+DTSTAMP:20261030T142030Z
+DTSTART;TZID=Europe/London:20261117T190000
+DTEND;TZID=Europe/London:20261117T213000
+SUMMARY:Regular meeting\, St John Mid Calder No. 272
+LOCATION:Masonic Hall\, Bank Street\, Mid Calder EH53 0AR
+DESCRIPTION:Regular meeting. St John Mid Calder No. 272.\nTime is the lodge
+ ’s usual meeting time (7pm).\nMeets 1st and 3rd Tuesday\, September to A
+ pril\, 7pm.\nConcept demo by TaleTellers Ltd with sample data: confirm wit
+ h the lodge secretary before travelling.
+URL:https://thescar4295.github.io/pgl-linlithgowshire-demo/272/
+STATUS:CONFIRMED
+CATEGORIES:regular
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:m-13-20261117@pgl-linlithgowshire-demo
+DTSTAMP:20261030T142030Z
+DTSTART;TZID=Europe/London:20261117T193000
+DTEND;TZID=Europe/London:20261117T220000
+SUMMARY:Regular meeting\, Torphichen Kilwinning No. 13
+LOCATION:Masonic Hall\, 22 Jarvey Street\, Bathgate EH48 4EZ
+DESCRIPTION:Regular meeting. Torphichen Kilwinning No. 13.\nTime is the lod
+ ge’s usual meeting time (7.30pm).\nMeets 1st and 3rd Tuesday\, September
+  to April\, 7.30pm.\nConcept demo by TaleTellers Ltd with sample data: con
+ firm with the lodge secretary before travelling.
+URL:https://thescar4295.github.io/pgl-linlithgowshire-demo/13/
+STATUS:CONFIRMED
+CATEGORIES:regular
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:e021@pgl-linlithgowshire-demo
+DTSTAMP:20261030T142030Z
+DTSTART;TZID=Europe/London:20261118T190000
+DTEND;TZID=Europe/London:20261118T210000
+SUMMARY:Provincial Grand Committee
+LOCATION:Masonic Hall\, Craigshill Road West\, Livingston
+DESCRIPTION:Provincial committee. Provincial Grand Lodge.\nHeld in Almondal
+ e’s hall\, Livingston.\nCommittee members.\nConcept demo by TaleTellers 
+ Ltd with sample data: confirm with the lodge secretary before travelling.
+URL:https://thescar4295.github.io/pgl-linlithgowshire-demo/whatson/
+STATUS:CONFIRMED
+CATEGORIES:committee
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:m-636-20261119@pgl-linlithgowshire-demo
+DTSTAMP:20261030T142030Z
+DTSTART;TZID=Europe/London:20261119T190000
+DTEND;TZID=Europe/London:20261119T213000
+SUMMARY:Fellow Craft degree\, Buchan St John No. 636
+LOCATION:Broxburn Bowling Club\, West Burnside\, Broxburn EH52 5RG
+DESCRIPTION:Degree. Buchan St John No. 636.\nTime is the lodge’s usual me
+ eting time (7pm).\nConcept demo by TaleTellers Ltd with sample data: confi
+ rm with the lodge secretary before travelling.
+URL:https://thescar4295.github.io/pgl-linlithgowshire-demo/636/
+STATUS:CONFIRMED
+CATEGORIES:degree
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:m-409-20261119@pgl-linlithgowshire-demo
+DTSTAMP:20261030T142030Z
+DTSTART;TZID=Europe/London:20261119T193000
+DTEND;TZID=Europe/London:20261119T220000
+SUMMARY:Master Mason degree\, The Douglas No. 409
+LOCATION:Masonic Hall\, 89 Stewart Avenue\, Bo’ness EH51 9NJ
+DESCRIPTION:Degree. The Douglas No. 409.\nTime is the lodge’s usual meeti
+ ng time (7.30pm).\nConcept demo by TaleTellers Ltd with sample data: confi
+ rm with the lodge secretary before travelling.
+URL:https://thescar4295.github.io/pgl-linlithgowshire-demo/409/
+STATUS:CONFIRMED
+CATEGORIES:degree
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1186-20261119@pgl-linlithgowshire-demo
+DTSTAMP:20261030T142030Z
+DTSTART;TZID=Europe/London:20261119T193000
+DTEND;TZID=Europe/London:20261119T220000
+SUMMARY:Fellow Craft degree\, St John Stoneyburn No. 1186
+LOCATION:Masonic Hall\, 77 Main Street\, Stoneyburn EH47 8BY
+DESCRIPTION:Degree. St John Stoneyburn No. 1186.\nTime is the lodge’s usu
+ al meeting time (7.30pm).\nConcept demo by TaleTellers Ltd with sample dat
+ a: confirm with the lodge secretary before travelling.
+URL:https://thescar4295.github.io/pgl-linlithgowshire-demo/1186/
+STATUS:CONFIRMED
+CATEGORIES:degree
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1305-20261120@pgl-linlithgowshire-demo
+DTSTAMP:20261030T142030Z
+DTSTART;TZID=Europe/London:20261120T190000
+DTEND;TZID=Europe/London:20261120T213000
+SUMMARY:Regular meeting\, Pioneer (Reponed) No. 1305
+LOCATION:Masonic Hall\, 3 Nellburn Road\, Deans\, Livingston EH54 8QU
+DESCRIPTION:Regular meeting. Pioneer (Reponed) No. 1305.\nTime is the lodge
+ ’s usual meeting time (7pm).\nMeets 3rd Friday\, February\, April\, Sept
+ ember and November\, 7pm.\nConcept demo by TaleTellers Ltd with sample dat
+ a: confirm with the lodge secretary before travelling.
+URL:https://thescar4295.github.io/pgl-linlithgowshire-demo/1305/
+STATUS:CONFIRMED
+CATEGORIES:regular
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1614-20261120@pgl-linlithgowshire-demo
+DTSTAMP:20261030T142030Z
+DTSTART;TZID=Europe/London:20261120T193000
+DTEND;TZID=Europe/London:20261120T220000
+SUMMARY:Entered Apprentice degree\, Kirkton Hall No. 1614
+LOCATION:Masonic Hall\, Kidd Street\, Blackburn
+DESCRIPTION:Degree. Kirkton Hall No. 1614.\nTime is the lodge’s usual mee
+ ting time (7.30pm).\nConcept demo by TaleTellers Ltd with sample data: con
+ firm with the lodge secretary before travelling.
+URL:https://thescar4295.github.io/pgl-linlithgowshire-demo/1614/
+STATUS:CONFIRMED
+CATEGORIES:degree
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:i-1601-20261121@pgl-linlithgowshire-demo
+DTSTAMP:20261030T142030Z
+DTSTART;TZID=Europe/London:20261121T140000
+DTEND;TZID=Europe/London:20261121T180000
+SUMMARY:Annual installation of office-bearers\, Lord Bruce No. 1601
+LOCATION:Masonic Hall\, Kidd Street\, Blackburn
+DESCRIPTION:Installation. Lord Bruce No. 1601.\nConcept demo by TaleTellers
+  Ltd with sample data: confirm with the lodge secretary before travelling.
+URL:https://thescar4295.github.io/pgl-linlithgowshire-demo/1601/
+STATUS:CONFIRMED
+CATEGORIES:installation
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1601-20261123@pgl-linlithgowshire-demo
+DTSTAMP:20261030T142030Z
+DTSTART;TZID=Europe/London:20261123T190000
+DTEND;TZID=Europe/London:20261123T213000
+SUMMARY:Entered Apprentice degree\, Lord Bruce No. 1601
+LOCATION:Masonic Hall\, Kidd Street\, Blackburn
+DESCRIPTION:Degree. Lord Bruce No. 1601.\nTime is the lodge’s usual meeti
+ ng time (7pm).\nConcept demo by TaleTellers Ltd with sample data: confirm 
+ with the lodge secretary before travelling.
+URL:https://thescar4295.github.io/pgl-linlithgowshire-demo/1601/
+STATUS:CONFIRMED
+CATEGORIES:degree
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:m-548-20261124@pgl-linlithgowshire-demo
+DTSTAMP:20261030T142030Z
+DTSTART;TZID=Europe/London:20261124T193000
+DTEND;TZID=Europe/London:20261124T220000
+SUMMARY:Master Mason degree\, St Margaret No. 548
+LOCATION:Masonic Hall\, 3 Stoneycroft Road\, South Queensferry
+DESCRIPTION:Degree. St Margaret No. 548.\nTime is the lodge’s usual meeti
+ ng time (7.30pm).\nConcept demo by TaleTellers Ltd with sample data: confi
+ rm with the lodge secretary before travelling.
+URL:https://thescar4295.github.io/pgl-linlithgowshire-demo/548/
+STATUS:CONFIRMED
+CATEGORIES:degree
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:m-827-20261125@pgl-linlithgowshire-demo
+DTSTAMP:20261030T142030Z
+DTSTART;TZID=Europe/London:20261125T193000
+DTEND;TZID=Europe/London:20261125T220000
+SUMMARY:Regular meeting\, Hope Bridge Castle No. 827
+LOCATION:Masonic Hall\, 51 South Street\, Armadale EH48 3ET
+DESCRIPTION:Regular meeting. Hope Bridge Castle No. 827.\nTime is the lodge
+ ’s usual meeting time (7.30pm).\nMeets 4th Wednesday\, September to Apri
+ l\, 7.30pm.\nConcept demo by TaleTellers Ltd with sample data: confirm wit
+ h the lodge secretary before travelling.
+URL:https://thescar4295.github.io/pgl-linlithgowshire-demo/827/
+STATUS:CONFIRMED
+CATEGORIES:regular
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:m-374-20261126@pgl-linlithgowshire-demo
+DTSTAMP:20261030T142030Z
+DTSTART;TZID=Europe/London:20261126T193000
+DTEND;TZID=Europe/London:20261126T220000
+SUMMARY:Master Mason degree\, St John Crofthead No. 374
+LOCATION:Masonic Hall\, 6 Bridge Street\, Fauldhouse EH47 9AY
+DESCRIPTION:Degree. St John Crofthead No. 374.\nWith a degree team from the
+  Royal Arch Chapter in Fauldhouse\nTime is the lodge’s usual meeting tim
+ e (7.30pm).\nConferred by a visiting team from Fauldhouse (to be confirmed
+ ).\nConcept demo by TaleTellers Ltd with sample data: confirm with the lod
+ ge secretary before travelling.
+URL:https://thescar4295.github.io/pgl-linlithgowshire-demo/374/
+STATUS:CONFIRMED
+CATEGORIES:degree
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1587-20261127@pgl-linlithgowshire-demo
+DTSTAMP:20261030T142030Z
+DTSTART;TZID=Europe/London:20261127T193000
+DTEND;TZID=Europe/London:20261127T220000
+SUMMARY:Regular meeting\, St Andrew No. 1587
+LOCATION:Masonic Hall\, 3 Nellburn Road\, Deans\, Livingston EH54 8QU
+DESCRIPTION:Regular meeting. St Andrew No. 1587.\nTime is the lodge’s usu
+ al meeting time (7.30pm).\nMeets 2nd and 4th Friday\, August to April\, 7.
+ 30pm.\nConcept demo by TaleTellers Ltd with sample data: confirm with the 
+ lodge secretary before travelling.
+URL:https://thescar4295.github.io/pgl-linlithgowshire-demo/1587/
+STATUS:CONFIRMED
+CATEGORIES:regular
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:i-827-20261128@pgl-linlithgowshire-demo
+DTSTAMP:20261030T142030Z
+DTSTART;TZID=Europe/London:20261128T140000
+DTEND;TZID=Europe/London:20261128T180000
+SUMMARY:Installation of office-bearers\, Hope Bridge Castle No. 827
+LOCATION:Masonic Hall\, 51 South Street\, Armadale EH48 3ET
+DESCRIPTION:Installation. Hope Bridge Castle No. 827.\nConcept demo by Tale
+ Tellers Ltd with sample data: confirm with the lodge secretary before trav
+ elling.
+URL:https://thescar4295.github.io/pgl-linlithgowshire-demo/827/
+STATUS:CONFIRMED
+CATEGORIES:installation
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:e031@pgl-linlithgowshire-demo
+DTSTAMP:20261030T142030Z
+DTSTART;TZID=Europe/London:20261130T190000
+DTEND;TZID=Europe/London:20261130T213000
+SUMMARY:Recent members’ degree\, Ancient Brazen No. 17
+LOCATION:Masonic Hall\, Market Lane\, Linlithgow EH49 7AJ
+DESCRIPTION:Degree. Ancient Brazen No. 17.\nWorked by members who joined in
+  recent years. A Provincial occasion hosted in Linlithgow.\nConcept demo b
+ y TaleTellers Ltd with sample data: confirm with the lodge secretary befor
+ e travelling.
+URL:https://thescar4295.github.io/pgl-linlithgowshire-demo/17/
+STATUS:CONFIRMED
+CATEGORIES:degree
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:m-272-20261201@pgl-linlithgowshire-demo
+DTSTAMP:20261030T142030Z
+DTSTART;TZID=Europe/London:20261201T190000
+DTEND;TZID=Europe/London:20261201T213000
+SUMMARY:Regular meeting\, St John Mid Calder No. 272
+LOCATION:Masonic Hall\, Bank Street\, Mid Calder EH53 0AR
+DESCRIPTION:Regular meeting. St John Mid Calder No. 272.\nTime is the lodge
+ ’s usual meeting time (7pm).\nMeets 1st and 3rd Tuesday\, September to A
+ pril\, 7pm.\nConcept demo by TaleTellers Ltd with sample data: confirm wit
+ h the lodge secretary before travelling.
+URL:https://thescar4295.github.io/pgl-linlithgowshire-demo/272/
+STATUS:CONFIRMED
+CATEGORIES:regular
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:m-13-20261201@pgl-linlithgowshire-demo
+DTSTAMP:20261030T142030Z
+DTSTART;TZID=Europe/London:20261201T193000
+DTEND;TZID=Europe/London:20261201T220000
+SUMMARY:Regular meeting\, Torphichen Kilwinning No. 13
+LOCATION:Masonic Hall\, 22 Jarvey Street\, Bathgate EH48 4EZ
+DESCRIPTION:Regular meeting. Torphichen Kilwinning No. 13.\nTime is the lod
+ ge’s usual meeting time (7.30pm).\nMeets 1st and 3rd Tuesday\, September
+  to April\, 7.30pm.\nConcept demo by TaleTellers Ltd with sample data: con
+ firm with the lodge secretary before travelling.
+URL:https://thescar4295.github.io/pgl-linlithgowshire-demo/13/
+STATUS:CONFIRMED
+CATEGORIES:regular
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1232-20261201@pgl-linlithgowshire-demo
+DTSTAMP:20261030T142030Z
+DTSTART;TZID=Europe/London:20261201T193000
+DTEND;TZID=Europe/London:20261201T213000
+SUMMARY:Annual general meeting\, Hopetoun St John No. 1232
+LOCATION:Masonic Hall\, Market Lane\, Linlithgow EH49 7AJ
+DESCRIPTION:Annual meeting. Hopetoun St John No. 1232.\nTime is the lodge
+ ’s usual meeting time (7.30pm).\nMembers only.\nConcept demo by TaleTell
+ ers Ltd with sample data: confirm with the lodge secretary before travelli
+ ng.
+URL:https://thescar4295.github.io/pgl-linlithgowshire-demo/1232/
+STATUS:CONFIRMED
+CATEGORIES:agm
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:m-590-20261202@pgl-linlithgowshire-demo
+DTSTAMP:20261030T142030Z
+DTSTART;TZID=Europe/London:20261202T190000
+DTEND;TZID=Europe/London:20261202T213000
+SUMMARY:(To be confirmed) Degree conferred by a visiting team\, St James Ha
+ rthill No. 590
+LOCATION:30 Social Club\, Off West Main Street\, Harthill
+DESCRIPTION:Degree. St James Harthill No. 590.\nWith a team from Lodge No. 
+ 471 (outside the Province)\nTime is the lodge’s usual meeting time (7pm)
+ .\nWhich degree is to be confirmed.\nConcept demo by TaleTellers Ltd with 
+ sample data: confirm with the lodge secretary before travelling.
+URL:https://thescar4295.github.io/pgl-linlithgowshire-demo/590/
+STATUS:TENTATIVE
+CATEGORIES:degree
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:m-636-20261203@pgl-linlithgowshire-demo
+DTSTAMP:20261030T142030Z
+DTSTART;TZID=Europe/London:20261203T190000
+DTEND;TZID=Europe/London:20261203T213000
+SUMMARY:Regular meeting\, Buchan St John No. 636
+LOCATION:Broxburn Bowling Club\, West Burnside\, Broxburn EH52 5RG
+DESCRIPTION:Regular meeting. Buchan St John No. 636.\nTime is the lodge’s
+  usual meeting time (7pm).\nMeets 1st and 3rd Thursday\, September to Apri
+ l\, 7pm.\nConcept demo by TaleTellers Ltd with sample data: confirm with t
+ he lodge secretary before travelling.
+URL:https://thescar4295.github.io/pgl-linlithgowshire-demo/636/
+STATUS:CONFIRMED
+CATEGORIES:regular
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:m-409-20261203@pgl-linlithgowshire-demo
+DTSTAMP:20261030T142030Z
+DTSTART;TZID=Europe/London:20261203T193000
+DTEND;TZID=Europe/London:20261203T220000
+SUMMARY:Regular meeting\, The Douglas No. 409
+LOCATION:Masonic Hall\, 89 Stewart Avenue\, Bo’ness EH51 9NJ
+DESCRIPTION:Regular meeting. The Douglas No. 409.\nTime is the lodge’s us
+ ual meeting time (7.30pm).\nMeets 1st and 3rd Thursday\, September to Apri
+ l\, 7.30pm.\nConcept demo by TaleTellers Ltd with sample data: confirm wit
+ h the lodge secretary before travelling.
+URL:https://thescar4295.github.io/pgl-linlithgowshire-demo/409/
+STATUS:CONFIRMED
+CATEGORIES:regular
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1186-20261203@pgl-linlithgowshire-demo
+DTSTAMP:20261030T142030Z
+DTSTART;TZID=Europe/London:20261203T193000
+DTEND;TZID=Europe/London:20261203T220000
+SUMMARY:Entered Apprentice degree\, St John Stoneyburn No. 1186
+LOCATION:Masonic Hall\, 77 Main Street\, Stoneyburn EH47 8BY
+DESCRIPTION:Degree. St John Stoneyburn No. 1186.\nWith Polkemmet No. 927\nT
+ ime is the lodge’s usual meeting time (7.30pm).\nConferred by a team fro
+ m Polkemmet No. 927.\nConcept demo by TaleTellers Ltd with sample data: co
+ nfirm with the lodge secretary before travelling.
+URL:https://thescar4295.github.io/pgl-linlithgowshire-demo/1186/
+STATUS:CONFIRMED
+CATEGORIES:degree
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1658-20261204@pgl-linlithgowshire-demo
+DTSTAMP:20261030T142030Z
+DTSTART;TZID=Europe/London:20261204T193000
+DTEND;TZID=Europe/London:20261204T213000
+SUMMARY:Annual general meeting\, Almondale No. 1658
+LOCATION:Masonic Hall\, Craigshill Road West\, Livingston
+DESCRIPTION:Annual meeting. Almondale No. 1658.\nTime is the lodge’s usua
+ l meeting time (7.30pm).\nMembers only.\nConcept demo by TaleTellers Ltd w
+ ith sample data: confirm with the lodge secretary before travelling.
+URL:https://thescar4295.github.io/pgl-linlithgowshire-demo/1658/
+STATUS:CONFIRMED
+CATEGORIES:agm
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:i-272-20261205@pgl-linlithgowshire-demo
+DTSTAMP:20261030T142030Z
+DTSTART;TZID=Europe/London:20261205T140000
+DTEND;TZID=Europe/London:20261205T180000
+SUMMARY:Installation of office-bearers\, St John Mid Calder No. 272
+LOCATION:Masonic Hall\, Bank Street\, Mid Calder EH53 0AR
+DESCRIPTION:Installation. St John Mid Calder No. 272.\nConcept demo by Tale
+ Tellers Ltd with sample data: confirm with the lodge secretary before trav
+ elling.
+URL:https://thescar4295.github.io/pgl-linlithgowshire-demo/272/
+STATUS:CONFIRMED
+CATEGORIES:installation
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:m-927-20261207@pgl-linlithgowshire-demo
+DTSTAMP:20261030T142030Z
+DTSTART;TZID=Europe/London:20261207T193000
+DTEND;TZID=Europe/London:20261207T220000
+SUMMARY:Regular meeting\, Polkemmet No. 927
+LOCATION:Masonic Hall\, 7a East Main Street\, Whitburn EH47 0RA
+DESCRIPTION:Regular meeting. Polkemmet No. 927.\nTime is the lodge’s usua
+ l meeting time (7.30pm).\nMeets 1st and 3rd Monday\, September to April\, 
+ 7.30pm.\nConcept demo by TaleTellers Ltd with sample data: confirm with th
+ e lodge secretary before travelling.
+URL:https://thescar4295.github.io/pgl-linlithgowshire-demo/927/
+STATUS:CONFIRMED
+CATEGORIES:regular
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:m-548-20261208@pgl-linlithgowshire-demo
+DTSTAMP:20261030T142030Z
+DTSTART;TZID=Europe/London:20261208T193000
+DTEND;TZID=Europe/London:20261208T220000
+SUMMARY:Regular meeting\, St Margaret No. 548
+LOCATION:Masonic Hall\, 3 Stoneycroft Road\, South Queensferry
+DESCRIPTION:Regular meeting. St Margaret No. 548.\nTime is the lodge’s us
+ ual meeting time (7.30pm).\nMeets 2nd and 4th Tuesday\, September to April
+ \, 7.30pm.\nConcept demo by TaleTellers Ltd with sample data: confirm with
+  the lodge secretary before travelling.
+URL:https://thescar4295.github.io/pgl-linlithgowshire-demo/548/
+STATUS:CONFIRMED
+CATEGORIES:regular
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1145-20261208@pgl-linlithgowshire-demo
+DTSTAMP:20261030T142030Z
+DTSTART;TZID=Europe/London:20261208T193000
+DTEND;TZID=Europe/London:20261208T220000
+SUMMARY:Regular meeting\, Blackridge No. 1145
+LOCATION:Masonic Hall\, 51 South Street\, Armadale EH48 3ET
+DESCRIPTION:Regular meeting. Blackridge No. 1145.\nTime is the lodge’s us
+ ual meeting time (7.30pm).\nMeets 2nd Tuesday\, September to April\, 7.30p
+ m.\nConcept demo by TaleTellers Ltd with sample data: confirm with the lod
+ ge secretary before travelling.
+URL:https://thescar4295.github.io/pgl-linlithgowshire-demo/1145/
+STATUS:CONFIRMED
+CATEGORIES:regular
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:m-17-20261209@pgl-linlithgowshire-demo
+DTSTAMP:20261030T142030Z
+DTSTART;TZID=Europe/London:20261209T193000
+DTEND;TZID=Europe/London:20261209T220000
+SUMMARY:Entered Apprentice degree\, Ancient Brazen No. 17
+LOCATION:Masonic Hall\, Market Lane\, Linlithgow EH49 7AJ
+DESCRIPTION:Degree. Ancient Brazen No. 17.\nTime is the lodge’s usual mee
+ ting time (7.30pm).\nConcept demo by TaleTellers Ltd with sample data: con
+ firm with the lodge secretary before travelling.
+URL:https://thescar4295.github.io/pgl-linlithgowshire-demo/17/
+STATUS:CONFIRMED
+CATEGORIES:degree
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:e039@pgl-linlithgowshire-demo
+DTSTAMP:20261030T142030Z
+DTSTART;VALUE=DATE:20261209
+DTEND;VALUE=DATE:20261210
+SUMMARY:(To be confirmed) Fellow Craft degree\, St Margaret No. 548
+LOCATION:Masonic Hall\, 3 Stoneycroft Road\, South Queensferry
+DESCRIPTION:Degree. St Margaret No. 548.\nTime to be confirmed.\nListed on 
+ a Wednesday\, which is not the lodge’s usual night. To be confirmed.\nCo
+ ncept demo by TaleTellers Ltd with sample data: confirm with the lodge sec
+ retary before travelling.
+URL:https://thescar4295.github.io/pgl-linlithgowshire-demo/548/
+STATUS:TENTATIVE
+CATEGORIES:degree
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:m-374-20261210@pgl-linlithgowshire-demo
+DTSTAMP:20261030T142030Z
+DTSTART;TZID=Europe/London:20261210T193000
+DTEND;TZID=Europe/London:20261210T213000
+SUMMARY:Annual general meeting\, St John Crofthead No. 374
+LOCATION:Masonic Hall\, 6 Bridge Street\, Fauldhouse EH47 9AY
+DESCRIPTION:Annual meeting. St John Crofthead No. 374.\nTime is the lodge
+ ’s usual meeting time (7.30pm).\nMembers only.\nConcept demo by TaleTell
+ ers Ltd with sample data: confirm with the lodge secretary before travelli
+ ng.
+URL:https://thescar4295.github.io/pgl-linlithgowshire-demo/374/
+STATUS:CONFIRMED
+CATEGORIES:agm
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1587-20261211@pgl-linlithgowshire-demo
+DTSTAMP:20261030T142030Z
+DTSTART;TZID=Europe/London:20261211T193000
+DTEND;TZID=Europe/London:20261211T220000
+SUMMARY:Regular meeting\, St Andrew No. 1587
+LOCATION:Masonic Hall\, 3 Nellburn Road\, Deans\, Livingston EH54 8QU
+DESCRIPTION:Regular meeting. St Andrew No. 1587.\nTime is the lodge’s usu
+ al meeting time (7.30pm).\nMeets 2nd and 4th Friday\, August to April\, 7.
+ 30pm.\nConcept demo by TaleTellers Ltd with sample data: confirm with the 
+ lodge secretary before travelling.
+URL:https://thescar4295.github.io/pgl-linlithgowshire-demo/1587/
+STATUS:CONFIRMED
+CATEGORIES:regular
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:i-1145-20261212@pgl-linlithgowshire-demo
+DTSTAMP:20261030T142030Z
+DTSTART;TZID=Europe/London:20261212T140000
+DTEND;TZID=Europe/London:20261212T180000
+SUMMARY:Installation of office-bearers\, Blackridge No. 1145
+LOCATION:Masonic Hall\, 51 South Street\, Armadale EH48 3ET
+DESCRIPTION:Installation. Blackridge No. 1145.\nConcept demo by TaleTellers
+  Ltd with sample data: confirm with the lodge secretary before travelling.
+URL:https://thescar4295.github.io/pgl-linlithgowshire-demo/1145/
+STATUS:CONFIRMED
+CATEGORIES:installation
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:i-85-20261214@pgl-linlithgowshire-demo
+DTSTAMP:20261030T142030Z
+DTSTART;TZID=Europe/London:20261214T190000
+DTEND;TZID=Europe/London:20261214T230000
+SUMMARY:(To be confirmed) Installation of office-bearers\, Kirknewton & Rat
+ ho No. 85
+LOCATION:Ratho Bowling Club\, 42 Main Street\, Ratho EH28 8RB
+DESCRIPTION:Installation. Kirknewton & Ratho No. 85.\nThe lodge page gives 
+ Friday 11 December\; the calendar gives Monday 14 December. To be confirme
+ d.\nConcept demo by TaleTellers Ltd with sample data: confirm with the lod
+ ge secretary before travelling.
+URL:https://thescar4295.github.io/pgl-linlithgowshire-demo/85/
+STATUS:TENTATIVE
+CATEGORIES:installation
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:i-13-20261215@pgl-linlithgowshire-demo
+DTSTAMP:20261030T142030Z
+DTSTART;TZID=Europe/London:20261215T183000
+DTEND;TZID=Europe/London:20261215T223000
+SUMMARY:Installation of office-bearers\, Torphichen Kilwinning No. 13
+LOCATION:Masonic Hall\, 22 Jarvey Street\, Bathgate EH48 4EZ
+DESCRIPTION:Installation. Torphichen Kilwinning No. 13.\nConcept demo by Ta
+ leTellers Ltd with sample data: confirm with the lodge secretary before tr
+ avelling.
+URL:https://thescar4295.github.io/pgl-linlithgowshire-demo/13/
+STATUS:CONFIRMED
+CATEGORIES:installation
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:m-272-20261215@pgl-linlithgowshire-demo
+DTSTAMP:20261030T142030Z
+DTSTART;TZID=Europe/London:20261215T190000
+DTEND;TZID=Europe/London:20261215T213000
+SUMMARY:Regular meeting\, St John Mid Calder No. 272
+LOCATION:Masonic Hall\, Bank Street\, Mid Calder EH53 0AR
+DESCRIPTION:Regular meeting. St John Mid Calder No. 272.\nTime is the lodge
+ ’s usual meeting time (7pm).\nMeets 1st and 3rd Tuesday\, September to A
+ pril\, 7pm.\nConcept demo by TaleTellers Ltd with sample data: confirm wit
+ h the lodge secretary before travelling.
+URL:https://thescar4295.github.io/pgl-linlithgowshire-demo/272/
+STATUS:CONFIRMED
+CATEGORIES:regular
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:e044@pgl-linlithgowshire-demo
+DTSTAMP:20261030T142030Z
+DTSTART;VALUE=DATE:20261216
+DTEND;VALUE=DATE:20261217
+SUMMARY:Annual general meeting\, St James Harthill No. 590
+LOCATION:30 Social Club\, Off West Main Street\, Harthill
+DESCRIPTION:Annual meeting. St James Harthill No. 590.\nTime to be confirme
+ d.\nMembers only.\nConcept demo by TaleTellers Ltd with sample data: confi
+ rm with the lodge secretary before travelling.
+URL:https://thescar4295.github.io/pgl-linlithgowshire-demo/590/
+STATUS:CONFIRMED
+CATEGORIES:agm
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:m-636-20261217@pgl-linlithgowshire-demo
+DTSTAMP:20261030T142030Z
+DTSTART;TZID=Europe/London:20261217T190000
+DTEND;TZID=Europe/London:20261217T213000
+SUMMARY:Regular meeting\, Buchan St John No. 636
+LOCATION:Broxburn Bowling Club\, West Burnside\, Broxburn EH52 5RG
+DESCRIPTION:Regular meeting. Buchan St John No. 636.\nTime is the lodge’s
+  usual meeting time (7pm).\nMeets 1st and 3rd Thursday\, September to Apri
+ l\, 7pm.\nConcept demo by TaleTellers Ltd with sample data: confirm with t
+ he lodge secretary before travelling.
+URL:https://thescar4295.github.io/pgl-linlithgowshire-demo/636/
+STATUS:CONFIRMED
+CATEGORIES:regular
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:m-409-20261217@pgl-linlithgowshire-demo
+DTSTAMP:20261030T142030Z
+DTSTART;TZID=Europe/London:20261217T193000
+DTEND;TZID=Europe/London:20261217T220000
+SUMMARY:Regular meeting\, The Douglas No. 409
+LOCATION:Masonic Hall\, 89 Stewart Avenue\, Bo’ness EH51 9NJ
+DESCRIPTION:Regular meeting. The Douglas No. 409.\nTime is the lodge’s us
+ ual meeting time (7.30pm).\nMeets 1st and 3rd Thursday\, September to Apri
+ l\, 7.30pm.\nConcept demo by TaleTellers Ltd with sample data: confirm wit
+ h the lodge secretary before travelling.
+URL:https://thescar4295.github.io/pgl-linlithgowshire-demo/409/
+STATUS:CONFIRMED
+CATEGORIES:regular
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1186-20261217@pgl-linlithgowshire-demo
+DTSTAMP:20261030T142030Z
+DTSTART;TZID=Europe/London:20261217T193000
+DTEND;TZID=Europe/London:20261217T220000
+SUMMARY:Fellow Craft degree\, St John Stoneyburn No. 1186
+LOCATION:Masonic Hall\, 77 Main Street\, Stoneyburn EH47 8BY
+DESCRIPTION:Degree. St John Stoneyburn No. 1186.\nTime is the lodge’s usu
+ al meeting time (7.30pm).\nConcept demo by TaleTellers Ltd with sample dat
+ a: confirm with the lodge secretary before travelling.
+URL:https://thescar4295.github.io/pgl-linlithgowshire-demo/1186/
+STATUS:CONFIRMED
+CATEGORIES:degree
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1614-20261218@pgl-linlithgowshire-demo
+DTSTAMP:20261030T142030Z
+DTSTART;TZID=Europe/London:20261218T193000
+DTEND;TZID=Europe/London:20261218T220000
+SUMMARY:Fellow Craft degree\, Kirkton Hall No. 1614
+LOCATION:Masonic Hall\, Kidd Street\, Blackburn
+DESCRIPTION:Degree. Kirkton Hall No. 1614.\nTime is the lodge’s usual mee
+ ting time (7.30pm).\nConcept demo by TaleTellers Ltd with sample data: con
+ firm with the lodge secretary before travelling.
+URL:https://thescar4295.github.io/pgl-linlithgowshire-demo/1614/
+STATUS:CONFIRMED
+CATEGORIES:degree
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:i-927-20261219@pgl-linlithgowshire-demo
+DTSTAMP:20261030T142030Z
+DTSTART;TZID=Europe/London:20261219T160000
+DTEND;TZID=Europe/London:20261219T200000
+SUMMARY:Installation of office-bearers\, Polkemmet No. 927
+LOCATION:Masonic Hall\, 7a East Main Street\, Whitburn EH47 0RA
+DESCRIPTION:Installation. Polkemmet No. 927.\nConcept demo by TaleTellers L
+ td with sample data: confirm with the lodge secretary before travelling.
+URL:https://thescar4295.github.io/pgl-linlithgowshire-demo/927/
+STATUS:CONFIRMED
+CATEGORIES:installation
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:m-927-20261221@pgl-linlithgowshire-demo
+DTSTAMP:20261030T142030Z
+DTSTART;TZID=Europe/London:20261221T193000
+DTEND;TZID=Europe/London:20261221T220000
+SUMMARY:Regular meeting\, Polkemmet No. 927
+LOCATION:Masonic Hall\, 7a East Main Street\, Whitburn EH47 0RA
+DESCRIPTION:Regular meeting. Polkemmet No. 927.\nTime is the lodge’s usua
+ l meeting time (7.30pm).\nMeets 1st and 3rd Monday\, September to April\, 
+ 7.30pm.\nConcept demo by TaleTellers Ltd with sample data: confirm with th
+ e lodge secretary before travelling.
+URL:https://thescar4295.github.io/pgl-linlithgowshire-demo/927/
+STATUS:CONFIRMED
+CATEGORIES:regular
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:m-548-20261222@pgl-linlithgowshire-demo
+DTSTAMP:20261030T142030Z
+DTSTART;TZID=Europe/London:20261222T193000
+DTEND;TZID=Europe/London:20261222T220000
+SUMMARY:Regular meeting\, St Margaret No. 548
+LOCATION:Masonic Hall\, 3 Stoneycroft Road\, South Queensferry
+DESCRIPTION:Regular meeting. St Margaret No. 548.\nTime is the lodge’s us
+ ual meeting time (7.30pm).\nMeets 2nd and 4th Tuesday\, September to April
+ \, 7.30pm.\nConcept demo by TaleTellers Ltd with sample data: confirm with
+  the lodge secretary before travelling.
+URL:https://thescar4295.github.io/pgl-linlithgowshire-demo/548/
+STATUS:CONFIRMED
+CATEGORIES:regular
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:m-827-20261223@pgl-linlithgowshire-demo
+DTSTAMP:20261030T142030Z
+DTSTART;TZID=Europe/London:20261223T193000
+DTEND;TZID=Europe/London:20261223T220000
+SUMMARY:Regular meeting\, Hope Bridge Castle No. 827
+LOCATION:Masonic Hall\, 51 South Street\, Armadale EH48 3ET
+DESCRIPTION:Regular meeting. Hope Bridge Castle No. 827.\nTime is the lodge
+ ’s usual meeting time (7.30pm).\nMeets 4th Wednesday\, September to Apri
+ l\, 7.30pm.\nConcept demo by TaleTellers Ltd with sample data: confirm wit
+ h the lodge secretary before travelling.
+URL:https://thescar4295.github.io/pgl-linlithgowshire-demo/827/
+STATUS:CONFIRMED
+CATEGORIES:regular
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:m-374-20261224@pgl-linlithgowshire-demo
+DTSTAMP:20261030T142030Z
+DTSTART;TZID=Europe/London:20261224T193000
+DTEND;TZID=Europe/London:20261224T220000
+SUMMARY:Regular meeting\, St John Crofthead No. 374
+LOCATION:Masonic Hall\, 6 Bridge Street\, Fauldhouse EH47 9AY
+DESCRIPTION:Regular meeting. St John Crofthead No. 374.\nTime is the lodge
+ ’s usual meeting time (7.30pm).\nMeets 2nd and 4th Thursday\, September 
+ to April\, 7.30pm.\nConcept demo by TaleTellers Ltd with sample data: conf
+ irm with the lodge secretary before travelling.
+URL:https://thescar4295.github.io/pgl-linlithgowshire-demo/374/
+STATUS:CONFIRMED
+CATEGORIES:regular
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1587-20261225@pgl-linlithgowshire-demo
+DTSTAMP:20261030T142030Z
+DTSTART;TZID=Europe/London:20261225T193000
+DTEND;TZID=Europe/London:20261225T220000
+SUMMARY:Regular meeting\, St Andrew No. 1587
+LOCATION:Masonic Hall\, 3 Nellburn Road\, Deans\, Livingston EH54 8QU
+DESCRIPTION:Regular meeting. St Andrew No. 1587.\nTime is the lodge’s usu
+ al meeting time (7.30pm).\nMeets 2nd and 4th Friday\, August to April\, 7.
+ 30pm.\nConcept demo by TaleTellers Ltd with sample data: confirm with the 
+ lodge secretary before travelling.
+URL:https://thescar4295.github.io/pgl-linlithgowshire-demo/1587/
+STATUS:CONFIRMED
+CATEGORIES:regular
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1601-20261228@pgl-linlithgowshire-demo
+DTSTAMP:20261030T142030Z
+DTSTART;TZID=Europe/London:20261228T190000
+DTEND;TZID=Europe/London:20261228T213000
+SUMMARY:Entered Apprentice degree\, Lord Bruce No. 1601
+LOCATION:Masonic Hall\, Kidd Street\, Blackburn
+DESCRIPTION:Degree. Lord Bruce No. 1601.\nTime is the lodge’s usual meeti
+ ng time (7pm).\nConcept demo by TaleTellers Ltd with sample data: confirm 
+ with the lodge secretary before travelling.
+URL:https://thescar4295.github.io/pgl-linlithgowshire-demo/1601/
+STATUS:CONFIRMED
+CATEGORIES:degree
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:e049@pgl-linlithgowshire-demo
+DTSTAMP:20261030T142030Z
+DTSTART;VALUE=DATE:20261229
+DTEND;VALUE=DATE:20261230
+SUMMARY:Annual general meeting\, St Margaret No. 548
+LOCATION:Masonic Hall\, 3 Stoneycroft Road\, South Queensferry
+DESCRIPTION:Annual meeting. St Margaret No. 548.\nTime to be confirmed.\nMe
+ mbers only.\nConcept demo by TaleTellers Ltd with sample data: confirm wit
+ h the lodge secretary before travelling.
+URL:https://thescar4295.github.io/pgl-linlithgowshire-demo/548/
+STATUS:CONFIRMED
+CATEGORIES:agm
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1658-20270101@pgl-linlithgowshire-demo
+DTSTAMP:20261030T142030Z
+DTSTART;TZID=Europe/London:20270101T193000
+DTEND;TZID=Europe/London:20270101T220000
+SUMMARY:Regular meeting\, Almondale No. 1658
+LOCATION:Masonic Hall\, Craigshill Road West\, Livingston
+DESCRIPTION:Regular meeting. Almondale No. 1658.\nTime is the lodge’s usu
+ al meeting time (7.30pm).\nMeets 1st Friday\, every month\, 7.30pm.\nConce
+ pt demo by TaleTellers Ltd with sample data: confirm with the lodge secret
+ ary before travelling.
+URL:https://thescar4295.github.io/pgl-linlithgowshire-demo/1658/
+STATUS:CONFIRMED
+CATEGORIES:regular
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:m-927-20270104@pgl-linlithgowshire-demo
+DTSTAMP:20261030T142030Z
+DTSTART;TZID=Europe/London:20270104T193000
+DTEND;TZID=Europe/London:20270104T220000
+SUMMARY:Regular meeting\, Polkemmet No. 927
+LOCATION:Masonic Hall\, 7a East Main Street\, Whitburn EH47 0RA
+DESCRIPTION:Regular meeting. Polkemmet No. 927.\nTime is the lodge’s usua
+ l meeting time (7.30pm).\nMeets 1st and 3rd Monday\, September to April\, 
+ 7.30pm.\nConcept demo by TaleTellers Ltd with sample data: confirm with th
+ e lodge secretary before travelling.
+URL:https://thescar4295.github.io/pgl-linlithgowshire-demo/927/
+STATUS:CONFIRMED
+CATEGORIES:regular
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:m-272-20270105@pgl-linlithgowshire-demo
+DTSTAMP:20261030T142030Z
+DTSTART;TZID=Europe/London:20270105T190000
+DTEND;TZID=Europe/London:20270105T213000
+SUMMARY:Regular meeting\, St John Mid Calder No. 272
+LOCATION:Masonic Hall\, Bank Street\, Mid Calder EH53 0AR
+DESCRIPTION:Regular meeting. St John Mid Calder No. 272.\nTime is the lodge
+ ’s usual meeting time (7pm).\nMeets 1st and 3rd Tuesday\, September to A
+ pril\, 7pm.\nConcept demo by TaleTellers Ltd with sample data: confirm wit
+ h the lodge secretary before travelling.
+URL:https://thescar4295.github.io/pgl-linlithgowshire-demo/272/
+STATUS:CONFIRMED
+CATEGORIES:regular
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:m-13-20270105@pgl-linlithgowshire-demo
+DTSTAMP:20261030T142030Z
+DTSTART;TZID=Europe/London:20270105T193000
+DTEND;TZID=Europe/London:20270105T220000
+SUMMARY:Regular meeting\, Torphichen Kilwinning No. 13
+LOCATION:Masonic Hall\, 22 Jarvey Street\, Bathgate EH48 4EZ
+DESCRIPTION:Regular meeting. Torphichen Kilwinning No. 13.\nTime is the lod
+ ge’s usual meeting time (7.30pm).\nMeets 1st and 3rd Tuesday\, September
+  to April\, 7.30pm.\nConcept demo by TaleTellers Ltd with sample data: con
+ firm with the lodge secretary before travelling.
+URL:https://thescar4295.github.io/pgl-linlithgowshire-demo/13/
+STATUS:CONFIRMED
+CATEGORIES:regular
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1232-20270105@pgl-linlithgowshire-demo
+DTSTAMP:20261030T142030Z
+DTSTART;TZID=Europe/London:20270105T193000
+DTEND;TZID=Europe/London:20270105T220000
+SUMMARY:Regular meeting\, Hopetoun St John No. 1232
+LOCATION:Masonic Hall\, Market Lane\, Linlithgow EH49 7AJ
+DESCRIPTION:Regular meeting. Hopetoun St John No. 1232.\nTime is the lodge
+ ’s usual meeting time (7.30pm).\nMeets 1st Tuesday\, September to April\
+ , 7.30pm.\nConcept demo by TaleTellers Ltd with sample data: confirm with 
+ the lodge secretary before travelling.
+URL:https://thescar4295.github.io/pgl-linlithgowshire-demo/1232/
+STATUS:CONFIRMED
+CATEGORIES:regular
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:m-590-20270106@pgl-linlithgowshire-demo
+DTSTAMP:20261030T142030Z
+DTSTART;TZID=Europe/London:20270106T190000
+DTEND;TZID=Europe/London:20270106T210000
+SUMMARY:Lecture on the lodge’s flag\, St James Harthill No. 590
+LOCATION:30 Social Club\, Off West Main Street\, Harthill
+DESCRIPTION:Lecture. St James Harthill No. 590.\nTime is the lodge’s usua
+ l meeting time (7pm).\nNo degree this evening.\nConcept demo by TaleTeller
+ s Ltd with sample data: confirm with the lodge secretary before travelling
+ .
+URL:https://thescar4295.github.io/pgl-linlithgowshire-demo/590/
+STATUS:CONFIRMED
+CATEGORIES:lecture
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:m-636-20270107@pgl-linlithgowshire-demo
+DTSTAMP:20261030T142030Z
+DTSTART;TZID=Europe/London:20270107T190000
+DTEND;TZID=Europe/London:20270107T213000
+SUMMARY:Regular meeting\, Buchan St John No. 636
+LOCATION:Broxburn Bowling Club\, West Burnside\, Broxburn EH52 5RG
+DESCRIPTION:Regular meeting. Buchan St John No. 636.\nTime is the lodge’s
+  usual meeting time (7pm).\nMeets 1st and 3rd Thursday\, September to Apri
+ l\, 7pm.\nConcept demo by TaleTellers Ltd with sample data: confirm with t
+ he lodge secretary before travelling.
+URL:https://thescar4295.github.io/pgl-linlithgowshire-demo/636/
+STATUS:CONFIRMED
+CATEGORIES:regular
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:m-409-20270107@pgl-linlithgowshire-demo
+DTSTAMP:20261030T142030Z
+DTSTART;TZID=Europe/London:20270107T193000
+DTEND;TZID=Europe/London:20270107T220000
+SUMMARY:Regular meeting\, The Douglas No. 409
+LOCATION:Masonic Hall\, 89 Stewart Avenue\, Bo’ness EH51 9NJ
+DESCRIPTION:Regular meeting. The Douglas No. 409.\nTime is the lodge’s us
+ ual meeting time (7.30pm).\nMeets 1st and 3rd Thursday\, September to Apri
+ l\, 7.30pm.\nConcept demo by TaleTellers Ltd with sample data: confirm wit
+ h the lodge secretary before travelling.
+URL:https://thescar4295.github.io/pgl-linlithgowshire-demo/409/
+STATUS:CONFIRMED
+CATEGORIES:regular
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1186-20270107@pgl-linlithgowshire-demo
+DTSTAMP:20261030T142030Z
+DTSTART;TZID=Europe/London:20270107T193000
+DTEND;TZID=Europe/London:20270107T220000
+SUMMARY:Regular meeting\, St John Stoneyburn No. 1186
+LOCATION:Masonic Hall\, 77 Main Street\, Stoneyburn EH47 8BY
+DESCRIPTION:Regular meeting. St John Stoneyburn No. 1186.\nTime is the lodg
+ e’s usual meeting time (7.30pm).\nMeets 1st and 3rd Thursday\, September
+  to April\, 7.30pm.\nConcept demo by TaleTellers Ltd with sample data: con
+ firm with the lodge secretary before travelling.
+URL:https://thescar4295.github.io/pgl-linlithgowshire-demo/1186/
+STATUS:CONFIRMED
+CATEGORIES:regular
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1587-20270108@pgl-linlithgowshire-demo
+DTSTAMP:20261030T142030Z
+DTSTART;TZID=Europe/London:20270108T193000
+DTEND;TZID=Europe/London:20270108T220000
+SUMMARY:Regular meeting\, St Andrew No. 1587
+LOCATION:Masonic Hall\, 3 Nellburn Road\, Deans\, Livingston EH54 8QU
+DESCRIPTION:Regular meeting. St Andrew No. 1587.\nTime is the lodge’s usu
+ al meeting time (7.30pm).\nMeets 2nd and 4th Friday\, August to April\, 7.
+ 30pm.\nConcept demo by TaleTellers Ltd with sample data: confirm with the 
+ lodge secretary before travelling.
+URL:https://thescar4295.github.io/pgl-linlithgowshire-demo/1587/
+STATUS:CONFIRMED
+CATEGORIES:regular
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:i-409-20270109@pgl-linlithgowshire-demo
+DTSTAMP:20261030T142030Z
+DTSTART;TZID=Europe/London:20270109T140000
+DTEND;TZID=Europe/London:20270109T180000
+SUMMARY:Installation of office-bearers\, The Douglas No. 409
+LOCATION:Masonic Hall\, 89 Stewart Avenue\, Bo’ness EH51 9NJ
+DESCRIPTION:Installation. The Douglas No. 409.\nConcept demo by TaleTellers
+  Ltd with sample data: confirm with the lodge secretary before travelling.
+URL:https://thescar4295.github.io/pgl-linlithgowshire-demo/409/
+STATUS:CONFIRMED
+CATEGORIES:installation
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:m-85-20270111@pgl-linlithgowshire-demo
+DTSTAMP:20261030T142030Z
+DTSTART;TZID=Europe/London:20270111T193000
+DTEND;TZID=Europe/London:20270111T220000
+SUMMARY:(To be confirmed) Regular meeting\, Kirknewton & Ratho No. 85
+LOCATION:Ratho Bowling Club\, 42 Main Street\, Ratho EH28 8RB
+DESCRIPTION:Regular meeting. Kirknewton & Ratho No. 85.\nTime is the lodge
+ ’s usual meeting time (7.30pm).\nMeets 2nd Monday\, September to April\,
+  7.30pm.\nListed on the calendar as to be confirmed.\nConcept demo by Tale
+ Tellers Ltd with sample data: confirm with the lodge secretary before trav
+ elling.
+URL:https://thescar4295.github.io/pgl-linlithgowshire-demo/85/
+STATUS:TENTATIVE
+CATEGORIES:regular
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:m-548-20270112@pgl-linlithgowshire-demo
+DTSTAMP:20261030T142030Z
+DTSTART;TZID=Europe/London:20270112T193000
+DTEND;TZID=Europe/London:20270112T220000
+SUMMARY:Regular meeting\, St Margaret No. 548
+LOCATION:Masonic Hall\, 3 Stoneycroft Road\, South Queensferry
+DESCRIPTION:Regular meeting. St Margaret No. 548.\nTime is the lodge’s us
+ ual meeting time (7.30pm).\nMeets 2nd and 4th Tuesday\, September to April
+ \, 7.30pm.\nConcept demo by TaleTellers Ltd with sample data: confirm with
+  the lodge secretary before travelling.
+URL:https://thescar4295.github.io/pgl-linlithgowshire-demo/548/
+STATUS:CONFIRMED
+CATEGORIES:regular
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1145-20270112@pgl-linlithgowshire-demo
+DTSTAMP:20261030T142030Z
+DTSTART;TZID=Europe/London:20270112T193000
+DTEND;TZID=Europe/London:20270112T220000
+SUMMARY:Regular meeting\, Blackridge No. 1145
+LOCATION:Masonic Hall\, 51 South Street\, Armadale EH48 3ET
+DESCRIPTION:Regular meeting. Blackridge No. 1145.\nTime is the lodge’s us
+ ual meeting time (7.30pm).\nMeets 2nd Tuesday\, September to April\, 7.30p
+ m.\nConcept demo by TaleTellers Ltd with sample data: confirm with the lod
+ ge secretary before travelling.
+URL:https://thescar4295.github.io/pgl-linlithgowshire-demo/1145/
+STATUS:CONFIRMED
+CATEGORIES:regular
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:m-17-20270113@pgl-linlithgowshire-demo
+DTSTAMP:20261030T142030Z
+DTSTART;TZID=Europe/London:20270113T193000
+DTEND;TZID=Europe/London:20270113T220000
+SUMMARY:Fellow Craft degree\, Ancient Brazen No. 17
+LOCATION:Masonic Hall\, Market Lane\, Linlithgow EH49 7AJ
+DESCRIPTION:Degree. Ancient Brazen No. 17.\nTime is the lodge’s usual mee
+ ting time (7.30pm).\nConcept demo by TaleTellers Ltd with sample data: con
+ firm with the lodge secretary before travelling.
+URL:https://thescar4295.github.io/pgl-linlithgowshire-demo/17/
+STATUS:CONFIRMED
+CATEGORIES:degree
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:m-374-20270114@pgl-linlithgowshire-demo
+DTSTAMP:20261030T142030Z
+DTSTART;TZID=Europe/London:20270114T193000
+DTEND;TZID=Europe/London:20270114T220000
+SUMMARY:Fellow Craft degree\, and nominations\, St John Crofthead No. 374
+LOCATION:Masonic Hall\, 6 Bridge Street\, Fauldhouse EH47 9AY
+DESCRIPTION:Degree. St John Crofthead No. 374.\nWith a visiting degree team
+ \nTime is the lodge’s usual meeting time (7.30pm).\nConferred by a visit
+ ing team (named only by initials on the calendar).\nConcept demo by TaleTe
+ llers Ltd with sample data: confirm with the lodge secretary before travel
+ ling.
+URL:https://thescar4295.github.io/pgl-linlithgowshire-demo/374/
+STATUS:CONFIRMED
+CATEGORIES:degree
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1614-20270115@pgl-linlithgowshire-demo
+DTSTAMP:20261030T142030Z
+DTSTART;TZID=Europe/London:20270115T193000
+DTEND;TZID=Europe/London:20270115T220000
+SUMMARY:Regular meeting\, Kirkton Hall No. 1614
+LOCATION:Masonic Hall\, Kidd Street\, Blackburn
+DESCRIPTION:Regular meeting. Kirkton Hall No. 1614.\nTime is the lodge’s 
+ usual meeting time (7.30pm).\nMeets 3rd Friday\, September to April\, 7.30
+ pm.\nConcept demo by TaleTellers Ltd with sample data: confirm with the lo
+ dge secretary before travelling.
+URL:https://thescar4295.github.io/pgl-linlithgowshire-demo/1614/
+STATUS:CONFIRMED
+CATEGORIES:regular
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:i-1232-20270116@pgl-linlithgowshire-demo
+DTSTAMP:20261030T142030Z
+DTSTART;TZID=Europe/London:20270116T130000
+DTEND;TZID=Europe/London:20270116T170000
+SUMMARY:Installation of office-bearers\, Hopetoun St John No. 1232
+LOCATION:Masonic Hall\, Market Lane\, Linlithgow EH49 7AJ
+DESCRIPTION:Installation. Hopetoun St John No. 1232.\nConcept demo by TaleT
+ ellers Ltd with sample data: confirm with the lodge secretary before trave
+ lling.
+URL:https://thescar4295.github.io/pgl-linlithgowshire-demo/1232/
+STATUS:CONFIRMED
+CATEGORIES:installation
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:m-927-20270118@pgl-linlithgowshire-demo
+DTSTAMP:20261030T142030Z
+DTSTART;TZID=Europe/London:20270118T193000
+DTEND;TZID=Europe/London:20270118T220000
+SUMMARY:Regular meeting\, Polkemmet No. 927
+LOCATION:Masonic Hall\, 7a East Main Street\, Whitburn EH47 0RA
+DESCRIPTION:Regular meeting. Polkemmet No. 927.\nTime is the lodge’s usua
+ l meeting time (7.30pm).\nMeets 1st and 3rd Monday\, September to April\, 
+ 7.30pm.\nConcept demo by TaleTellers Ltd with sample data: confirm with th
+ e lodge secretary before travelling.
+URL:https://thescar4295.github.io/pgl-linlithgowshire-demo/927/
+STATUS:CONFIRMED
+CATEGORIES:regular
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:m-272-20270119@pgl-linlithgowshire-demo
+DTSTAMP:20261030T142030Z
+DTSTART;TZID=Europe/London:20270119T190000
+DTEND;TZID=Europe/London:20270119T213000
+SUMMARY:Regular meeting\, St John Mid Calder No. 272
+LOCATION:Masonic Hall\, Bank Street\, Mid Calder EH53 0AR
+DESCRIPTION:Regular meeting. St John Mid Calder No. 272.\nTime is the lodge
+ ’s usual meeting time (7pm).\nMeets 1st and 3rd Tuesday\, September to A
+ pril\, 7pm.\nConcept demo by TaleTellers Ltd with sample data: confirm wit
+ h the lodge secretary before travelling.
+URL:https://thescar4295.github.io/pgl-linlithgowshire-demo/272/
+STATUS:CONFIRMED
+CATEGORIES:regular
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:m-13-20270119@pgl-linlithgowshire-demo
+DTSTAMP:20261030T142030Z
+DTSTART;TZID=Europe/London:20270119T193000
+DTEND;TZID=Europe/London:20270119T220000
+SUMMARY:Regular meeting\, Torphichen Kilwinning No. 13
+LOCATION:Masonic Hall\, 22 Jarvey Street\, Bathgate EH48 4EZ
+DESCRIPTION:Regular meeting. Torphichen Kilwinning No. 13.\nTime is the lod
+ ge’s usual meeting time (7.30pm).\nMeets 1st and 3rd Tuesday\, September
+  to April\, 7.30pm.\nConcept demo by TaleTellers Ltd with sample data: con
+ firm with the lodge secretary before travelling.
+URL:https://thescar4295.github.io/pgl-linlithgowshire-demo/13/
+STATUS:CONFIRMED
+CATEGORIES:regular
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:e056@pgl-linlithgowshire-demo
+DTSTAMP:20261030T142030Z
+DTSTART;TZID=Europe/London:20270120T190000
+DTEND;TZID=Europe/London:20270120T210000
+SUMMARY:Provincial Grand Committee
+LOCATION:Masonic Hall\, 3 Nellburn Road\, Deans\, Livingston EH54 8QU
+DESCRIPTION:Provincial committee. Provincial Grand Lodge.\nHeld in St Andre
+ w’s hall\, Livingston.\nCommittee members.\nConcept demo by TaleTellers 
+ Ltd with sample data: confirm with the lodge secretary before travelling.
+URL:https://thescar4295.github.io/pgl-linlithgowshire-demo/whatson/
+STATUS:CONFIRMED
+CATEGORIES:committee
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:m-636-20270121@pgl-linlithgowshire-demo
+DTSTAMP:20261030T142030Z
+DTSTART;TZID=Europe/London:20270121T190000
+DTEND;TZID=Europe/London:20270121T213000
+SUMMARY:Regular meeting\, Buchan St John No. 636
+LOCATION:Broxburn Bowling Club\, West Burnside\, Broxburn EH52 5RG
+DESCRIPTION:Regular meeting. Buchan St John No. 636.\nTime is the lodge’s
+  usual meeting time (7pm).\nMeets 1st and 3rd Thursday\, September to Apri
+ l\, 7pm.\nConcept demo by TaleTellers Ltd with sample data: confirm with t
+ he lodge secretary before travelling.
+URL:https://thescar4295.github.io/pgl-linlithgowshire-demo/636/
+STATUS:CONFIRMED
+CATEGORIES:regular
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:m-409-20270121@pgl-linlithgowshire-demo
+DTSTAMP:20261030T142030Z
+DTSTART;TZID=Europe/London:20270121T193000
+DTEND;TZID=Europe/London:20270121T220000
+SUMMARY:Regular meeting\, The Douglas No. 409
+LOCATION:Masonic Hall\, 89 Stewart Avenue\, Bo’ness EH51 9NJ
+DESCRIPTION:Regular meeting. The Douglas No. 409.\nTime is the lodge’s us
+ ual meeting time (7.30pm).\nMeets 1st and 3rd Thursday\, September to Apri
+ l\, 7.30pm.\nConcept demo by TaleTellers Ltd with sample data: confirm wit
+ h the lodge secretary before travelling.
+URL:https://thescar4295.github.io/pgl-linlithgowshire-demo/409/
+STATUS:CONFIRMED
+CATEGORIES:regular
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1186-20270121@pgl-linlithgowshire-demo
+DTSTAMP:20261030T142030Z
+DTSTART;TZID=Europe/London:20270121T193000
+DTEND;TZID=Europe/London:20270121T220000
+SUMMARY:Regular meeting\, St John Stoneyburn No. 1186
+LOCATION:Masonic Hall\, 77 Main Street\, Stoneyburn EH47 8BY
+DESCRIPTION:Regular meeting. St John Stoneyburn No. 1186.\nTime is the lodg
+ e’s usual meeting time (7.30pm).\nMeets 1st and 3rd Thursday\, September
+  to April\, 7.30pm.\nConcept demo by TaleTellers Ltd with sample data: con
+ firm with the lodge secretary before travelling.
+URL:https://thescar4295.github.io/pgl-linlithgowshire-demo/1186/
+STATUS:CONFIRMED
+CATEGORIES:regular
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1587-20270122@pgl-linlithgowshire-demo
+DTSTAMP:20261030T142030Z
+DTSTART;TZID=Europe/London:20270122T193000
+DTEND;TZID=Europe/London:20270122T220000
+SUMMARY:Regular meeting\, St Andrew No. 1587
+LOCATION:Masonic Hall\, 3 Nellburn Road\, Deans\, Livingston EH54 8QU
+DESCRIPTION:Regular meeting. St Andrew No. 1587.\nTime is the lodge’s usu
+ al meeting time (7.30pm).\nMeets 2nd and 4th Friday\, August to April\, 7.
+ 30pm.\nConcept demo by TaleTellers Ltd with sample data: confirm with the 
+ lodge secretary before travelling.
+URL:https://thescar4295.github.io/pgl-linlithgowshire-demo/1587/
+STATUS:CONFIRMED
+CATEGORIES:regular
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:e057@pgl-linlithgowshire-demo
+DTSTAMP:20261030T142030Z
+DTSTART;VALUE=DATE:20270122
+DTEND;VALUE=DATE:20270123
+SUMMARY:Burns supper\, Lord Bruce No. 1601
+LOCATION:Masonic Hall\, Kidd Street\, Blackburn
+DESCRIPTION:Social. Lord Bruce No. 1601.\nTime to be confirmed.\nTime and t
+ ickets to be confirmed by the lodge.\nVisitors welcome.\nConcept demo by T
+ aleTellers Ltd with sample data: confirm with the lodge secretary before t
+ ravelling.
+URL:https://thescar4295.github.io/pgl-linlithgowshire-demo/1601/
+STATUS:CONFIRMED
+CATEGORIES:social
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:i-548-20270123@pgl-linlithgowshire-demo
+DTSTAMP:20261030T142030Z
+DTSTART;TZID=Europe/London:20270123T140000
+DTEND;TZID=Europe/London:20270123T180000
+SUMMARY:(To be confirmed) Installation of office-bearers\, St Margaret No. 
+ 548
+LOCATION:Masonic Hall\, 3 Stoneycroft Road\, South Queensferry
+DESCRIPTION:Installation. St Margaret No. 548.\nThe lodge page gives a Frid
+ ay evening in January\; the calendar gives this Saturday. To be confirmed.
+ \nConcept demo by TaleTellers Ltd with sample data: confirm with the lodge
+  secretary before travelling.
+URL:https://thescar4295.github.io/pgl-linlithgowshire-demo/548/
+STATUS:TENTATIVE
+CATEGORIES:installation
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1601-20270125@pgl-linlithgowshire-demo
+DTSTAMP:20261030T142030Z
+DTSTART;TZID=Europe/London:20270125T190000
+DTEND;TZID=Europe/London:20270125T213000
+SUMMARY:Fellow Craft degree\, Lord Bruce No. 1601
+LOCATION:Masonic Hall\, Kidd Street\, Blackburn
+DESCRIPTION:Degree. Lord Bruce No. 1601.\nTime is the lodge’s usual meeti
+ ng time (7pm).\nConcept demo by TaleTellers Ltd with sample data: confirm 
+ with the lodge secretary before travelling.
+URL:https://thescar4295.github.io/pgl-linlithgowshire-demo/1601/
+STATUS:CONFIRMED
+CATEGORIES:degree
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:m-548-20270126@pgl-linlithgowshire-demo
+DTSTAMP:20261030T142030Z
+DTSTART;TZID=Europe/London:20270126T193000
+DTEND;TZID=Europe/London:20270126T220000
+SUMMARY:Regular meeting\, St Margaret No. 548
+LOCATION:Masonic Hall\, 3 Stoneycroft Road\, South Queensferry
+DESCRIPTION:Regular meeting. St Margaret No. 548.\nTime is the lodge’s us
+ ual meeting time (7.30pm).\nMeets 2nd and 4th Tuesday\, September to April
+ \, 7.30pm.\nConcept demo by TaleTellers Ltd with sample data: confirm with
+  the lodge secretary before travelling.
+URL:https://thescar4295.github.io/pgl-linlithgowshire-demo/548/
+STATUS:CONFIRMED
+CATEGORIES:regular
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:m-827-20270127@pgl-linlithgowshire-demo
+DTSTAMP:20261030T142030Z
+DTSTART;TZID=Europe/London:20270127T193000
+DTEND;TZID=Europe/London:20270127T220000
+SUMMARY:Regular meeting\, Hope Bridge Castle No. 827
+LOCATION:Masonic Hall\, 51 South Street\, Armadale EH48 3ET
+DESCRIPTION:Regular meeting. Hope Bridge Castle No. 827.\nTime is the lodge
+ ’s usual meeting time (7.30pm).\nMeets 4th Wednesday\, September to Apri
+ l\, 7.30pm.\nConcept demo by TaleTellers Ltd with sample data: confirm wit
+ h the lodge secretary before travelling.
+URL:https://thescar4295.github.io/pgl-linlithgowshire-demo/827/
+STATUS:CONFIRMED
+CATEGORIES:regular
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:m-374-20270128@pgl-linlithgowshire-demo
+DTSTAMP:20261030T142030Z
+DTSTART;TZID=Europe/London:20270128T193000
+DTEND;TZID=Europe/London:20270128T220000
+SUMMARY:Fellow Craft degree\, St John Crofthead No. 374
+LOCATION:Masonic Hall\, 6 Bridge Street\, Fauldhouse EH47 9AY
+DESCRIPTION:Degree. St John Crofthead No. 374.\nWith Blackridge No. 1145\nT
+ ime is the lodge’s usual meeting time (7.30pm).\nConferred by a team fro
+ m Blackridge No. 1145.\nConcept demo by TaleTellers Ltd with sample data: 
+ confirm with the lodge secretary before travelling.
+URL:https://thescar4295.github.io/pgl-linlithgowshire-demo/374/
+STATUS:CONFIRMED
+CATEGORIES:degree
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:m-927-20270201@pgl-linlithgowshire-demo
+DTSTAMP:20261030T142030Z
+DTSTART;TZID=Europe/London:20270201T193000
+DTEND;TZID=Europe/London:20270201T220000
+SUMMARY:Regular meeting\, Polkemmet No. 927
+LOCATION:Masonic Hall\, 7a East Main Street\, Whitburn EH47 0RA
+DESCRIPTION:Regular meeting. Polkemmet No. 927.\nTime is the lodge’s usua
+ l meeting time (7.30pm).\nMeets 1st and 3rd Monday\, September to April\, 
+ 7.30pm.\nConcept demo by TaleTellers Ltd with sample data: confirm with th
+ e lodge secretary before travelling.
+URL:https://thescar4295.github.io/pgl-linlithgowshire-demo/927/
+STATUS:CONFIRMED
+CATEGORIES:regular
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:m-272-20270202@pgl-linlithgowshire-demo
+DTSTAMP:20261030T142030Z
+DTSTART;TZID=Europe/London:20270202T190000
+DTEND;TZID=Europe/London:20270202T213000
+SUMMARY:(To be confirmed) Regular meeting\, St John Mid Calder No. 272
+LOCATION:Masonic Hall\, Bank Street\, Mid Calder EH53 0AR
+DESCRIPTION:Regular meeting. St John Mid Calder No. 272.\nTime is the lodge
+ ’s usual meeting time (7pm).\nMeets 1st and 3rd Tuesday\, September to A
+ pril\, 7pm.\nListed on the calendar as to be confirmed.\nConcept demo by T
+ aleTellers Ltd with sample data: confirm with the lodge secretary before t
+ ravelling.
+URL:https://thescar4295.github.io/pgl-linlithgowshire-demo/272/
+STATUS:TENTATIVE
+CATEGORIES:regular
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:m-13-20270202@pgl-linlithgowshire-demo
+DTSTAMP:20261030T142030Z
+DTSTART;TZID=Europe/London:20270202T193000
+DTEND;TZID=Europe/London:20270202T220000
+SUMMARY:(To be confirmed) Regular meeting\, Torphichen Kilwinning No. 13
+LOCATION:Masonic Hall\, 22 Jarvey Street\, Bathgate EH48 4EZ
+DESCRIPTION:Regular meeting. Torphichen Kilwinning No. 13.\nTime is the lod
+ ge’s usual meeting time (7.30pm).\nMeets 1st and 3rd Tuesday\, September
+  to April\, 7.30pm.\nListed on the calendar as to be confirmed.\nConcept d
+ emo by TaleTellers Ltd with sample data: confirm with the lodge secretary 
+ before travelling.
+URL:https://thescar4295.github.io/pgl-linlithgowshire-demo/13/
+STATUS:TENTATIVE
+CATEGORIES:regular
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1232-20270202@pgl-linlithgowshire-demo
+DTSTAMP:20261030T142030Z
+DTSTART;TZID=Europe/London:20270202T193000
+DTEND;TZID=Europe/London:20270202T220000
+SUMMARY:(To be confirmed) Regular meeting\, Hopetoun St John No. 1232
+LOCATION:Masonic Hall\, Market Lane\, Linlithgow EH49 7AJ
+DESCRIPTION:Regular meeting. Hopetoun St John No. 1232.\nTime is the lodge
+ ’s usual meeting time (7.30pm).\nMeets 1st Tuesday\, September to April\
+ , 7.30pm.\nListed on the calendar as to be confirmed.\nConcept demo by Tal
+ eTellers Ltd with sample data: confirm with the lodge secretary before tra
+ velling.
+URL:https://thescar4295.github.io/pgl-linlithgowshire-demo/1232/
+STATUS:TENTATIVE
+CATEGORIES:regular
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:m-590-20270203@pgl-linlithgowshire-demo
+DTSTAMP:20261030T142030Z
+DTSTART;TZID=Europe/London:20270203T190000
+DTEND;TZID=Europe/London:20270203T213000
+SUMMARY:(To be confirmed) Degree conferred by Blackridge\, St James Harthil
+ l No. 590
+LOCATION:30 Social Club\, Off West Main Street\, Harthill
+DESCRIPTION:Degree. St James Harthill No. 590.\nWith Blackridge No. 1145\nT
+ ime is the lodge’s usual meeting time (7pm).\nConferred by a team from B
+ lackridge No. 1145. Which degree is to be confirmed.\nConcept demo by Tale
+ Tellers Ltd with sample data: confirm with the lodge secretary before trav
+ elling.
+URL:https://thescar4295.github.io/pgl-linlithgowshire-demo/590/
+STATUS:TENTATIVE
+CATEGORIES:degree
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:m-636-20270204@pgl-linlithgowshire-demo
+DTSTAMP:20261030T142030Z
+DTSTART;TZID=Europe/London:20270204T190000
+DTEND;TZID=Europe/London:20270204T213000
+SUMMARY:Regular meeting\, Buchan St John No. 636
+LOCATION:Broxburn Bowling Club\, West Burnside\, Broxburn EH52 5RG
+DESCRIPTION:Regular meeting. Buchan St John No. 636.\nTime is the lodge’s
+  usual meeting time (7pm).\nMeets 1st and 3rd Thursday\, September to Apri
+ l\, 7pm.\nConcept demo by TaleTellers Ltd with sample data: confirm with t
+ he lodge secretary before travelling.
+URL:https://thescar4295.github.io/pgl-linlithgowshire-demo/636/
+STATUS:CONFIRMED
+CATEGORIES:regular
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:m-409-20270204@pgl-linlithgowshire-demo
+DTSTAMP:20261030T142030Z
+DTSTART;TZID=Europe/London:20270204T193000
+DTEND;TZID=Europe/London:20270204T220000
+SUMMARY:Regular meeting\, The Douglas No. 409
+LOCATION:Masonic Hall\, 89 Stewart Avenue\, Bo’ness EH51 9NJ
+DESCRIPTION:Regular meeting. The Douglas No. 409.\nTime is the lodge’s us
+ ual meeting time (7.30pm).\nMeets 1st and 3rd Thursday\, September to Apri
+ l\, 7.30pm.\nConcept demo by TaleTellers Ltd with sample data: confirm wit
+ h the lodge secretary before travelling.
+URL:https://thescar4295.github.io/pgl-linlithgowshire-demo/409/
+STATUS:CONFIRMED
+CATEGORIES:regular
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1186-20270204@pgl-linlithgowshire-demo
+DTSTAMP:20261030T142030Z
+DTSTART;TZID=Europe/London:20270204T193000
+DTEND;TZID=Europe/London:20270204T220000
+SUMMARY:Regular meeting\, St John Stoneyburn No. 1186
+LOCATION:Masonic Hall\, 77 Main Street\, Stoneyburn EH47 8BY
+DESCRIPTION:Regular meeting. St John Stoneyburn No. 1186.\nTime is the lodg
+ e’s usual meeting time (7.30pm).\nMeets 1st and 3rd Thursday\, September
+  to April\, 7.30pm.\nConcept demo by TaleTellers Ltd with sample data: con
+ firm with the lodge secretary before travelling.
+URL:https://thescar4295.github.io/pgl-linlithgowshire-demo/1186/
+STATUS:CONFIRMED
+CATEGORIES:regular
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1658-20270205@pgl-linlithgowshire-demo
+DTSTAMP:20261030T142030Z
+DTSTART;TZID=Europe/London:20270205T193000
+DTEND;TZID=Europe/London:20270205T220000
+SUMMARY:Regular meeting\, Almondale No. 1658
+LOCATION:Masonic Hall\, Craigshill Road West\, Livingston
+DESCRIPTION:Regular meeting. Almondale No. 1658.\nTime is the lodge’s usu
+ al meeting time (7.30pm).\nMeets 1st Friday\, every month\, 7.30pm.\nConce
+ pt demo by TaleTellers Ltd with sample data: confirm with the lodge secret
+ ary before travelling.
+URL:https://thescar4295.github.io/pgl-linlithgowshire-demo/1658/
+STATUS:CONFIRMED
+CATEGORIES:regular
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:e063@pgl-linlithgowshire-demo
+DTSTAMP:20261030T142030Z
+DTSTART;TZID=Europe/London:20270206T130000
+DTEND;TZID=Europe/London:20270206T170000
+SUMMARY:(To be confirmed) Provincial Installation of Office-Bearers
+DESCRIPTION:Provincial. Provincial Grand Lodge.\nHeld on the 1st Saturday i
+ n February each year. Venue to be announced.\nConcept demo by TaleTellers 
+ Ltd with sample data: confirm with the lodge secretary before travelling.
+URL:https://thescar4295.github.io/pgl-linlithgowshire-demo/whatson/
+STATUS:TENTATIVE
+CATEGORIES:provincial
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:m-85-20270208@pgl-linlithgowshire-demo
+DTSTAMP:20261030T142030Z
+DTSTART;TZID=Europe/London:20270208T193000
+DTEND;TZID=Europe/London:20270208T220000
+SUMMARY:(To be confirmed) Regular meeting\, Kirknewton & Ratho No. 85
+LOCATION:Ratho Bowling Club\, 42 Main Street\, Ratho EH28 8RB
+DESCRIPTION:Regular meeting. Kirknewton & Ratho No. 85.\nTime is the lodge
+ ’s usual meeting time (7.30pm).\nMeets 2nd Monday\, September to April\,
+  7.30pm.\nListed on the calendar as to be confirmed.\nConcept demo by Tale
+ Tellers Ltd with sample data: confirm with the lodge secretary before trav
+ elling.
+URL:https://thescar4295.github.io/pgl-linlithgowshire-demo/85/
+STATUS:TENTATIVE
+CATEGORIES:regular
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:m-548-20270209@pgl-linlithgowshire-demo
+DTSTAMP:20261030T142030Z
+DTSTART;TZID=Europe/London:20270209T193000
+DTEND;TZID=Europe/London:20270209T220000
+SUMMARY:Regular meeting\, St Margaret No. 548
+LOCATION:Masonic Hall\, 3 Stoneycroft Road\, South Queensferry
+DESCRIPTION:Regular meeting. St Margaret No. 548.\nTime is the lodge’s us
+ ual meeting time (7.30pm).\nMeets 2nd and 4th Tuesday\, September to April
+ \, 7.30pm.\nConcept demo by TaleTellers Ltd with sample data: confirm with
+  the lodge secretary before travelling.
+URL:https://thescar4295.github.io/pgl-linlithgowshire-demo/548/
+STATUS:CONFIRMED
+CATEGORIES:regular
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1145-20270209@pgl-linlithgowshire-demo
+DTSTAMP:20261030T142030Z
+DTSTART;TZID=Europe/London:20270209T193000
+DTEND;TZID=Europe/London:20270209T220000
+SUMMARY:Regular meeting\, Blackridge No. 1145
+LOCATION:Masonic Hall\, 51 South Street\, Armadale EH48 3ET
+DESCRIPTION:Regular meeting. Blackridge No. 1145.\nTime is the lodge’s us
+ ual meeting time (7.30pm).\nMeets 2nd Tuesday\, September to April\, 7.30p
+ m.\nConcept demo by TaleTellers Ltd with sample data: confirm with the lod
+ ge secretary before travelling.
+URL:https://thescar4295.github.io/pgl-linlithgowshire-demo/1145/
+STATUS:CONFIRMED
+CATEGORIES:regular
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:m-17-20270210@pgl-linlithgowshire-demo
+DTSTAMP:20261030T142030Z
+DTSTART;TZID=Europe/London:20270210T193000
+DTEND;TZID=Europe/London:20270210T220000
+SUMMARY:Master Mason degree\, Ancient Brazen No. 17
+LOCATION:Masonic Hall\, Market Lane\, Linlithgow EH49 7AJ
+DESCRIPTION:Degree. Ancient Brazen No. 17.\nTime is the lodge’s usual mee
+ ting time (7.30pm).\nConcept demo by TaleTellers Ltd with sample data: con
+ firm with the lodge secretary before travelling.
+URL:https://thescar4295.github.io/pgl-linlithgowshire-demo/17/
+STATUS:CONFIRMED
+CATEGORIES:degree
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:m-374-20270211@pgl-linlithgowshire-demo
+DTSTAMP:20261030T142030Z
+DTSTART;TZID=Europe/London:20270211T193000
+DTEND;TZID=Europe/London:20270211T220000
+SUMMARY:Master Mason degree\, and elections\, St John Crofthead No. 374
+LOCATION:Masonic Hall\, 6 Bridge Street\, Fauldhouse EH47 9AY
+DESCRIPTION:Degree. St John Crofthead No. 374.\nTime is the lodge’s usual
+  meeting time (7.30pm).\nConcept demo by TaleTellers Ltd with sample data:
+  confirm with the lodge secretary before travelling.
+URL:https://thescar4295.github.io/pgl-linlithgowshire-demo/374/
+STATUS:CONFIRMED
+CATEGORIES:degree
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1587-20270212@pgl-linlithgowshire-demo
+DTSTAMP:20261030T142030Z
+DTSTART;TZID=Europe/London:20270212T193000
+DTEND;TZID=Europe/London:20270212T220000
+SUMMARY:Regular meeting\, St Andrew No. 1587
+LOCATION:Masonic Hall\, 3 Nellburn Road\, Deans\, Livingston EH54 8QU
+DESCRIPTION:Regular meeting. St Andrew No. 1587.\nTime is the lodge’s usu
+ al meeting time (7.30pm).\nMeets 2nd and 4th Friday\, August to April\, 7.
+ 30pm.\nConcept demo by TaleTellers Ltd with sample data: confirm with the 
+ lodge secretary before travelling.
+URL:https://thescar4295.github.io/pgl-linlithgowshire-demo/1587/
+STATUS:CONFIRMED
+CATEGORIES:regular
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:i-1614-20270213@pgl-linlithgowshire-demo
+DTSTAMP:20261030T142030Z
+DTSTART;TZID=Europe/London:20270213T140000
+DTEND;TZID=Europe/London:20270213T180000
+SUMMARY:Installation of office-bearers\, Kirkton Hall No. 1614
+LOCATION:Masonic Hall\, Kidd Street\, Blackburn
+DESCRIPTION:Installation. Kirkton Hall No. 1614.\nConcept demo by TaleTelle
+ rs Ltd with sample data: confirm with the lodge secretary before travellin
+ g.
+URL:https://thescar4295.github.io/pgl-linlithgowshire-demo/1614/
+STATUS:CONFIRMED
+CATEGORIES:installation
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:m-927-20270215@pgl-linlithgowshire-demo
+DTSTAMP:20261030T142030Z
+DTSTART;TZID=Europe/London:20270215T193000
+DTEND;TZID=Europe/London:20270215T220000
+SUMMARY:Regular meeting\, Polkemmet No. 927
+LOCATION:Masonic Hall\, 7a East Main Street\, Whitburn EH47 0RA
+DESCRIPTION:Regular meeting. Polkemmet No. 927.\nTime is the lodge’s usua
+ l meeting time (7.30pm).\nMeets 1st and 3rd Monday\, September to April\, 
+ 7.30pm.\nConcept demo by TaleTellers Ltd with sample data: confirm with th
+ e lodge secretary before travelling.
+URL:https://thescar4295.github.io/pgl-linlithgowshire-demo/927/
+STATUS:CONFIRMED
+CATEGORIES:regular
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:m-272-20270216@pgl-linlithgowshire-demo
+DTSTAMP:20261030T142030Z
+DTSTART;TZID=Europe/London:20270216T190000
+DTEND;TZID=Europe/London:20270216T213000
+SUMMARY:Regular meeting\, St John Mid Calder No. 272
+LOCATION:Masonic Hall\, Bank Street\, Mid Calder EH53 0AR
+DESCRIPTION:Regular meeting. St John Mid Calder No. 272.\nTime is the lodge
+ ’s usual meeting time (7pm).\nMeets 1st and 3rd Tuesday\, September to A
+ pril\, 7pm.\nConcept demo by TaleTellers Ltd with sample data: confirm wit
+ h the lodge secretary before travelling.
+URL:https://thescar4295.github.io/pgl-linlithgowshire-demo/272/
+STATUS:CONFIRMED
+CATEGORIES:regular
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:m-13-20270216@pgl-linlithgowshire-demo
+DTSTAMP:20261030T142030Z
+DTSTART;TZID=Europe/London:20270216T193000
+DTEND;TZID=Europe/London:20270216T220000
+SUMMARY:Regular meeting\, Torphichen Kilwinning No. 13
+LOCATION:Masonic Hall\, 22 Jarvey Street\, Bathgate EH48 4EZ
+DESCRIPTION:Regular meeting. Torphichen Kilwinning No. 13.\nTime is the lod
+ ge’s usual meeting time (7.30pm).\nMeets 1st and 3rd Tuesday\, September
+  to April\, 7.30pm.\nConcept demo by TaleTellers Ltd with sample data: con
+ firm with the lodge secretary before travelling.
+URL:https://thescar4295.github.io/pgl-linlithgowshire-demo/13/
+STATUS:CONFIRMED
+CATEGORIES:regular
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:m-636-20270218@pgl-linlithgowshire-demo
+DTSTAMP:20261030T142030Z
+DTSTART;TZID=Europe/London:20270218T190000
+DTEND;TZID=Europe/London:20270218T213000
+SUMMARY:Regular meeting\, Buchan St John No. 636
+LOCATION:Broxburn Bowling Club\, West Burnside\, Broxburn EH52 5RG
+DESCRIPTION:Regular meeting. Buchan St John No. 636.\nTime is the lodge’s
+  usual meeting time (7pm).\nMeets 1st and 3rd Thursday\, September to Apri
+ l\, 7pm.\nConcept demo by TaleTellers Ltd with sample data: confirm with t
+ he lodge secretary before travelling.
+URL:https://thescar4295.github.io/pgl-linlithgowshire-demo/636/
+STATUS:CONFIRMED
+CATEGORIES:regular
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:m-409-20270218@pgl-linlithgowshire-demo
+DTSTAMP:20261030T142030Z
+DTSTART;TZID=Europe/London:20270218T193000
+DTEND;TZID=Europe/London:20270218T220000
+SUMMARY:Regular meeting\, The Douglas No. 409
+LOCATION:Masonic Hall\, 89 Stewart Avenue\, Bo’ness EH51 9NJ
+DESCRIPTION:Regular meeting. The Douglas No. 409.\nTime is the lodge’s us
+ ual meeting time (7.30pm).\nMeets 1st and 3rd Thursday\, September to Apri
+ l\, 7.30pm.\nConcept demo by TaleTellers Ltd with sample data: confirm wit
+ h the lodge secretary before travelling.
+URL:https://thescar4295.github.io/pgl-linlithgowshire-demo/409/
+STATUS:CONFIRMED
+CATEGORIES:regular
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1186-20270218@pgl-linlithgowshire-demo
+DTSTAMP:20261030T142030Z
+DTSTART;TZID=Europe/London:20270218T193000
+DTEND;TZID=Europe/London:20270218T220000
+SUMMARY:Regular meeting\, St John Stoneyburn No. 1186
+LOCATION:Masonic Hall\, 77 Main Street\, Stoneyburn EH47 8BY
+DESCRIPTION:Regular meeting. St John Stoneyburn No. 1186.\nTime is the lodg
+ e’s usual meeting time (7.30pm).\nMeets 1st and 3rd Thursday\, September
+  to April\, 7.30pm.\nConcept demo by TaleTellers Ltd with sample data: con
+ firm with the lodge secretary before travelling.
+URL:https://thescar4295.github.io/pgl-linlithgowshire-demo/1186/
+STATUS:CONFIRMED
+CATEGORIES:regular
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1305-20270219@pgl-linlithgowshire-demo
+DTSTAMP:20261030T142030Z
+DTSTART;TZID=Europe/London:20270219T190000
+DTEND;TZID=Europe/London:20270219T213000
+SUMMARY:Regular meeting\, Pioneer (Reponed) No. 1305
+LOCATION:Masonic Hall\, 3 Nellburn Road\, Deans\, Livingston EH54 8QU
+DESCRIPTION:Regular meeting. Pioneer (Reponed) No. 1305.\nTime is the lodge
+ ’s usual meeting time (7pm).\nMeets 3rd Friday\, February\, April\, Sept
+ ember and November\, 7pm.\nConcept demo by TaleTellers Ltd with sample dat
+ a: confirm with the lodge secretary before travelling.
+URL:https://thescar4295.github.io/pgl-linlithgowshire-demo/1305/
+STATUS:CONFIRMED
+CATEGORIES:regular
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1614-20270219@pgl-linlithgowshire-demo
+DTSTAMP:20261030T142030Z
+DTSTART;TZID=Europe/London:20270219T193000
+DTEND;TZID=Europe/London:20270219T220000
+SUMMARY:Regular meeting\, Kirkton Hall No. 1614
+LOCATION:Masonic Hall\, Kidd Street\, Blackburn
+DESCRIPTION:Regular meeting. Kirkton Hall No. 1614.\nTime is the lodge’s 
+ usual meeting time (7.30pm).\nMeets 3rd Friday\, September to April\, 7.30
+ pm.\nConcept demo by TaleTellers Ltd with sample data: confirm with the lo
+ dge secretary before travelling.
+URL:https://thescar4295.github.io/pgl-linlithgowshire-demo/1614/
+STATUS:CONFIRMED
+CATEGORIES:regular
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:i-590-20270220@pgl-linlithgowshire-demo
+DTSTAMP:20261030T142030Z
+DTSTART;TZID=Europe/London:20270220T170000
+DTEND;TZID=Europe/London:20270220T210000
+SUMMARY:(To be confirmed) Annual installation of office-bearers\, St James 
+ Harthill No. 590
+LOCATION:Masonic Hall\, 7a East Main Street\, Whitburn EH47 0RA
+DESCRIPTION:Installation. St James Harthill No. 590.\nHeld in Polkemmet’s
+  hall\, Whitburn. The lodge page gives 2pm\; the calendar gives 5pm. To be
+  confirmed.\nConcept demo by TaleTellers Ltd with sample data: confirm wit
+ h the lodge secretary before travelling.
+URL:https://thescar4295.github.io/pgl-linlithgowshire-demo/590/
+STATUS:TENTATIVE
+CATEGORIES:installation
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1601-20270222@pgl-linlithgowshire-demo
+DTSTAMP:20261030T142030Z
+DTSTART;TZID=Europe/London:20270222T190000
+DTEND;TZID=Europe/London:20270222T213000
+SUMMARY:Fellow Craft degree\, Lord Bruce No. 1601
+LOCATION:Masonic Hall\, Kidd Street\, Blackburn
+DESCRIPTION:Degree. Lord Bruce No. 1601.\nTime is the lodge’s usual meeti
+ ng time (7pm).\nConcept demo by TaleTellers Ltd with sample data: confirm 
+ with the lodge secretary before travelling.
+URL:https://thescar4295.github.io/pgl-linlithgowshire-demo/1601/
+STATUS:CONFIRMED
+CATEGORIES:degree
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:m-548-20270223@pgl-linlithgowshire-demo
+DTSTAMP:20261030T142030Z
+DTSTART;TZID=Europe/London:20270223T193000
+DTEND;TZID=Europe/London:20270223T220000
+SUMMARY:Regular meeting\, St Margaret No. 548
+LOCATION:Masonic Hall\, 3 Stoneycroft Road\, South Queensferry
+DESCRIPTION:Regular meeting. St Margaret No. 548.\nTime is the lodge’s us
+ ual meeting time (7.30pm).\nMeets 2nd and 4th Tuesday\, September to April
+ \, 7.30pm.\nConcept demo by TaleTellers Ltd with sample data: confirm with
+  the lodge secretary before travelling.
+URL:https://thescar4295.github.io/pgl-linlithgowshire-demo/548/
+STATUS:CONFIRMED
+CATEGORIES:regular
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:m-827-20270224@pgl-linlithgowshire-demo
+DTSTAMP:20261030T142030Z
+DTSTART;TZID=Europe/London:20270224T193000
+DTEND;TZID=Europe/London:20270224T220000
+SUMMARY:Regular meeting\, Hope Bridge Castle No. 827
+LOCATION:Masonic Hall\, 51 South Street\, Armadale EH48 3ET
+DESCRIPTION:Regular meeting. Hope Bridge Castle No. 827.\nTime is the lodge
+ ’s usual meeting time (7.30pm).\nMeets 4th Wednesday\, September to Apri
+ l\, 7.30pm.\nConcept demo by TaleTellers Ltd with sample data: confirm wit
+ h the lodge secretary before travelling.
+URL:https://thescar4295.github.io/pgl-linlithgowshire-demo/827/
+STATUS:CONFIRMED
+CATEGORIES:regular
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:m-374-20270225@pgl-linlithgowshire-demo
+DTSTAMP:20261030T142030Z
+DTSTART;TZID=Europe/London:20270225T193000
+DTEND;TZID=Europe/London:20270225T220000
+SUMMARY:Master Mason degree\, St John Crofthead No. 374
+LOCATION:Masonic Hall\, 6 Bridge Street\, Fauldhouse EH47 9AY
+DESCRIPTION:Degree. St John Crofthead No. 374.\nWith Lord Bruce No. 1601\nT
+ ime is the lodge’s usual meeting time (7.30pm).\nConferred by a team fro
+ m Lord Bruce No. 1601.\nConcept demo by TaleTellers Ltd with sample data: 
+ confirm with the lodge secretary before travelling.
+URL:https://thescar4295.github.io/pgl-linlithgowshire-demo/374/
+STATUS:CONFIRMED
+CATEGORIES:degree
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1587-20270226@pgl-linlithgowshire-demo
+DTSTAMP:20261030T142030Z
+DTSTART;TZID=Europe/London:20270226T193000
+DTEND;TZID=Europe/London:20270226T220000
+SUMMARY:Regular meeting\, St Andrew No. 1587
+LOCATION:Masonic Hall\, 3 Nellburn Road\, Deans\, Livingston EH54 8QU
+DESCRIPTION:Regular meeting. St Andrew No. 1587.\nTime is the lodge’s usu
+ al meeting time (7.30pm).\nMeets 2nd and 4th Friday\, August to April\, 7.
+ 30pm.\nConcept demo by TaleTellers Ltd with sample data: confirm with the 
+ lodge secretary before travelling.
+URL:https://thescar4295.github.io/pgl-linlithgowshire-demo/1587/
+STATUS:CONFIRMED
+CATEGORIES:regular
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:i-1186-20270227@pgl-linlithgowshire-demo
+DTSTAMP:20261030T142030Z
+DTSTART;TZID=Europe/London:20270227T140000
+DTEND;TZID=Europe/London:20270227T180000
+SUMMARY:Installation of office-bearers\, St John Stoneyburn No. 1186
+LOCATION:Masonic Hall\, 77 Main Street\, Stoneyburn EH47 8BY
+DESCRIPTION:Installation. St John Stoneyburn No. 1186.\nConcept demo by Tal
+ eTellers Ltd with sample data: confirm with the lodge secretary before tra
+ velling.
+URL:https://thescar4295.github.io/pgl-linlithgowshire-demo/1186/
+STATUS:CONFIRMED
+CATEGORIES:installation
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:m-927-20270301@pgl-linlithgowshire-demo
+DTSTAMP:20261030T142030Z
+DTSTART;TZID=Europe/London:20270301T193000
+DTEND;TZID=Europe/London:20270301T220000
+SUMMARY:Regular meeting\, Polkemmet No. 927
+LOCATION:Masonic Hall\, 7a East Main Street\, Whitburn EH47 0RA
+DESCRIPTION:Regular meeting. Polkemmet No. 927.\nTime is the lodge’s usua
+ l meeting time (7.30pm).\nMeets 1st and 3rd Monday\, September to April\, 
+ 7.30pm.\nConcept demo by TaleTellers Ltd with sample data: confirm with th
+ e lodge secretary before travelling.
+URL:https://thescar4295.github.io/pgl-linlithgowshire-demo/927/
+STATUS:CONFIRMED
+CATEGORIES:regular
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:m-272-20270302@pgl-linlithgowshire-demo
+DTSTAMP:20261030T142030Z
+DTSTART;TZID=Europe/London:20270302T190000
+DTEND;TZID=Europe/London:20270302T213000
+SUMMARY:Regular meeting\, St John Mid Calder No. 272
+LOCATION:Masonic Hall\, Bank Street\, Mid Calder EH53 0AR
+DESCRIPTION:Regular meeting. St John Mid Calder No. 272.\nTime is the lodge
+ ’s usual meeting time (7pm).\nMeets 1st and 3rd Tuesday\, September to A
+ pril\, 7pm.\nConcept demo by TaleTellers Ltd with sample data: confirm wit
+ h the lodge secretary before travelling.
+URL:https://thescar4295.github.io/pgl-linlithgowshire-demo/272/
+STATUS:CONFIRMED
+CATEGORIES:regular
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:m-13-20270302@pgl-linlithgowshire-demo
+DTSTAMP:20261030T142030Z
+DTSTART;TZID=Europe/London:20270302T193000
+DTEND;TZID=Europe/London:20270302T220000
+SUMMARY:Regular meeting\, Torphichen Kilwinning No. 13
+LOCATION:Masonic Hall\, 22 Jarvey Street\, Bathgate EH48 4EZ
+DESCRIPTION:Regular meeting. Torphichen Kilwinning No. 13.\nTime is the lod
+ ge’s usual meeting time (7.30pm).\nMeets 1st and 3rd Tuesday\, September
+  to April\, 7.30pm.\nConcept demo by TaleTellers Ltd with sample data: con
+ firm with the lodge secretary before travelling.
+URL:https://thescar4295.github.io/pgl-linlithgowshire-demo/13/
+STATUS:CONFIRMED
+CATEGORIES:regular
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1232-20270302@pgl-linlithgowshire-demo
+DTSTAMP:20261030T142030Z
+DTSTART;TZID=Europe/London:20270302T193000
+DTEND;TZID=Europe/London:20270302T220000
+SUMMARY:Regular meeting\, Hopetoun St John No. 1232
+LOCATION:Masonic Hall\, Market Lane\, Linlithgow EH49 7AJ
+DESCRIPTION:Regular meeting. Hopetoun St John No. 1232.\nTime is the lodge
+ ’s usual meeting time (7.30pm).\nMeets 1st Tuesday\, September to April\
+ , 7.30pm.\nConcept demo by TaleTellers Ltd with sample data: confirm with 
+ the lodge secretary before travelling.
+URL:https://thescar4295.github.io/pgl-linlithgowshire-demo/1232/
+STATUS:CONFIRMED
+CATEGORIES:regular
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:m-590-20270303@pgl-linlithgowshire-demo
+DTSTAMP:20261030T142030Z
+DTSTART;TZID=Europe/London:20270303T190000
+DTEND;TZID=Europe/London:20270303T213000
+SUMMARY:Regular meeting\, St James Harthill No. 590
+LOCATION:30 Social Club\, Off West Main Street\, Harthill
+DESCRIPTION:Regular meeting. St James Harthill No. 590.\nTime is the lodge
+ ’s usual meeting time (7pm).\nMeets 1st Wednesday\, September to May\, 7
+ pm.\nConcept demo by TaleTellers Ltd with sample data: confirm with the lo
+ dge secretary before travelling.
+URL:https://thescar4295.github.io/pgl-linlithgowshire-demo/590/
+STATUS:CONFIRMED
+CATEGORIES:regular
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:m-636-20270304@pgl-linlithgowshire-demo
+DTSTAMP:20261030T142030Z
+DTSTART;TZID=Europe/London:20270304T190000
+DTEND;TZID=Europe/London:20270304T213000
+SUMMARY:Regular meeting\, Buchan St John No. 636
+LOCATION:Broxburn Bowling Club\, West Burnside\, Broxburn EH52 5RG
+DESCRIPTION:Regular meeting. Buchan St John No. 636.\nTime is the lodge’s
+  usual meeting time (7pm).\nMeets 1st and 3rd Thursday\, September to Apri
+ l\, 7pm.\nConcept demo by TaleTellers Ltd with sample data: confirm with t
+ he lodge secretary before travelling.
+URL:https://thescar4295.github.io/pgl-linlithgowshire-demo/636/
+STATUS:CONFIRMED
+CATEGORIES:regular
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:m-409-20270304@pgl-linlithgowshire-demo
+DTSTAMP:20261030T142030Z
+DTSTART;TZID=Europe/London:20270304T193000
+DTEND;TZID=Europe/London:20270304T220000
+SUMMARY:Regular meeting\, The Douglas No. 409
+LOCATION:Masonic Hall\, 89 Stewart Avenue\, Bo’ness EH51 9NJ
+DESCRIPTION:Regular meeting. The Douglas No. 409.\nTime is the lodge’s us
+ ual meeting time (7.30pm).\nMeets 1st and 3rd Thursday\, September to Apri
+ l\, 7.30pm.\nConcept demo by TaleTellers Ltd with sample data: confirm wit
+ h the lodge secretary before travelling.
+URL:https://thescar4295.github.io/pgl-linlithgowshire-demo/409/
+STATUS:CONFIRMED
+CATEGORIES:regular
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1186-20270304@pgl-linlithgowshire-demo
+DTSTAMP:20261030T142030Z
+DTSTART;TZID=Europe/London:20270304T193000
+DTEND;TZID=Europe/London:20270304T220000
+SUMMARY:Regular meeting\, St John Stoneyburn No. 1186
+LOCATION:Masonic Hall\, 77 Main Street\, Stoneyburn EH47 8BY
+DESCRIPTION:Regular meeting. St John Stoneyburn No. 1186.\nTime is the lodg
+ e’s usual meeting time (7.30pm).\nMeets 1st and 3rd Thursday\, September
+  to April\, 7.30pm.\nConcept demo by TaleTellers Ltd with sample data: con
+ firm with the lodge secretary before travelling.
+URL:https://thescar4295.github.io/pgl-linlithgowshire-demo/1186/
+STATUS:CONFIRMED
+CATEGORIES:regular
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1658-20270305@pgl-linlithgowshire-demo
+DTSTAMP:20261030T142030Z
+DTSTART;TZID=Europe/London:20270305T193000
+DTEND;TZID=Europe/London:20270305T220000
+SUMMARY:Regular meeting\, Almondale No. 1658
+LOCATION:Masonic Hall\, Craigshill Road West\, Livingston
+DESCRIPTION:Regular meeting. Almondale No. 1658.\nTime is the lodge’s usu
+ al meeting time (7.30pm).\nMeets 1st Friday\, every month\, 7.30pm.\nConce
+ pt demo by TaleTellers Ltd with sample data: confirm with the lodge secret
+ ary before travelling.
+URL:https://thescar4295.github.io/pgl-linlithgowshire-demo/1658/
+STATUS:CONFIRMED
+CATEGORIES:regular
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:i-1658-20270306@pgl-linlithgowshire-demo
+DTSTAMP:20261030T142030Z
+DTSTART;TZID=Europe/London:20270306T140000
+DTEND;TZID=Europe/London:20270306T180000
+SUMMARY:(To be confirmed) Installation of office-bearers\, Almondale No. 16
+ 58
+LOCATION:Masonic Hall\, Craigshill Road West\, Livingston
+DESCRIPTION:Installation. Almondale No. 1658.\nDate taken from the lodge’
+ s usual pattern\; to be confirmed by the lodge.\nConcept demo by TaleTelle
+ rs Ltd with sample data: confirm with the lodge secretary before travellin
+ g.
+URL:https://thescar4295.github.io/pgl-linlithgowshire-demo/1658/
+STATUS:TENTATIVE
+CATEGORIES:installation
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:m-85-20270308@pgl-linlithgowshire-demo
+DTSTAMP:20261030T142030Z
+DTSTART;TZID=Europe/London:20270308T193000
+DTEND;TZID=Europe/London:20270308T220000
+SUMMARY:Regular meeting\, Kirknewton & Ratho No. 85
+LOCATION:Ratho Bowling Club\, 42 Main Street\, Ratho EH28 8RB
+DESCRIPTION:Regular meeting. Kirknewton & Ratho No. 85.\nTime is the lodge
+ ’s usual meeting time (7.30pm).\nMeets 2nd Monday\, September to April\,
+  7.30pm.\nConcept demo by TaleTellers Ltd with sample data: confirm with t
+ he lodge secretary before travelling.
+URL:https://thescar4295.github.io/pgl-linlithgowshire-demo/85/
+STATUS:CONFIRMED
+CATEGORIES:regular
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:m-548-20270309@pgl-linlithgowshire-demo
+DTSTAMP:20261030T142030Z
+DTSTART;TZID=Europe/London:20270309T193000
+DTEND;TZID=Europe/London:20270309T220000
+SUMMARY:Regular meeting\, St Margaret No. 548
+LOCATION:Masonic Hall\, 3 Stoneycroft Road\, South Queensferry
+DESCRIPTION:Regular meeting. St Margaret No. 548.\nTime is the lodge’s us
+ ual meeting time (7.30pm).\nMeets 2nd and 4th Tuesday\, September to April
+ \, 7.30pm.\nConcept demo by TaleTellers Ltd with sample data: confirm with
+  the lodge secretary before travelling.
+URL:https://thescar4295.github.io/pgl-linlithgowshire-demo/548/
+STATUS:CONFIRMED
+CATEGORIES:regular
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1145-20270309@pgl-linlithgowshire-demo
+DTSTAMP:20261030T142030Z
+DTSTART;TZID=Europe/London:20270309T193000
+DTEND;TZID=Europe/London:20270309T220000
+SUMMARY:Regular meeting\, Blackridge No. 1145
+LOCATION:Masonic Hall\, 51 South Street\, Armadale EH48 3ET
+DESCRIPTION:Regular meeting. Blackridge No. 1145.\nTime is the lodge’s us
+ ual meeting time (7.30pm).\nMeets 2nd Tuesday\, September to April\, 7.30p
+ m.\nConcept demo by TaleTellers Ltd with sample data: confirm with the lod
+ ge secretary before travelling.
+URL:https://thescar4295.github.io/pgl-linlithgowshire-demo/1145/
+STATUS:CONFIRMED
+CATEGORIES:regular
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:m-17-20270310@pgl-linlithgowshire-demo
+DTSTAMP:20261030T142030Z
+DTSTART;TZID=Europe/London:20270310T193000
+DTEND;TZID=Europe/London:20270310T220000
+SUMMARY:Regular meeting\, Ancient Brazen No. 17
+LOCATION:Masonic Hall\, Market Lane\, Linlithgow EH49 7AJ
+DESCRIPTION:Regular meeting. Ancient Brazen No. 17.\nTime is the lodge’s 
+ usual meeting time (7.30pm).\nMeets 2nd Wednesday\, October to April\, 7.3
+ 0pm.\nConcept demo by TaleTellers Ltd with sample data: confirm with the l
+ odge secretary before travelling.
+URL:https://thescar4295.github.io/pgl-linlithgowshire-demo/17/
+STATUS:CONFIRMED
+CATEGORIES:regular
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:m-374-20270311@pgl-linlithgowshire-demo
+DTSTAMP:20261030T142030Z
+DTSTART;TZID=Europe/London:20270311T193000
+DTEND;TZID=Europe/London:20270311T220000
+SUMMARY:Regular meeting\, St John Crofthead No. 374
+LOCATION:Masonic Hall\, 6 Bridge Street\, Fauldhouse EH47 9AY
+DESCRIPTION:Regular meeting. St John Crofthead No. 374.\nTime is the lodge
+ ’s usual meeting time (7.30pm).\nMeets 2nd and 4th Thursday\, September 
+ to April\, 7.30pm.\nConcept demo by TaleTellers Ltd with sample data: conf
+ irm with the lodge secretary before travelling.
+URL:https://thescar4295.github.io/pgl-linlithgowshire-demo/374/
+STATUS:CONFIRMED
+CATEGORIES:regular
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1587-20270312@pgl-linlithgowshire-demo
+DTSTAMP:20261030T142030Z
+DTSTART;TZID=Europe/London:20270312T193000
+DTEND;TZID=Europe/London:20270312T220000
+SUMMARY:Regular meeting\, St Andrew No. 1587
+LOCATION:Masonic Hall\, 3 Nellburn Road\, Deans\, Livingston EH54 8QU
+DESCRIPTION:Regular meeting. St Andrew No. 1587.\nTime is the lodge’s usu
+ al meeting time (7.30pm).\nMeets 2nd and 4th Friday\, August to April\, 7.
+ 30pm.\nConcept demo by TaleTellers Ltd with sample data: confirm with the 
+ lodge secretary before travelling.
+URL:https://thescar4295.github.io/pgl-linlithgowshire-demo/1587/
+STATUS:CONFIRMED
+CATEGORIES:regular
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:m-927-20270315@pgl-linlithgowshire-demo
+DTSTAMP:20261030T142030Z
+DTSTART;TZID=Europe/London:20270315T193000
+DTEND;TZID=Europe/London:20270315T220000
+SUMMARY:Regular meeting\, Polkemmet No. 927
+LOCATION:Masonic Hall\, 7a East Main Street\, Whitburn EH47 0RA
+DESCRIPTION:Regular meeting. Polkemmet No. 927.\nTime is the lodge’s usua
+ l meeting time (7.30pm).\nMeets 1st and 3rd Monday\, September to April\, 
+ 7.30pm.\nConcept demo by TaleTellers Ltd with sample data: confirm with th
+ e lodge secretary before travelling.
+URL:https://thescar4295.github.io/pgl-linlithgowshire-demo/927/
+STATUS:CONFIRMED
+CATEGORIES:regular
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:m-272-20270316@pgl-linlithgowshire-demo
+DTSTAMP:20261030T142030Z
+DTSTART;TZID=Europe/London:20270316T190000
+DTEND;TZID=Europe/London:20270316T213000
+SUMMARY:Regular meeting\, St John Mid Calder No. 272
+LOCATION:Masonic Hall\, Bank Street\, Mid Calder EH53 0AR
+DESCRIPTION:Regular meeting. St John Mid Calder No. 272.\nTime is the lodge
+ ’s usual meeting time (7pm).\nMeets 1st and 3rd Tuesday\, September to A
+ pril\, 7pm.\nConcept demo by TaleTellers Ltd with sample data: confirm wit
+ h the lodge secretary before travelling.
+URL:https://thescar4295.github.io/pgl-linlithgowshire-demo/272/
+STATUS:CONFIRMED
+CATEGORIES:regular
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:m-13-20270316@pgl-linlithgowshire-demo
+DTSTAMP:20261030T142030Z
+DTSTART;TZID=Europe/London:20270316T193000
+DTEND;TZID=Europe/London:20270316T220000
+SUMMARY:Regular meeting\, Torphichen Kilwinning No. 13
+LOCATION:Masonic Hall\, 22 Jarvey Street\, Bathgate EH48 4EZ
+DESCRIPTION:Regular meeting. Torphichen Kilwinning No. 13.\nTime is the lod
+ ge’s usual meeting time (7.30pm).\nMeets 1st and 3rd Tuesday\, September
+  to April\, 7.30pm.\nConcept demo by TaleTellers Ltd with sample data: con
+ firm with the lodge secretary before travelling.
+URL:https://thescar4295.github.io/pgl-linlithgowshire-demo/13/
+STATUS:CONFIRMED
+CATEGORIES:regular
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:m-636-20270318@pgl-linlithgowshire-demo
+DTSTAMP:20261030T142030Z
+DTSTART;TZID=Europe/London:20270318T190000
+DTEND;TZID=Europe/London:20270318T213000
+SUMMARY:Regular meeting\, Buchan St John No. 636
+LOCATION:Broxburn Bowling Club\, West Burnside\, Broxburn EH52 5RG
+DESCRIPTION:Regular meeting. Buchan St John No. 636.\nTime is the lodge’s
+  usual meeting time (7pm).\nMeets 1st and 3rd Thursday\, September to Apri
+ l\, 7pm.\nConcept demo by TaleTellers Ltd with sample data: confirm with t
+ he lodge secretary before travelling.
+URL:https://thescar4295.github.io/pgl-linlithgowshire-demo/636/
+STATUS:CONFIRMED
+CATEGORIES:regular
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:m-409-20270318@pgl-linlithgowshire-demo
+DTSTAMP:20261030T142030Z
+DTSTART;TZID=Europe/London:20270318T193000
+DTEND;TZID=Europe/London:20270318T220000
+SUMMARY:Regular meeting\, The Douglas No. 409
+LOCATION:Masonic Hall\, 89 Stewart Avenue\, Bo’ness EH51 9NJ
+DESCRIPTION:Regular meeting. The Douglas No. 409.\nTime is the lodge’s us
+ ual meeting time (7.30pm).\nMeets 1st and 3rd Thursday\, September to Apri
+ l\, 7.30pm.\nConcept demo by TaleTellers Ltd with sample data: confirm wit
+ h the lodge secretary before travelling.
+URL:https://thescar4295.github.io/pgl-linlithgowshire-demo/409/
+STATUS:CONFIRMED
+CATEGORIES:regular
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1186-20270318@pgl-linlithgowshire-demo
+DTSTAMP:20261030T142030Z
+DTSTART;TZID=Europe/London:20270318T193000
+DTEND;TZID=Europe/London:20270318T220000
+SUMMARY:Regular meeting\, St John Stoneyburn No. 1186
+LOCATION:Masonic Hall\, 77 Main Street\, Stoneyburn EH47 8BY
+DESCRIPTION:Regular meeting. St John Stoneyburn No. 1186.\nTime is the lodg
+ e’s usual meeting time (7.30pm).\nMeets 1st and 3rd Thursday\, September
+  to April\, 7.30pm.\nConcept demo by TaleTellers Ltd with sample data: con
+ firm with the lodge secretary before travelling.
+URL:https://thescar4295.github.io/pgl-linlithgowshire-demo/1186/
+STATUS:CONFIRMED
+CATEGORIES:regular
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:i-1305-20270319@pgl-linlithgowshire-demo
+DTSTAMP:20261030T142030Z
+DTSTART;TZID=Europe/London:20270319T183000
+DTEND;TZID=Europe/London:20270319T223000
+SUMMARY:(To be confirmed) Installation of office-bearers\, Pioneer (Reponed
+ ) No. 1305
+LOCATION:Masonic Hall\, 3 Nellburn Road\, Deans\, Livingston EH54 8QU
+DESCRIPTION:Installation. Pioneer (Reponed) No. 1305.\nDate taken from the 
+ lodge’s usual pattern\; to be confirmed by the lodge.\nConcept demo by T
+ aleTellers Ltd with sample data: confirm with the lodge secretary before t
+ ravelling.
+URL:https://thescar4295.github.io/pgl-linlithgowshire-demo/1305/
+STATUS:TENTATIVE
+CATEGORIES:installation
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1614-20270319@pgl-linlithgowshire-demo
+DTSTAMP:20261030T142030Z
+DTSTART;TZID=Europe/London:20270319T193000
+DTEND;TZID=Europe/London:20270319T220000
+SUMMARY:Regular meeting\, Kirkton Hall No. 1614
+LOCATION:Masonic Hall\, Kidd Street\, Blackburn
+DESCRIPTION:Regular meeting. Kirkton Hall No. 1614.\nTime is the lodge’s 
+ usual meeting time (7.30pm).\nMeets 3rd Friday\, September to April\, 7.30
+ pm.\nConcept demo by TaleTellers Ltd with sample data: confirm with the lo
+ dge secretary before travelling.
+URL:https://thescar4295.github.io/pgl-linlithgowshire-demo/1614/
+STATUS:CONFIRMED
+CATEGORIES:regular
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:i-17-20270320@pgl-linlithgowshire-demo
+DTSTAMP:20261030T142030Z
+DTSTART;TZID=Europe/London:20270320T140000
+DTEND;TZID=Europe/London:20270320T180000
+SUMMARY:(To be confirmed) Installation of office-bearers\, Ancient Brazen N
+ o. 17
+LOCATION:Masonic Hall\, Market Lane\, Linlithgow EH49 7AJ
+DESCRIPTION:Installation. Ancient Brazen No. 17.\nDate taken from the lodge
+ ’s usual pattern\; to be confirmed by the lodge.\nConcept demo by TaleTe
+ llers Ltd with sample data: confirm with the lodge secretary before travel
+ ling.
+URL:https://thescar4295.github.io/pgl-linlithgowshire-demo/17/
+STATUS:TENTATIVE
+CATEGORIES:installation
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1601-20270322@pgl-linlithgowshire-demo
+DTSTAMP:20261030T142030Z
+DTSTART;TZID=Europe/London:20270322T190000
+DTEND;TZID=Europe/London:20270322T213000
+SUMMARY:Regular meeting\, Lord Bruce No. 1601
+LOCATION:Masonic Hall\, Kidd Street\, Blackburn
+DESCRIPTION:Regular meeting. Lord Bruce No. 1601.\nTime is the lodge’s us
+ ual meeting time (7pm).\nMeets 4th Monday\, September to April\, 7pm.\nCon
+ cept demo by TaleTellers Ltd with sample data: confirm with the lodge secr
+ etary before travelling.
+URL:https://thescar4295.github.io/pgl-linlithgowshire-demo/1601/
+STATUS:CONFIRMED
+CATEGORIES:regular
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:m-548-20270323@pgl-linlithgowshire-demo
+DTSTAMP:20261030T142030Z
+DTSTART;TZID=Europe/London:20270323T193000
+DTEND;TZID=Europe/London:20270323T220000
+SUMMARY:Regular meeting\, St Margaret No. 548
+LOCATION:Masonic Hall\, 3 Stoneycroft Road\, South Queensferry
+DESCRIPTION:Regular meeting. St Margaret No. 548.\nTime is the lodge’s us
+ ual meeting time (7.30pm).\nMeets 2nd and 4th Tuesday\, September to April
+ \, 7.30pm.\nConcept demo by TaleTellers Ltd with sample data: confirm with
+  the lodge secretary before travelling.
+URL:https://thescar4295.github.io/pgl-linlithgowshire-demo/548/
+STATUS:CONFIRMED
+CATEGORIES:regular
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:m-827-20270324@pgl-linlithgowshire-demo
+DTSTAMP:20261030T142030Z
+DTSTART;TZID=Europe/London:20270324T193000
+DTEND;TZID=Europe/London:20270324T220000
+SUMMARY:Regular meeting\, Hope Bridge Castle No. 827
+LOCATION:Masonic Hall\, 51 South Street\, Armadale EH48 3ET
+DESCRIPTION:Regular meeting. Hope Bridge Castle No. 827.\nTime is the lodge
+ ’s usual meeting time (7.30pm).\nMeets 4th Wednesday\, September to Apri
+ l\, 7.30pm.\nConcept demo by TaleTellers Ltd with sample data: confirm wit
+ h the lodge secretary before travelling.
+URL:https://thescar4295.github.io/pgl-linlithgowshire-demo/827/
+STATUS:CONFIRMED
+CATEGORIES:regular
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:m-374-20270325@pgl-linlithgowshire-demo
+DTSTAMP:20261030T142030Z
+DTSTART;TZID=Europe/London:20270325T193000
+DTEND;TZID=Europe/London:20270325T220000
+SUMMARY:Regular meeting\, St John Crofthead No. 374
+LOCATION:Masonic Hall\, 6 Bridge Street\, Fauldhouse EH47 9AY
+DESCRIPTION:Regular meeting. St John Crofthead No. 374.\nTime is the lodge
+ ’s usual meeting time (7.30pm).\nMeets 2nd and 4th Thursday\, September 
+ to April\, 7.30pm.\nConcept demo by TaleTellers Ltd with sample data: conf
+ irm with the lodge secretary before travelling.
+URL:https://thescar4295.github.io/pgl-linlithgowshire-demo/374/
+STATUS:CONFIRMED
+CATEGORIES:regular
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1587-20270326@pgl-linlithgowshire-demo
+DTSTAMP:20261030T142030Z
+DTSTART;TZID=Europe/London:20270326T193000
+DTEND;TZID=Europe/London:20270326T220000
+SUMMARY:Regular meeting\, St Andrew No. 1587
+LOCATION:Masonic Hall\, 3 Nellburn Road\, Deans\, Livingston EH54 8QU
+DESCRIPTION:Regular meeting. St Andrew No. 1587.\nTime is the lodge’s usu
+ al meeting time (7.30pm).\nMeets 2nd and 4th Friday\, August to April\, 7.
+ 30pm.\nConcept demo by TaleTellers Ltd with sample data: confirm with the 
+ lodge secretary before travelling.
+URL:https://thescar4295.github.io/pgl-linlithgowshire-demo/1587/
+STATUS:CONFIRMED
+CATEGORIES:regular
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:i-374-20270327@pgl-linlithgowshire-demo
+DTSTAMP:20261030T142030Z
+DTSTART;TZID=Europe/London:20270327T140000
+DTEND;TZID=Europe/London:20270327T180000
+SUMMARY:(To be confirmed) Installation of office-bearers\, St John Crofthea
+ d No. 374
+LOCATION:Masonic Hall\, 6 Bridge Street\, Fauldhouse EH47 9AY
+DESCRIPTION:Installation. St John Crofthead No. 374.\nDate taken from the l
+ odge’s usual pattern\; to be confirmed by the lodge.\nConcept demo by Ta
+ leTellers Ltd with sample data: confirm with the lodge secretary before tr
+ avelling.
+URL:https://thescar4295.github.io/pgl-linlithgowshire-demo/374/
+STATUS:TENTATIVE
+CATEGORIES:installation
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:m-636-20270401@pgl-linlithgowshire-demo
+DTSTAMP:20261030T142030Z
+DTSTART;TZID=Europe/London:20270401T190000
+DTEND;TZID=Europe/London:20270401T213000
+SUMMARY:Regular meeting\, Buchan St John No. 636
+LOCATION:Broxburn Bowling Club\, West Burnside\, Broxburn EH52 5RG
+DESCRIPTION:Regular meeting. Buchan St John No. 636.\nTime is the lodge’s
+  usual meeting time (7pm).\nMeets 1st and 3rd Thursday\, September to Apri
+ l\, 7pm.\nConcept demo by TaleTellers Ltd with sample data: confirm with t
+ he lodge secretary before travelling.
+URL:https://thescar4295.github.io/pgl-linlithgowshire-demo/636/
+STATUS:CONFIRMED
+CATEGORIES:regular
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:m-409-20270401@pgl-linlithgowshire-demo
+DTSTAMP:20261030T142030Z
+DTSTART;TZID=Europe/London:20270401T193000
+DTEND;TZID=Europe/London:20270401T220000
+SUMMARY:Regular meeting\, The Douglas No. 409
+LOCATION:Masonic Hall\, 89 Stewart Avenue\, Bo’ness EH51 9NJ
+DESCRIPTION:Regular meeting. The Douglas No. 409.\nTime is the lodge’s us
+ ual meeting time (7.30pm).\nMeets 1st and 3rd Thursday\, September to Apri
+ l\, 7.30pm.\nConcept demo by TaleTellers Ltd with sample data: confirm wit
+ h the lodge secretary before travelling.
+URL:https://thescar4295.github.io/pgl-linlithgowshire-demo/409/
+STATUS:CONFIRMED
+CATEGORIES:regular
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1186-20270401@pgl-linlithgowshire-demo
+DTSTAMP:20261030T142030Z
+DTSTART;TZID=Europe/London:20270401T193000
+DTEND;TZID=Europe/London:20270401T220000
+SUMMARY:Regular meeting\, St John Stoneyburn No. 1186
+LOCATION:Masonic Hall\, 77 Main Street\, Stoneyburn EH47 8BY
+DESCRIPTION:Regular meeting. St John Stoneyburn No. 1186.\nTime is the lodg
+ e’s usual meeting time (7.30pm).\nMeets 1st and 3rd Thursday\, September
+  to April\, 7.30pm.\nConcept demo by TaleTellers Ltd with sample data: con
+ firm with the lodge secretary before travelling.
+URL:https://thescar4295.github.io/pgl-linlithgowshire-demo/1186/
+STATUS:CONFIRMED
+CATEGORIES:regular
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1658-20270402@pgl-linlithgowshire-demo
+DTSTAMP:20261030T142030Z
+DTSTART;TZID=Europe/London:20270402T193000
+DTEND;TZID=Europe/London:20270402T220000
+SUMMARY:Regular meeting\, Almondale No. 1658
+LOCATION:Masonic Hall\, Craigshill Road West\, Livingston
+DESCRIPTION:Regular meeting. Almondale No. 1658.\nTime is the lodge’s usu
+ al meeting time (7.30pm).\nMeets 1st Friday\, every month\, 7.30pm.\nConce
+ pt demo by TaleTellers Ltd with sample data: confirm with the lodge secret
+ ary before travelling.
+URL:https://thescar4295.github.io/pgl-linlithgowshire-demo/1658/
+STATUS:CONFIRMED
+CATEGORIES:regular
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:m-927-20270405@pgl-linlithgowshire-demo
+DTSTAMP:20261030T142030Z
+DTSTART;TZID=Europe/London:20270405T193000
+DTEND;TZID=Europe/London:20270405T220000
+SUMMARY:Regular meeting\, Polkemmet No. 927
+LOCATION:Masonic Hall\, 7a East Main Street\, Whitburn EH47 0RA
+DESCRIPTION:Regular meeting. Polkemmet No. 927.\nTime is the lodge’s usua
+ l meeting time (7.30pm).\nMeets 1st and 3rd Monday\, September to April\, 
+ 7.30pm.\nConcept demo by TaleTellers Ltd with sample data: confirm with th
+ e lodge secretary before travelling.
+URL:https://thescar4295.github.io/pgl-linlithgowshire-demo/927/
+STATUS:CONFIRMED
+CATEGORIES:regular
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:m-272-20270406@pgl-linlithgowshire-demo
+DTSTAMP:20261030T142030Z
+DTSTART;TZID=Europe/London:20270406T190000
+DTEND;TZID=Europe/London:20270406T213000
+SUMMARY:Regular meeting\, St John Mid Calder No. 272
+LOCATION:Masonic Hall\, Bank Street\, Mid Calder EH53 0AR
+DESCRIPTION:Regular meeting. St John Mid Calder No. 272.\nTime is the lodge
+ ’s usual meeting time (7pm).\nMeets 1st and 3rd Tuesday\, September to A
+ pril\, 7pm.\nConcept demo by TaleTellers Ltd with sample data: confirm wit
+ h the lodge secretary before travelling.
+URL:https://thescar4295.github.io/pgl-linlithgowshire-demo/272/
+STATUS:CONFIRMED
+CATEGORIES:regular
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:m-13-20270406@pgl-linlithgowshire-demo
+DTSTAMP:20261030T142030Z
+DTSTART;TZID=Europe/London:20270406T193000
+DTEND;TZID=Europe/London:20270406T220000
+SUMMARY:Regular meeting\, Torphichen Kilwinning No. 13
+LOCATION:Masonic Hall\, 22 Jarvey Street\, Bathgate EH48 4EZ
+DESCRIPTION:Regular meeting. Torphichen Kilwinning No. 13.\nTime is the lod
+ ge’s usual meeting time (7.30pm).\nMeets 1st and 3rd Tuesday\, September
+  to April\, 7.30pm.\nConcept demo by TaleTellers Ltd with sample data: con
+ firm with the lodge secretary before travelling.
+URL:https://thescar4295.github.io/pgl-linlithgowshire-demo/13/
+STATUS:CONFIRMED
+CATEGORIES:regular
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1232-20270406@pgl-linlithgowshire-demo
+DTSTAMP:20261030T142030Z
+DTSTART;TZID=Europe/London:20270406T193000
+DTEND;TZID=Europe/London:20270406T220000
+SUMMARY:Regular meeting\, Hopetoun St John No. 1232
+LOCATION:Masonic Hall\, Market Lane\, Linlithgow EH49 7AJ
+DESCRIPTION:Regular meeting. Hopetoun St John No. 1232.\nTime is the lodge
+ ’s usual meeting time (7.30pm).\nMeets 1st Tuesday\, September to April\
+ , 7.30pm.\nConcept demo by TaleTellers Ltd with sample data: confirm with 
+ the lodge secretary before travelling.
+URL:https://thescar4295.github.io/pgl-linlithgowshire-demo/1232/
+STATUS:CONFIRMED
+CATEGORIES:regular
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:m-590-20270407@pgl-linlithgowshire-demo
+DTSTAMP:20261030T142030Z
+DTSTART;TZID=Europe/London:20270407T190000
+DTEND;TZID=Europe/London:20270407T213000
+SUMMARY:Regular meeting\, St James Harthill No. 590
+LOCATION:30 Social Club\, Off West Main Street\, Harthill
+DESCRIPTION:Regular meeting. St James Harthill No. 590.\nTime is the lodge
+ ’s usual meeting time (7pm).\nMeets 1st Wednesday\, September to May\, 7
+ pm.\nConcept demo by TaleTellers Ltd with sample data: confirm with the lo
+ dge secretary before travelling.
+URL:https://thescar4295.github.io/pgl-linlithgowshire-demo/590/
+STATUS:CONFIRMED
+CATEGORIES:regular
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:m-374-20270408@pgl-linlithgowshire-demo
+DTSTAMP:20261030T142030Z
+DTSTART;TZID=Europe/London:20270408T193000
+DTEND;TZID=Europe/London:20270408T220000
+SUMMARY:Regular meeting\, St John Crofthead No. 374
+LOCATION:Masonic Hall\, 6 Bridge Street\, Fauldhouse EH47 9AY
+DESCRIPTION:Regular meeting. St John Crofthead No. 374.\nTime is the lodge
+ ’s usual meeting time (7.30pm).\nMeets 2nd and 4th Thursday\, September 
+ to April\, 7.30pm.\nConcept demo by TaleTellers Ltd with sample data: conf
+ irm with the lodge secretary before travelling.
+URL:https://thescar4295.github.io/pgl-linlithgowshire-demo/374/
+STATUS:CONFIRMED
+CATEGORIES:regular
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1587-20270409@pgl-linlithgowshire-demo
+DTSTAMP:20261030T142030Z
+DTSTART;TZID=Europe/London:20270409T193000
+DTEND;TZID=Europe/London:20270409T220000
+SUMMARY:Regular meeting\, St Andrew No. 1587
+LOCATION:Masonic Hall\, 3 Nellburn Road\, Deans\, Livingston EH54 8QU
+DESCRIPTION:Regular meeting. St Andrew No. 1587.\nTime is the lodge’s usu
+ al meeting time (7.30pm).\nMeets 2nd and 4th Friday\, August to April\, 7.
+ 30pm.\nConcept demo by TaleTellers Ltd with sample data: confirm with the 
+ lodge secretary before travelling.
+URL:https://thescar4295.github.io/pgl-linlithgowshire-demo/1587/
+STATUS:CONFIRMED
+CATEGORIES:regular
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:m-85-20270412@pgl-linlithgowshire-demo
+DTSTAMP:20261030T142030Z
+DTSTART;TZID=Europe/London:20270412T193000
+DTEND;TZID=Europe/London:20270412T220000
+SUMMARY:Regular meeting\, Kirknewton & Ratho No. 85
+LOCATION:Ratho Bowling Club\, 42 Main Street\, Ratho EH28 8RB
+DESCRIPTION:Regular meeting. Kirknewton & Ratho No. 85.\nTime is the lodge
+ ’s usual meeting time (7.30pm).\nMeets 2nd Monday\, September to April\,
+  7.30pm.\nConcept demo by TaleTellers Ltd with sample data: confirm with t
+ he lodge secretary before travelling.
+URL:https://thescar4295.github.io/pgl-linlithgowshire-demo/85/
+STATUS:CONFIRMED
+CATEGORIES:regular
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:m-548-20270413@pgl-linlithgowshire-demo
+DTSTAMP:20261030T142030Z
+DTSTART;TZID=Europe/London:20270413T193000
+DTEND;TZID=Europe/London:20270413T220000
+SUMMARY:Regular meeting\, St Margaret No. 548
+LOCATION:Masonic Hall\, 3 Stoneycroft Road\, South Queensferry
+DESCRIPTION:Regular meeting. St Margaret No. 548.\nTime is the lodge’s us
+ ual meeting time (7.30pm).\nMeets 2nd and 4th Tuesday\, September to April
+ \, 7.30pm.\nConcept demo by TaleTellers Ltd with sample data: confirm with
+  the lodge secretary before travelling.
+URL:https://thescar4295.github.io/pgl-linlithgowshire-demo/548/
+STATUS:CONFIRMED
+CATEGORIES:regular
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1145-20270413@pgl-linlithgowshire-demo
+DTSTAMP:20261030T142030Z
+DTSTART;TZID=Europe/London:20270413T193000
+DTEND;TZID=Europe/London:20270413T220000
+SUMMARY:Regular meeting\, Blackridge No. 1145
+LOCATION:Masonic Hall\, 51 South Street\, Armadale EH48 3ET
+DESCRIPTION:Regular meeting. Blackridge No. 1145.\nTime is the lodge’s us
+ ual meeting time (7.30pm).\nMeets 2nd Tuesday\, September to April\, 7.30p
+ m.\nConcept demo by TaleTellers Ltd with sample data: confirm with the lod
+ ge secretary before travelling.
+URL:https://thescar4295.github.io/pgl-linlithgowshire-demo/1145/
+STATUS:CONFIRMED
+CATEGORIES:regular
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:m-17-20270414@pgl-linlithgowshire-demo
+DTSTAMP:20261030T142030Z
+DTSTART;TZID=Europe/London:20270414T193000
+DTEND;TZID=Europe/London:20270414T220000
+SUMMARY:Regular meeting\, Ancient Brazen No. 17
+LOCATION:Masonic Hall\, Market Lane\, Linlithgow EH49 7AJ
+DESCRIPTION:Regular meeting. Ancient Brazen No. 17.\nTime is the lodge’s 
+ usual meeting time (7.30pm).\nMeets 2nd Wednesday\, October to April\, 7.3
+ 0pm.\nConcept demo by TaleTellers Ltd with sample data: confirm with the l
+ odge secretary before travelling.
+URL:https://thescar4295.github.io/pgl-linlithgowshire-demo/17/
+STATUS:CONFIRMED
+CATEGORIES:regular
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:m-636-20270415@pgl-linlithgowshire-demo
+DTSTAMP:20261030T142030Z
+DTSTART;TZID=Europe/London:20270415T190000
+DTEND;TZID=Europe/London:20270415T213000
+SUMMARY:Regular meeting\, Buchan St John No. 636
+LOCATION:Broxburn Bowling Club\, West Burnside\, Broxburn EH52 5RG
+DESCRIPTION:Regular meeting. Buchan St John No. 636.\nTime is the lodge’s
+  usual meeting time (7pm).\nMeets 1st and 3rd Thursday\, September to Apri
+ l\, 7pm.\nConcept demo by TaleTellers Ltd with sample data: confirm with t
+ he lodge secretary before travelling.
+URL:https://thescar4295.github.io/pgl-linlithgowshire-demo/636/
+STATUS:CONFIRMED
+CATEGORIES:regular
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:m-409-20270415@pgl-linlithgowshire-demo
+DTSTAMP:20261030T142030Z
+DTSTART;TZID=Europe/London:20270415T193000
+DTEND;TZID=Europe/London:20270415T220000
+SUMMARY:Regular meeting\, The Douglas No. 409
+LOCATION:Masonic Hall\, 89 Stewart Avenue\, Bo’ness EH51 9NJ
+DESCRIPTION:Regular meeting. The Douglas No. 409.\nTime is the lodge’s us
+ ual meeting time (7.30pm).\nMeets 1st and 3rd Thursday\, September to Apri
+ l\, 7.30pm.\nConcept demo by TaleTellers Ltd with sample data: confirm wit
+ h the lodge secretary before travelling.
+URL:https://thescar4295.github.io/pgl-linlithgowshire-demo/409/
+STATUS:CONFIRMED
+CATEGORIES:regular
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1186-20270415@pgl-linlithgowshire-demo
+DTSTAMP:20261030T142030Z
+DTSTART;TZID=Europe/London:20270415T193000
+DTEND;TZID=Europe/London:20270415T220000
+SUMMARY:Regular meeting\, St John Stoneyburn No. 1186
+LOCATION:Masonic Hall\, 77 Main Street\, Stoneyburn EH47 8BY
+DESCRIPTION:Regular meeting. St John Stoneyburn No. 1186.\nTime is the lodg
+ e’s usual meeting time (7.30pm).\nMeets 1st and 3rd Thursday\, September
+  to April\, 7.30pm.\nConcept demo by TaleTellers Ltd with sample data: con
+ firm with the lodge secretary before travelling.
+URL:https://thescar4295.github.io/pgl-linlithgowshire-demo/1186/
+STATUS:CONFIRMED
+CATEGORIES:regular
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1305-20270416@pgl-linlithgowshire-demo
+DTSTAMP:20261030T142030Z
+DTSTART;TZID=Europe/London:20270416T190000
+DTEND;TZID=Europe/London:20270416T213000
+SUMMARY:Regular meeting\, Pioneer (Reponed) No. 1305
+LOCATION:Masonic Hall\, 3 Nellburn Road\, Deans\, Livingston EH54 8QU
+DESCRIPTION:Regular meeting. Pioneer (Reponed) No. 1305.\nTime is the lodge
+ ’s usual meeting time (7pm).\nMeets 3rd Friday\, February\, April\, Sept
+ ember and November\, 7pm.\nConcept demo by TaleTellers Ltd with sample dat
+ a: confirm with the lodge secretary before travelling.
+URL:https://thescar4295.github.io/pgl-linlithgowshire-demo/1305/
+STATUS:CONFIRMED
+CATEGORIES:regular
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1614-20270416@pgl-linlithgowshire-demo
+DTSTAMP:20261030T142030Z
+DTSTART;TZID=Europe/London:20270416T193000
+DTEND;TZID=Europe/London:20270416T220000
+SUMMARY:Regular meeting\, Kirkton Hall No. 1614
+LOCATION:Masonic Hall\, Kidd Street\, Blackburn
+DESCRIPTION:Regular meeting. Kirkton Hall No. 1614.\nTime is the lodge’s 
+ usual meeting time (7.30pm).\nMeets 3rd Friday\, September to April\, 7.30
+ pm.\nConcept demo by TaleTellers Ltd with sample data: confirm with the lo
+ dge secretary before travelling.
+URL:https://thescar4295.github.io/pgl-linlithgowshire-demo/1614/
+STATUS:CONFIRMED
+CATEGORIES:regular
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:m-927-20270419@pgl-linlithgowshire-demo
+DTSTAMP:20261030T142030Z
+DTSTART;TZID=Europe/London:20270419T193000
+DTEND;TZID=Europe/London:20270419T220000
+SUMMARY:Regular meeting\, Polkemmet No. 927
+LOCATION:Masonic Hall\, 7a East Main Street\, Whitburn EH47 0RA
+DESCRIPTION:Regular meeting. Polkemmet No. 927.\nTime is the lodge’s usua
+ l meeting time (7.30pm).\nMeets 1st and 3rd Monday\, September to April\, 
+ 7.30pm.\nConcept demo by TaleTellers Ltd with sample data: confirm with th
+ e lodge secretary before travelling.
+URL:https://thescar4295.github.io/pgl-linlithgowshire-demo/927/
+STATUS:CONFIRMED
+CATEGORIES:regular
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:m-272-20270420@pgl-linlithgowshire-demo
+DTSTAMP:20261030T142030Z
+DTSTART;TZID=Europe/London:20270420T190000
+DTEND;TZID=Europe/London:20270420T213000
+SUMMARY:Regular meeting\, St John Mid Calder No. 272
+LOCATION:Masonic Hall\, Bank Street\, Mid Calder EH53 0AR
+DESCRIPTION:Regular meeting. St John Mid Calder No. 272.\nTime is the lodge
+ ’s usual meeting time (7pm).\nMeets 1st and 3rd Tuesday\, September to A
+ pril\, 7pm.\nConcept demo by TaleTellers Ltd with sample data: confirm wit
+ h the lodge secretary before travelling.
+URL:https://thescar4295.github.io/pgl-linlithgowshire-demo/272/
+STATUS:CONFIRMED
+CATEGORIES:regular
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:m-13-20270420@pgl-linlithgowshire-demo
+DTSTAMP:20261030T142030Z
+DTSTART;TZID=Europe/London:20270420T193000
+DTEND;TZID=Europe/London:20270420T220000
+SUMMARY:Regular meeting\, Torphichen Kilwinning No. 13
+LOCATION:Masonic Hall\, 22 Jarvey Street\, Bathgate EH48 4EZ
+DESCRIPTION:Regular meeting. Torphichen Kilwinning No. 13.\nTime is the lod
+ ge’s usual meeting time (7.30pm).\nMeets 1st and 3rd Tuesday\, September
+  to April\, 7.30pm.\nConcept demo by TaleTellers Ltd with sample data: con
+ firm with the lodge secretary before travelling.
+URL:https://thescar4295.github.io/pgl-linlithgowshire-demo/13/
+STATUS:CONFIRMED
+CATEGORIES:regular
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:m-374-20270422@pgl-linlithgowshire-demo
+DTSTAMP:20261030T142030Z
+DTSTART;TZID=Europe/London:20270422T193000
+DTEND;TZID=Europe/London:20270422T220000
+SUMMARY:Regular meeting\, St John Crofthead No. 374
+LOCATION:Masonic Hall\, 6 Bridge Street\, Fauldhouse EH47 9AY
+DESCRIPTION:Regular meeting. St John Crofthead No. 374.\nTime is the lodge
+ ’s usual meeting time (7.30pm).\nMeets 2nd and 4th Thursday\, September 
+ to April\, 7.30pm.\nConcept demo by TaleTellers Ltd with sample data: conf
+ irm with the lodge secretary before travelling.
+URL:https://thescar4295.github.io/pgl-linlithgowshire-demo/374/
+STATUS:CONFIRMED
+CATEGORIES:regular
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1587-20270423@pgl-linlithgowshire-demo
+DTSTAMP:20261030T142030Z
+DTSTART;TZID=Europe/London:20270423T193000
+DTEND;TZID=Europe/London:20270423T220000
+SUMMARY:Regular meeting\, St Andrew No. 1587
+LOCATION:Masonic Hall\, 3 Nellburn Road\, Deans\, Livingston EH54 8QU
+DESCRIPTION:Regular meeting. St Andrew No. 1587.\nTime is the lodge’s usu
+ al meeting time (7.30pm).\nMeets 2nd and 4th Friday\, August to April\, 7.
+ 30pm.\nConcept demo by TaleTellers Ltd with sample data: confirm with the 
+ lodge secretary before travelling.
+URL:https://thescar4295.github.io/pgl-linlithgowshire-demo/1587/
+STATUS:CONFIRMED
+CATEGORIES:regular
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1601-20270426@pgl-linlithgowshire-demo
+DTSTAMP:20261030T142030Z
+DTSTART;TZID=Europe/London:20270426T190000
+DTEND;TZID=Europe/London:20270426T213000
+SUMMARY:Regular meeting\, Lord Bruce No. 1601
+LOCATION:Masonic Hall\, Kidd Street\, Blackburn
+DESCRIPTION:Regular meeting. Lord Bruce No. 1601.\nTime is the lodge’s us
+ ual meeting time (7pm).\nMeets 4th Monday\, September to April\, 7pm.\nCon
+ cept demo by TaleTellers Ltd with sample data: confirm with the lodge secr
+ etary before travelling.
+URL:https://thescar4295.github.io/pgl-linlithgowshire-demo/1601/
+STATUS:CONFIRMED
+CATEGORIES:regular
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:m-548-20270427@pgl-linlithgowshire-demo
+DTSTAMP:20261030T142030Z
+DTSTART;TZID=Europe/London:20270427T193000
+DTEND;TZID=Europe/London:20270427T220000
+SUMMARY:Regular meeting\, St Margaret No. 548
+LOCATION:Masonic Hall\, 3 Stoneycroft Road\, South Queensferry
+DESCRIPTION:Regular meeting. St Margaret No. 548.\nTime is the lodge’s us
+ ual meeting time (7.30pm).\nMeets 2nd and 4th Tuesday\, September to April
+ \, 7.30pm.\nConcept demo by TaleTellers Ltd with sample data: confirm with
+  the lodge secretary before travelling.
+URL:https://thescar4295.github.io/pgl-linlithgowshire-demo/548/
+STATUS:CONFIRMED
+CATEGORIES:regular
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:m-827-20270428@pgl-linlithgowshire-demo
+DTSTAMP:20261030T142030Z
+DTSTART;TZID=Europe/London:20270428T193000
+DTEND;TZID=Europe/London:20270428T220000
+SUMMARY:Regular meeting\, Hope Bridge Castle No. 827
+LOCATION:Masonic Hall\, 51 South Street\, Armadale EH48 3ET
+DESCRIPTION:Regular meeting. Hope Bridge Castle No. 827.\nTime is the lodge
+ ’s usual meeting time (7.30pm).\nMeets 4th Wednesday\, September to Apri
+ l\, 7.30pm.\nConcept demo by TaleTellers Ltd with sample data: confirm wit
+ h the lodge secretary before travelling.
+URL:https://thescar4295.github.io/pgl-linlithgowshire-demo/827/
+STATUS:CONFIRMED
+CATEGORIES:regular
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:m-590-20270505@pgl-linlithgowshire-demo
+DTSTAMP:20261030T142030Z
+DTSTART;TZID=Europe/London:20270505T190000
+DTEND;TZID=Europe/London:20270505T213000
+SUMMARY:Regular meeting\, St James Harthill No. 590
+LOCATION:30 Social Club\, Off West Main Street\, Harthill
+DESCRIPTION:Regular meeting. St James Harthill No. 590.\nTime is the lodge
+ ’s usual meeting time (7pm).\nMeets 1st Wednesday\, September to May\, 7
+ pm.\nConcept demo by TaleTellers Ltd with sample data: confirm with the lo
+ dge secretary before travelling.
+URL:https://thescar4295.github.io/pgl-linlithgowshire-demo/590/
+STATUS:CONFIRMED
+CATEGORIES:regular
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1658-20270507@pgl-linlithgowshire-demo
+DTSTAMP:20261030T142030Z
+DTSTART;TZID=Europe/London:20270507T193000
+DTEND;TZID=Europe/London:20270507T220000
+SUMMARY:(To be confirmed) Regular meeting\, Almondale No. 1658
+LOCATION:Masonic Hall\, Craigshill Road West\, Livingston
+DESCRIPTION:Regular meeting. Almondale No. 1658.\nTime is the lodge’s usu
+ al meeting time (7.30pm).\nMeets 1st Friday\, every month\, 7.30pm.\nSeaso
+ n to be confirmed: the lodge page reads as all year (April to March)\, so 
+ the summer meetings may not happen.\nConcept demo by TaleTellers Ltd with 
+ sample data: confirm with the lodge secretary before travelling.
+URL:https://thescar4295.github.io/pgl-linlithgowshire-demo/1658/
+STATUS:TENTATIVE
+CATEGORIES:regular
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1658-20270604@pgl-linlithgowshire-demo
+DTSTAMP:20261030T142030Z
+DTSTART;TZID=Europe/London:20270604T193000
+DTEND;TZID=Europe/London:20270604T220000
+SUMMARY:(To be confirmed) Regular meeting\, Almondale No. 1658
+LOCATION:Masonic Hall\, Craigshill Road West\, Livingston
+DESCRIPTION:Regular meeting. Almondale No. 1658.\nTime is the lodge’s usu
+ al meeting time (7.30pm).\nMeets 1st Friday\, every month\, 7.30pm.\nSeaso
+ n to be confirmed: the lodge page reads as all year (April to March)\, so 
+ the summer meetings may not happen.\nConcept demo by TaleTellers Ltd with 
+ sample data: confirm with the lodge secretary before travelling.
+URL:https://thescar4295.github.io/pgl-linlithgowshire-demo/1658/
+STATUS:TENTATIVE
+CATEGORIES:regular
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1658-20270702@pgl-linlithgowshire-demo
+DTSTAMP:20261030T142030Z
+DTSTART;TZID=Europe/London:20270702T193000
+DTEND;TZID=Europe/London:20270702T220000
+SUMMARY:(To be confirmed) Regular meeting\, Almondale No. 1658
+LOCATION:Masonic Hall\, Craigshill Road West\, Livingston
+DESCRIPTION:Regular meeting. Almondale No. 1658.\nTime is the lodge’s usu
+ al meeting time (7.30pm).\nMeets 1st Friday\, every month\, 7.30pm.\nSeaso
+ n to be confirmed: the lodge page reads as all year (April to March)\, so 
+ the summer meetings may not happen.\nConcept demo by TaleTellers Ltd with 
+ sample data: confirm with the lodge secretary before travelling.
+URL:https://thescar4295.github.io/pgl-linlithgowshire-demo/1658/
+STATUS:TENTATIVE
+CATEGORIES:regular
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1658-20270806@pgl-linlithgowshire-demo
+DTSTAMP:20261030T142030Z
+DTSTART;TZID=Europe/London:20270806T193000
+DTEND;TZID=Europe/London:20270806T220000
+SUMMARY:(To be confirmed) Regular meeting\, Almondale No. 1658
+LOCATION:Masonic Hall\, Craigshill Road West\, Livingston
+DESCRIPTION:Regular meeting. Almondale No. 1658.\nTime is the lodge’s usu
+ al meeting time (7.30pm).\nMeets 1st Friday\, every month\, 7.30pm.\nSeaso
+ n to be confirmed: the lodge page reads as all year (April to March)\, so 
+ the summer meetings may not happen.\nConcept demo by TaleTellers Ltd with 
+ sample data: confirm with the lodge secretary before travelling.
+URL:https://thescar4295.github.io/pgl-linlithgowshire-demo/1658/
+STATUS:TENTATIVE
+CATEGORIES:regular
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1587-20270813@pgl-linlithgowshire-demo
+DTSTAMP:20261030T142030Z
+DTSTART;TZID=Europe/London:20270813T193000
+DTEND;TZID=Europe/London:20270813T220000
+SUMMARY:Regular meeting\, St Andrew No. 1587
+LOCATION:Masonic Hall\, 3 Nellburn Road\, Deans\, Livingston EH54 8QU
+DESCRIPTION:Regular meeting. St Andrew No. 1587.\nTime is the lodge’s usu
+ al meeting time (7.30pm).\nMeets 2nd and 4th Friday\, August to April\, 7.
+ 30pm.\nConcept demo by TaleTellers Ltd with sample data: confirm with the 
+ lodge secretary before travelling.
+URL:https://thescar4295.github.io/pgl-linlithgowshire-demo/1587/
+STATUS:CONFIRMED
+CATEGORIES:regular
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1587-20270827@pgl-linlithgowshire-demo
+DTSTAMP:20261030T142030Z
+DTSTART;TZID=Europe/London:20270827T193000
+DTEND;TZID=Europe/London:20270827T220000
+SUMMARY:Regular meeting\, St Andrew No. 1587
+LOCATION:Masonic Hall\, 3 Nellburn Road\, Deans\, Livingston EH54 8QU
+DESCRIPTION:Regular meeting. St Andrew No. 1587.\nTime is the lodge’s usu
+ al meeting time (7.30pm).\nMeets 2nd and 4th Friday\, August to April\, 7.
+ 30pm.\nConcept demo by TaleTellers Ltd with sample data: confirm with the 
+ lodge secretary before travelling.
+URL:https://thescar4295.github.io/pgl-linlithgowshire-demo/1587/
+STATUS:CONFIRMED
+CATEGORIES:regular
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR

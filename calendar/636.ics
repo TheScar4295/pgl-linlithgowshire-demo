@@ -1,0 +1,318 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//TaleTellers Ltd//PGL Linlithgowshire concept demo//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Buchan St John No. 636 (demo)
+X-WR-TIMEZONE:Europe/London
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+X-WR-CALDESC:Concept demo by TaleTellers Ltd with sample data. Not the offi
+ cial calendar of the Provincial Grand Lodge of Linlithgowshire.
+BEGIN:VTIMEZONE
+TZID:Europe/London
+X-LIC-LOCATION:Europe/London
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:BST
+DTSTART:19700329T010000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:GMT
+DTSTART:19701025T020000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:m-636-20260903@pgl-linlithgowshire-demo
+DTSTAMP:20261030T142030Z
+DTSTART;TZID=Europe/London:20260903T190000
+DTEND;TZID=Europe/London:20260903T213000
+SUMMARY:Regular meeting\, Buchan St John No. 636
+LOCATION:Broxburn Bowling Club\, West Burnside\, Broxburn EH52 5RG
+DESCRIPTION:Regular meeting. Buchan St John No. 636.\nTime is the lodge’s
+  usual meeting time (7pm).\nMeets 1st and 3rd Thursday\, September to Apri
+ l\, 7pm.\nConcept demo by TaleTellers Ltd with sample data: confirm with t
+ he lodge secretary before travelling.
+URL:https://thescar4295.github.io/pgl-linlithgowshire-demo/636/
+STATUS:CONFIRMED
+CATEGORIES:regular
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:m-636-20260917@pgl-linlithgowshire-demo
+DTSTAMP:20261030T142030Z
+DTSTART;TZID=Europe/London:20260917T190000
+DTEND;TZID=Europe/London:20260917T213000
+SUMMARY:Regular meeting\, Buchan St John No. 636
+LOCATION:Broxburn Bowling Club\, West Burnside\, Broxburn EH52 5RG
+DESCRIPTION:Regular meeting. Buchan St John No. 636.\nTime is the lodge’s
+  usual meeting time (7pm).\nMeets 1st and 3rd Thursday\, September to Apri
+ l\, 7pm.\nConcept demo by TaleTellers Ltd with sample data: confirm with t
+ he lodge secretary before travelling.
+URL:https://thescar4295.github.io/pgl-linlithgowshire-demo/636/
+STATUS:CONFIRMED
+CATEGORIES:regular
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:m-636-20261001@pgl-linlithgowshire-demo
+DTSTAMP:20261030T142030Z
+DTSTART;TZID=Europe/London:20261001T190000
+DTEND;TZID=Europe/London:20261001T213000
+SUMMARY:Regular meeting\, Buchan St John No. 636
+LOCATION:Broxburn Bowling Club\, West Burnside\, Broxburn EH52 5RG
+DESCRIPTION:Regular meeting. Buchan St John No. 636.\nTime is the lodge’s
+  usual meeting time (7pm).\nMeets 1st and 3rd Thursday\, September to Apri
+ l\, 7pm.\nConcept demo by TaleTellers Ltd with sample data: confirm with t
+ he lodge secretary before travelling.
+URL:https://thescar4295.github.io/pgl-linlithgowshire-demo/636/
+STATUS:CONFIRMED
+CATEGORIES:regular
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:m-636-20261015@pgl-linlithgowshire-demo
+DTSTAMP:20261030T142030Z
+DTSTART;TZID=Europe/London:20261015T190000
+DTEND;TZID=Europe/London:20261015T213000
+SUMMARY:Regular meeting\, Buchan St John No. 636
+LOCATION:Broxburn Bowling Club\, West Burnside\, Broxburn EH52 5RG
+DESCRIPTION:Regular meeting. Buchan St John No. 636.\nTime is the lodge’s
+  usual meeting time (7pm).\nMeets 1st and 3rd Thursday\, September to Apri
+ l\, 7pm.\nConcept demo by TaleTellers Ltd with sample data: confirm with t
+ he lodge secretary before travelling.
+URL:https://thescar4295.github.io/pgl-linlithgowshire-demo/636/
+STATUS:CONFIRMED
+CATEGORIES:regular
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:e002@pgl-linlithgowshire-demo
+DTSTAMP:20261030T142030Z
+DTSTART;VALUE=DATE:20261029
+DTEND;VALUE=DATE:20261030
+SUMMARY:(To be confirmed) Fellow Craft degree\, worked jointly\, Buchan St 
+ John No. 636
+LOCATION:Broxburn Bowling Club\, West Burnside\, Broxburn EH52 5RG
+DESCRIPTION:Degree. Buchan St John No. 636.\nWith St John Stoneyburn No. 11
+ 86\nTime to be confirmed.\nThe calendar entry mentions a three-way arrange
+ ment but names only two lodges. To be confirmed.\nConcept demo by TaleTell
+ ers Ltd with sample data: confirm with the lodge secretary before travelli
+ ng.
+URL:https://thescar4295.github.io/pgl-linlithgowshire-demo/636/
+STATUS:TENTATIVE
+CATEGORIES:degree
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:m-636-20261105@pgl-linlithgowshire-demo
+DTSTAMP:20261030T142030Z
+DTSTART;TZID=Europe/London:20261105T190000
+DTEND;TZID=Europe/London:20261105T213000
+SUMMARY:Fellow Craft degree\, with a remembrance service\, Buchan St John N
+ o. 636
+LOCATION:Broxburn Bowling Club\, West Burnside\, Broxburn EH52 5RG
+DESCRIPTION:Degree. Buchan St John No. 636.\nTime is the lodge’s usual me
+ eting time (7pm).\nConcept demo by TaleTellers Ltd with sample data: confi
+ rm with the lodge secretary before travelling.
+URL:https://thescar4295.github.io/pgl-linlithgowshire-demo/636/
+STATUS:CONFIRMED
+CATEGORIES:degree
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:i-636-20261107@pgl-linlithgowshire-demo
+DTSTAMP:20261030T142030Z
+DTSTART;TZID=Europe/London:20261107T140000
+DTEND;TZID=Europe/London:20261107T180000
+SUMMARY:Installation of office-bearers\, Buchan St John No. 636
+LOCATION:Broxburn Bowling Club\, West Burnside\, Broxburn EH52 5RG
+DESCRIPTION:Installation. Buchan St John No. 636.\nConcept demo by TaleTell
+ ers Ltd with sample data: confirm with the lodge secretary before travelli
+ ng.
+URL:https://thescar4295.github.io/pgl-linlithgowshire-demo/636/
+STATUS:CONFIRMED
+CATEGORIES:installation
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:m-636-20261119@pgl-linlithgowshire-demo
+DTSTAMP:20261030T142030Z
+DTSTART;TZID=Europe/London:20261119T190000
+DTEND;TZID=Europe/London:20261119T213000
+SUMMARY:Fellow Craft degree\, Buchan St John No. 636
+LOCATION:Broxburn Bowling Club\, West Burnside\, Broxburn EH52 5RG
+DESCRIPTION:Degree. Buchan St John No. 636.\nTime is the lodge’s usual me
+ eting time (7pm).\nConcept demo by TaleTellers Ltd with sample data: confi
+ rm with the lodge secretary before travelling.
+URL:https://thescar4295.github.io/pgl-linlithgowshire-demo/636/
+STATUS:CONFIRMED
+CATEGORIES:degree
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:m-636-20261203@pgl-linlithgowshire-demo
+DTSTAMP:20261030T142030Z
+DTSTART;TZID=Europe/London:20261203T190000
+DTEND;TZID=Europe/London:20261203T213000
+SUMMARY:Regular meeting\, Buchan St John No. 636
+LOCATION:Broxburn Bowling Club\, West Burnside\, Broxburn EH52 5RG
+DESCRIPTION:Regular meeting. Buchan St John No. 636.\nTime is the lodge’s
+  usual meeting time (7pm).\nMeets 1st and 3rd Thursday\, September to Apri
+ l\, 7pm.\nConcept demo by TaleTellers Ltd with sample data: confirm with t
+ he lodge secretary before travelling.
+URL:https://thescar4295.github.io/pgl-linlithgowshire-demo/636/
+STATUS:CONFIRMED
+CATEGORIES:regular
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:m-636-20261217@pgl-linlithgowshire-demo
+DTSTAMP:20261030T142030Z
+DTSTART;TZID=Europe/London:20261217T190000
+DTEND;TZID=Europe/London:20261217T213000
+SUMMARY:Regular meeting\, Buchan St John No. 636
+LOCATION:Broxburn Bowling Club\, West Burnside\, Broxburn EH52 5RG
+DESCRIPTION:Regular meeting. Buchan St John No. 636.\nTime is the lodge’s
+  usual meeting time (7pm).\nMeets 1st and 3rd Thursday\, September to Apri
+ l\, 7pm.\nConcept demo by TaleTellers Ltd with sample data: confirm with t
+ he lodge secretary before travelling.
+URL:https://thescar4295.github.io/pgl-linlithgowshire-demo/636/
+STATUS:CONFIRMED
+CATEGORIES:regular
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:m-636-20270107@pgl-linlithgowshire-demo
+DTSTAMP:20261030T142030Z
+DTSTART;TZID=Europe/London:20270107T190000
+DTEND;TZID=Europe/London:20270107T213000
+SUMMARY:Regular meeting\, Buchan St John No. 636
+LOCATION:Broxburn Bowling Club\, West Burnside\, Broxburn EH52 5RG
+DESCRIPTION:Regular meeting. Buchan St John No. 636.\nTime is the lodge’s
+  usual meeting time (7pm).\nMeets 1st and 3rd Thursday\, September to Apri
+ l\, 7pm.\nConcept demo by TaleTellers Ltd with sample data: confirm with t
+ he lodge secretary before travelling.
+URL:https://thescar4295.github.io/pgl-linlithgowshire-demo/636/
+STATUS:CONFIRMED
+CATEGORIES:regular
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:m-636-20270121@pgl-linlithgowshire-demo
+DTSTAMP:20261030T142030Z
+DTSTART;TZID=Europe/London:20270121T190000
+DTEND;TZID=Europe/London:20270121T213000
+SUMMARY:Regular meeting\, Buchan St John No. 636
+LOCATION:Broxburn Bowling Club\, West Burnside\, Broxburn EH52 5RG
+DESCRIPTION:Regular meeting. Buchan St John No. 636.\nTime is the lodge’s
+  usual meeting time (7pm).\nMeets 1st and 3rd Thursday\, September to Apri
+ l\, 7pm.\nConcept demo by TaleTellers Ltd with sample data: confirm with t
+ he lodge secretary before travelling.
+URL:https://thescar4295.github.io/pgl-linlithgowshire-demo/636/
+STATUS:CONFIRMED
+CATEGORIES:regular
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:m-636-20270204@pgl-linlithgowshire-demo
+DTSTAMP:20261030T142030Z
+DTSTART;TZID=Europe/London:20270204T190000
+DTEND;TZID=Europe/London:20270204T213000
+SUMMARY:Regular meeting\, Buchan St John No. 636
+LOCATION:Broxburn Bowling Club\, West Burnside\, Broxburn EH52 5RG
+DESCRIPTION:Regular meeting. Buchan St John No. 636.\nTime is the lodge’s
+  usual meeting time (7pm).\nMeets 1st and 3rd Thursday\, September to Apri
+ l\, 7pm.\nConcept demo by TaleTellers Ltd with sample data: confirm with t
+ he lodge secretary before travelling.
+URL:https://thescar4295.github.io/pgl-linlithgowshire-demo/636/
+STATUS:CONFIRMED
+CATEGORIES:regular
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:m-636-20270218@pgl-linlithgowshire-demo
+DTSTAMP:20261030T142030Z
+DTSTART;TZID=Europe/London:20270218T190000
+DTEND;TZID=Europe/London:20270218T213000
+SUMMARY:Regular meeting\, Buchan St John No. 636
+LOCATION:Broxburn Bowling Club\, West Burnside\, Broxburn EH52 5RG
+DESCRIPTION:Regular meeting. Buchan St John No. 636.\nTime is the lodge’s
+  usual meeting time (7pm).\nMeets 1st and 3rd Thursday\, September to Apri
+ l\, 7pm.\nConcept demo by TaleTellers Ltd with sample data: confirm with t
+ he lodge secretary before travelling.
+URL:https://thescar4295.github.io/pgl-linlithgowshire-demo/636/
+STATUS:CONFIRMED
+CATEGORIES:regular
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:m-636-20270304@pgl-linlithgowshire-demo
+DTSTAMP:20261030T142030Z
+DTSTART;TZID=Europe/London:20270304T190000
+DTEND;TZID=Europe/London:20270304T213000
+SUMMARY:Regular meeting\, Buchan St John No. 636
+LOCATION:Broxburn Bowling Club\, West Burnside\, Broxburn EH52 5RG
+DESCRIPTION:Regular meeting. Buchan St John No. 636.\nTime is the lodge’s
+  usual meeting time (7pm).\nMeets 1st and 3rd Thursday\, September to Apri
+ l\, 7pm.\nConcept demo by TaleTellers Ltd with sample data: confirm with t
+ he lodge secretary before travelling.
+URL:https://thescar4295.github.io/pgl-linlithgowshire-demo/636/
+STATUS:CONFIRMED
+CATEGORIES:regular
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:m-636-20270318@pgl-linlithgowshire-demo
+DTSTAMP:20261030T142030Z
+DTSTART;TZID=Europe/London:20270318T190000
+DTEND;TZID=Europe/London:20270318T213000
+SUMMARY:Regular meeting\, Buchan St John No. 636
+LOCATION:Broxburn Bowling Club\, West Burnside\, Broxburn EH52 5RG
+DESCRIPTION:Regular meeting. Buchan St John No. 636.\nTime is the lodge’s
+  usual meeting time (7pm).\nMeets 1st and 3rd Thursday\, September to Apri
+ l\, 7pm.\nConcept demo by TaleTellers Ltd with sample data: confirm with t
+ he lodge secretary before travelling.
+URL:https://thescar4295.github.io/pgl-linlithgowshire-demo/636/
+STATUS:CONFIRMED
+CATEGORIES:regular
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:m-636-20270401@pgl-linlithgowshire-demo
+DTSTAMP:20261030T142030Z
+DTSTART;TZID=Europe/London:20270401T190000
+DTEND;TZID=Europe/London:20270401T213000
+SUMMARY:Regular meeting\, Buchan St John No. 636
+LOCATION:Broxburn Bowling Club\, West Burnside\, Broxburn EH52 5RG
+DESCRIPTION:Regular meeting. Buchan St John No. 636.\nTime is the lodge’s
+  usual meeting time (7pm).\nMeets 1st and 3rd Thursday\, September to Apri
+ l\, 7pm.\nConcept demo by TaleTellers Ltd with sample data: confirm with t
+ he lodge secretary before travelling.
+URL:https://thescar4295.github.io/pgl-linlithgowshire-demo/636/
+STATUS:CONFIRMED
+CATEGORIES:regular
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:m-636-20270415@pgl-linlithgowshire-demo
+DTSTAMP:20261030T142030Z
+DTSTART;TZID=Europe/London:20270415T190000
+DTEND;TZID=Europe/London:20270415T213000
+SUMMARY:Regular meeting\, Buchan St John No. 636
+LOCATION:Broxburn Bowling Club\, West Burnside\, Broxburn EH52 5RG
+DESCRIPTION:Regular meeting. Buchan St John No. 636.\nTime is the lodge’s
+  usual meeting time (7pm).\nMeets 1st and 3rd Thursday\, September to Apri
+ l\, 7pm.\nConcept demo by TaleTellers Ltd with sample data: confirm with t
+ he lodge secretary before travelling.
+URL:https://thescar4295.github.io/pgl-linlithgowshire-demo/636/
+STATUS:CONFIRMED
+CATEGORIES:regular
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR

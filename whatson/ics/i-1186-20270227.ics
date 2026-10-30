@@ -1,0 +1,45 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//TaleTellers Ltd//PGL Linlithgowshire concept demo//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Installation of office-bearers
+X-WR-TIMEZONE:Europe/London
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+X-WR-CALDESC:Concept demo by TaleTellers Ltd with sample data. Not the offi
+ cial calendar of the Provincial Grand Lodge of Linlithgowshire.
+BEGIN:VTIMEZONE
+TZID:Europe/London
+X-LIC-LOCATION:Europe/London
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:BST
+DTSTART:19700329T010000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:GMT
+DTSTART:19701025T020000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:i-1186-20270227@pgl-linlithgowshire-demo
+DTSTAMP:20261030T142030Z
+DTSTART;TZID=Europe/London:20270227T140000
+DTEND;TZID=Europe/London:20270227T180000
+SUMMARY:Installation of office-bearers\, St John Stoneyburn No. 1186
+LOCATION:Masonic Hall\, 77 Main Street\, Stoneyburn EH47 8BY
+DESCRIPTION:Installation. St John Stoneyburn No. 1186.\nConcept demo by Tal
+ eTellers Ltd with sample data: confirm with the lodge secretary before tra
+ velling.
+URL:https://thescar4295.github.io/pgl-linlithgowshire-demo/1186/
+STATUS:CONFIRMED
+CATEGORIES:installation
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR
